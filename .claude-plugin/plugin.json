@@ -1,0 +1,22 @@
+{
+  "name": "storycraft",
+  "version": "1.0.0",
+  "description": "Story design and writing system for Claude: cause-and-effect plotting, characters with real stakes, mysteries with fair clues, suspense, reveals, emotionally powerful (including sad) stories, and diagnosis of flat drafts, for novels, short stories, screenplays, short videos and games.",
+  "author": {
+    "name": "Murisixz",
+    "url": "https://github.com/Murisixz"
+  },
+  "license": "MIT",
+  "keywords": [
+    "storytelling",
+    "fiction",
+    "screenwriting",
+    "plot",
+    "mystery",
+    "suspense",
+    "character",
+    "writing"
+  ],
+  "homepage": "https://github.com/Murisixz/storycraft",
+  "repository": "https://github.com/Murisixz/storycraft"
+}

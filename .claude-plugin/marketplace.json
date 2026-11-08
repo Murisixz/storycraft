@@ -1,0 +1,15 @@
+{
+  "name": "storycraft-marketplace",
+  "owner": {
+    "name": "Murisixz",
+    "url": "https://github.com/Murisixz"
+  },
+  "description": "Storycraft: a storytelling skill for Claude (plot, mystery, suspense, emotionally powerful stories in any form).",
+  "plugins": [
+    {
+      "name": "storycraft",
+      "source": "./",
+      "description": "Story design and writing system: plots with real cause and effect, mysteries, suspense, reveals and emotionally powerful stories in any form."
+    }
+  ]
+}

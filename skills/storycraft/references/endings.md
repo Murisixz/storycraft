@@ -1,0 +1,160 @@
+# Endings: crisis, climax, resolution, final image
+
+Audiences forgive almost anything at the beginning and almost nothing at the end (Robert Towne, quoted by Howard &
+Mabley). Design the ending first; everything else is built to make it feel inevitable and unexpected.
+
+## Contents
+1. Why the ending comes first
+2. The macro-shape: main tension → culmination → new tension → resolution
+3. The crisis: the decision that defines the character
+4. The climax: meaning, not noise
+5. Inevitable and unexpected
+6. Convergence of stakes; bittersweet and tragic endings
+7. Meaning: the controlling idea and the ending's charge
+8. The key image and the last beat
+9. The resolution
+10. Open endings that still satisfy
+11. Ending checklist
+
+---
+
+## 1. Why the ending comes first
+- "Every plot, worth the name, must be elaborated to its dénouement before any thing be attempted with the pen"; only
+  with the dénouement "constantly in view" does a plot gain its "air of consequence, or causation" (Poe, 1846).
+- Starting without knowing the culmination and resolution leads to endless revisions and abandoned drafts (Howard &
+  Mabley): the culmination is the lighthouse, the resolution the safe harbor.
+- Once the climax exists, **rewrite backward**: supply the causes, plant what it needs, and justify every scene in its
+  light; cut scenes that could go without weakening it (McKee).
+- **Unity test:** "Because of [the inciting incident], [the climax] had to happen" must read as logical (McKee). If it
+  doesn't, either the beginning or the end is wrong.
+
+## 2. The macro-shape
+Howard & Mabley's model avoids the "one big climax" trap:
+1. **Main tension** — the dominant question of the long middle, specific and near-term (e.g., "Will the detective find
+   out who set him up?"), not the ultimate question.
+2. **Culmination** — the event that answers the main tension. It changes the character's knowledge, feelings or
+   intentions, and so creates a **new tension** for the final stretch ("What will happen now that he knows?").
+3. **Resolution** — the point where the will to struggle disappears (won, lost, or given up) and a fluid situation
+   becomes stable.
+McKee's five-part version: inciting incident → progressive complications → **crisis** (the decision) → **climax** (the
+decisive action and irreversible change) → **resolution**. Use whichever vocabulary fits the user; the logic is the same.
+
+## 3. The crisis: the decision that defines the character
+- Crisis = the final decision. The protagonist has exhausted every other route; "No tomorrow. No second chance"
+  (McKee). It is the point of greatest tension and the story's **obligatory scene**: the face-to-face with the most
+  focused force of antagonism that the audience has anticipated since the inciting incident.
+- Make it a **true dilemma**: a choice between irreconcilable goods, between two evils, or both, under maximum pressure.
+  The choice reveals the deepest character and brings the story's central value to the surface.
+- **Stage it as a static, delayed moment.** Never skip it or put it offscreen. Let the audience suffer the dilemma with
+  the character (Thelma & Louise hesitating over "go"; a hunter pausing with the elk in his sights).
+- **Placement:** usually crisis and climax are together at the end; or the crisis decision turns the penultimate act
+  and the last act is extended climactic action (Casablanca); rarely the decision comes right after the inciting
+  incident and the whole story becomes its consequence (risk: repetition).
+- If crisis and climax happen in different places, **cut directly from one to the other**; cutting away to a subplot
+  drains the built-up energy.
+- Howard & Mabley's development logic leads here naturally: people try the easiest solutions first (deny, ask an
+  authority, reason, avoid), and as each fails, the options narrow to an **either/or**. The last remaining option should
+  be the one the character most dreaded.
+
+## 4. The climax: meaning, not noise
+- The climax is a reversal full of **meaning**: an absolute, irreversible swing in the story's central value
+  (McKee: "Meaning Produces Emotion"). It may be enormous (a battle) or tiny (a woman packs a suitcase and walks out).
+- The climactic action must be clear and self-evident; if it needs dialogue or narration to explain it, it isn't
+  finished.
+- **Turn the climax once more:** as the character takes the final action, let expectation and result split one last
+  time. A climax built around a turning point is the most satisfying (a fight that becomes a revelation that becomes a
+  new choice).
+- **Resolve subplots inside the main climax** when possible (one act settles everything); otherwise resolve the least
+  important subplots earlier, building to the central plot.
+- **No rescue from outside.** The ending must grow from the story's own fabric: no sudden inheritance, no convenient
+  heart attack, no storm that saves the day, no coincidence (McKee: never turn an ending with coincidence; Howard &
+  Mabley: no deus ex machina). The protagonist's choices decide the outcome.
+
+## 5. Inevitable and unexpected
+- At the start everything seems possible; at the end, looking back, the path should seem the only one, yet it happened
+  in a way no one predicted (McKee, after Aristotle). Aristotle's formula: events that surprise us yet follow from one
+  another as cause and effect.
+- Give the audience **what it wants, but not the way it expects** (William Goldman, via McKee). What it wants is the
+  emotional experience you've promised (up, down, or ironic), not necessarily a happy ending.
+- The ending pays off the **emotional promise** set by the telling. Don't promise a tragedy and deliver a rescue, or
+  promise a love story and deliver indifference.
+- The resolution should answer the **dramatic question** and the **thematic argument**. The hero who began acting on
+  the "anti-theme" ends acting on the theme, or tragically fails to (Mazin: theme is the central dramatic argument;
+  the denouement shows the new synthesis).
+
+## 6. Convergence of stakes; bittersweet and tragic endings
+- Strong endings resolve **external, internal and philosophical** stakes in one movement (a framework attributed to
+  Michael Arndt's "Endings" lecture, known here through secondary summaries). A character may lose externally and win
+  internally or philosophically, which is the anatomy of a bittersweet ending.
+- **Six ironic endings** (McKee's ironic patterns, useful for heartbreak): gets what they wanted, too late; is pushed
+  away from the goal only to find it led there; throws away what they later learn was essential; takes exactly the
+  steps that lead away; the act meant to destroy something destroys them; tries to get rid of what turns out to be
+  their happiness.
+- **Tragic recognition:** the most powerful tragic moment is a recognition that coincides with a reversal: the
+  character understands, too late or just in time, what was true all along.
+- **Satisfying is not the same as happy** (Howard & Mabley on *One Flew Over the Cuckoo's Nest*): a tragic ending
+  satisfies when it completes the story and carries a hint of upturn (the Chief's escape: lost in the flesh, won in
+  the spirit). A relentlessly downbeat ending, with no meaning salvaged, tends to fail.
+- **Earned sadness:** a sad ending lands when the loss is of something the audience has watched the character love,
+  and when it reveals what that love or choice meant. Arbitrary death is shock, not tragedy (see emotion.md).
+- **Ironic endings** (positive and negative at once) are often the most truthful and memorable: Ordinary People's
+  painful but necessary departure; a hero who saves others and loses himself.
+
+## 7. Meaning: the controlling idea and the ending's charge
+- **Controlling idea** (McKee): one sentence describing how and why life changes from the opening condition to the
+  ending one, made of **value + cause**: "Justice is restored because the protagonist is more clever than the
+  criminal." A theme is a sentence, not a word ("grief" is a subject; "grief releases its hold when we forgive
+  ourselves" is a meaning).
+- **Derive it from the climax** rather than imposing it: what value does the final action bring into the protagonist's
+  world, with what charge, and what dominant cause brought it? The story tells you its meaning (McKee).
+- **Use the cause clause as a filter:** scenes that contradict it don't belong. A clever-detective story and a
+  violent-detective story can share a value and still need opposite scenes (McKee's Columbo vs Dirty Harry).
+- **Argue both sides:** build progressions as a dialectic between the idea and its counter-idea, swinging wider each
+  time until they meet head-on at the crisis. Give the losing side its full force; a slanted argument becomes preaching
+  (McKee). Truby (via Fraim's outline) similarly gives the opponent a strong but wrong justification.
+- **Choose the ending's charge deliberately** (McKee):
+  - **idealist** (positive): life as we wish it;
+  - **pessimist** (negative): life as we fear it;
+  - **ironic** (positive and negative at once): one action that says two clear things, each honestly motivated and kept
+    distinct. Irony is not ambiguity or a blur.
+- **Positive irony:** winning by losing, a renunciation that feels like victory (the classic bittersweet ending).
+  **Negative irony:** the obsessive gets exactly what they wanted and it destroys them.
+- **Dramatize the meaning; never explain it** in a closing speech or narration (McKee). In prose, authorial reflection
+  is a legitimate tool, but it should deepen what the action already proved, not replace it.
+
+## 8. The key image and the last beat
+- Truffaut's "Spectacle and Truth": aim for a **key image** in the climax that concentrates the story's meaning and
+  emotion so that remembering it brings back the whole film (McKee): gold dust blowing back into the mountains; a man
+  tearing apart his apartment looking for a bug.
+- In short forms the last image often recontextualizes the first (a loop for short video; a callback in a short story).
+- Pay off a planted object at the end with a **new meaning** (Howard & Mabley's palm tree in *Mister Roberts*).
+
+## 9. The resolution
+- After the climax, give a brief resolution: to settle a subplot that couldn't fit (ideally reviving the main tension
+  for a moment so it doesn't sag), to show how the climax spreads to other lives, or simply as a "slow curtain" so the
+  audience can breathe (McKee).
+- The resolution is where the theme is read: the same material ends happily in one story and bittersweetly in another,
+  and that choice is the author's point of view (Howard & Mabley).
+- Keep it short; the audience is done hoping and fearing.
+
+## 10. Open endings that still satisfy
+- An open ending leaves one or two questions unanswered, but the **emotional** question must be answered (McKee's open
+  endings in miniplot still climax a change). The alternatives left open should be clear and limited: two or three
+  readings the story supports, not anything at all (McKee).
+- The open question must be **answerable from the material**: the author knows the answer; the clues support more than
+  one reading; the debate is about evidence, not a void. This is what makes viewers theorize rather than shrug.
+- No viewer should leave "rewriting" the ending because an obvious action or scene is missing (McKee: build to a final
+  action beyond which the audience cannot imagine another).
+
+## 11. Ending checklist
+- [ ] Can you state the controlling idea in one sentence (value + cause), and does every major scene serve it?
+- [ ] Is the ending designed before the middle, and does everything point toward it?
+- [ ] Does the unity sentence work ("Because of X, Y had to happen")?
+- [ ] Is there a true dilemma at the crisis, staged on screen and slowed down?
+- [ ] Does the protagonist's choice and action decide the outcome? Is there zero rescue by coincidence or outsiders?
+- [ ] Is the value change absolute and irreversible? Is it clear without explanation?
+- [ ] Is there a turning point inside the climax (a final gap or recognition)?
+- [ ] Are external, internal and philosophical stakes resolved (in harmony or in deliberate irony)?
+- [ ] Does it deliver the promised emotion in an unexpected way?
+- [ ] Is there a key image or a payoff that changes the meaning of a plant?
+- [ ] Is the resolution brief and purposeful? Is any open question answerable from the clues?
