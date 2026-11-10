@@ -1,11 +1,23 @@
 # Worked example: "The 3 A.M. Reading" (Architect mode, short film ~14 minutes)
 
 A compact demonstration of the full Architect workflow on an original story. Use it to calibrate depth and format,
-not as a formula: a different story would need different choices.
+not as a formula: a different story would need different choices. Sections 1–7 are the original v1 pass. Section 8
+audits that pass with the v2 checks and shows where it is over-engineered or thin. Read §8 before copying any of its
+habits.
 
 **Brief (as a user might give it):** "A sad, mysterious short film, ~15 minutes, small cast, one location. I want an
 ending that hits hard and makes sense on a second watch."
 **Assumptions stated:** live-action, two main characters, a remote setting that supports isolation and a clock.
+
+## Contents
+1. Story core
+2. Ending first
+3. Hidden story and information plan
+4. Causal spine
+5. Plants, clues, forward pull
+6. Emotional design
+7. Quality gate (excerpt)
+8. Version 2 audit of this pass (annotation; no new story material)
 
 ---
 
@@ -93,3 +105,33 @@ boss.
   coat, rope and clipping are all planted before the reveals ✔. Recognition owed and delivered ✔. Ending:
   inevitable (planted), unexpected (she asks him to come), the key image is a payoff ✔. Form: one location, two
   actors, 12 beats ≈ 14 minutes ✔.
+
+## 8. Version 2 audit of this pass (annotation; no new story material)
+The v1 pass is sound machinery. Run through the v2 gate (SKILL.md), it also shows the habits that made some v1 stories
+feel engineered.
+- **Scope fit: passes.** One location, one night, two people, one secret with one layer underneath: material sized for
+  about 14 minutes (premise.md §7). The same design stretched to a novella would need more lives and more world, not
+  more beats.
+- **Device budget: over.** Five plants (mugs, coat, new rope, circled date, Ari's line) all converge on the climax, and
+  each pays off with a neat meaning. In a short film this is near the limit; in prose it would read as a lattice where
+  every object is a symbol. Keep the two that carry the most (the rope and the mugs) and let the coat and the date be
+  ordinary objects that do no symbolic work (prose.md §6).
+- **Visible machinery.** Ari's planted line ("Data doesn't lie, people do") exists to be reversed. A reversal this
+  exact signals the author's hand. Prefer a belief shown in behaviour (how he handles the logbook) over a slogan
+  (revision.md §11).
+- **Leak audit: deliberate, fine.** The audience sees the circled date and the mugs before Ari does. That is a chosen
+  dramatic-irony strategy for "tonight is the date". The rope secret uses a different strategy (concealment until the
+  door). One strategy per secret holds (information-design.md §10).
+- **Life beyond the plot: thin for Ari.** Tove has competence and a dry joke. Ari has only his job. He needs a care the
+  plot doesn't use: a person he reports to with a voice of his own, a habit, an appetite (character.md §8).
+- **Secret-keeper's side: good.** Tove's ritual, her refusal and her near-telling are all on the page. Her
+  rationalization (why "instrument fault" for 21 years?) is still implicit. Give it one line of her own logic
+  (character.md §10).
+- **Explanation load.** Beat 9 delivers the rope confession as speech at the door. To stage it as a scene, give Ari
+  resistance or a cost in hearing it, and keep it short enough that the crisis at 02:58 is still the event
+  (information-design.md §7; scene-and-summary.md §6).
+- **Proportion and tidiness: tidy.** In the resolution Ari certifies the record, writes a kind note, and grief becomes
+  love. Every thread is resolved warmly. Count what stays unresolved: guilt over the rope is confessed but not
+  answered. Let some residue remain (does Ari's note tell the truth?) rather than absolving everything (endings.md
+  §10).
+

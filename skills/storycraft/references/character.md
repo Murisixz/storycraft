@@ -12,10 +12,16 @@ events.
 5. Empathy and the Center of Good
 6. Opposition: the principle of antagonism
 7. Designing the cast
-8. Motive, backstory and the ghost
-9. Arcs: change, refusal, tragedy
-10. Writing characters on the page
-11. Character checklist
+8. Lives beyond the plot
+9. Friction: allies, families and good people who want things
+10. Secret-keepers and the people who know
+11. Surprising but true: behaviour that startles and convinces
+12. Motive, backstory and the ghost
+13. Arcs: change, refusal, tragedy
+14. Agency: who acts, who is acted upon
+15. Writing characters on the page
+16. Failure patterns
+17. Character checklist
 
 ---
 
@@ -144,7 +150,77 @@ Covered in emotion.md §1–3. Essentials:
 - **Every character thinks they are the protagonist of their own life** (Howard & Mabley): give each a want, even if
   small.
 
-## 8. Motive, backstory and the ghost
+## 8. Lives beyond the plot
+*Examples:* novel-studies.md §6.
+A character who exists only to do the plot's job (deliver a clue, suffer, comfort, explain) reads as a function. The
+cure is not more backstory but a present-tense life the plot interrupts.
+- **The interruption test.** Before plotting, write what each major character was doing, wanting and worrying about the
+  week before the story began. The plot should cut across that life, not create the person from nothing.
+- **Three things the plot doesn't need.** For each major character list three cares that do no plot work: a job done
+  well or badly, an appetite, a grudge, a running joke, a habit of attention, a person outside the story. Put at least
+  one on the page in action, preferably at a moment when it gets in the way of the plot.
+- **Errands and routines.** People keep working, eating, paying, gossiping and sleeping through catastrophe. A scene
+  that shows the routine continuing (or failing to) is often more affecting than a scene about the catastrophe.
+- **Self-interest in good people.** A decent character still wants comfort, credit, rest, money, to be right or to be
+  loved. Give them a want of their own that is not the protagonist's welfare.
+- **Proportion.** Minor characters need one live detail and one want; major characters need a life that would continue
+  if the plot stopped. Budget by role, not by how much the author likes them.
+- **Check:** if you deleted the plot, would anything be left of this person? If not, they are a device (revision.md §8).
+
+## 9. Friction: allies, families and good people who want things
+- **Friction is conflict without enmity:** between lovers, siblings, friends, colleagues, a helper and the helped. It is
+  often more revealing than conflict with an opponent because nobody can simply walk away (voice-and-dialogue.md §5).
+- **Sources of friction:**
+  - different wants (one wants to know, the other wants to forget);
+  - different speeds (one grieves fast, one slowly);
+  - unequal debts (the helper keeps score, or the helped resents the help);
+  - status (who is older, richer, more needed, more right);
+  - loyalty to people outside the pair;
+  - plain temperament: tiredness, irritation, a joke at the wrong moment.
+- **Kindness has costs.** A character who gives (care, money, time, a lie) pays for it and may want something back.
+  The recipient may be grateful and resentful at once. Showing both is what makes kindness believable.
+- **Unfairness is human.** Allies blame the wrong person, say the cruel thing and apologise badly. A cast that only
+  argues fairly is a cast of mouthpieces.
+- **The saintly ally** (endlessly patient, always available, never wrong) is a warning sign. Give them a competing want
+  and one moment of friction that costs something (diagnostics.md, people patterns).
+
+## 10. Secret-keepers and the people who know
+*Examples:* novel-studies.md §6 (five ways the studied novels give keepers interiority, and why).
+In mystery, tragedy and family stories, the person who keeps the secret is often the most interesting person in the
+book. Starving them of scenes wastes the material.
+- **Give the keeper a side.** On the page, show:
+  - pressure: a moment when the secret presses on them (a question, an anniversary, a near-discovery);
+  - rationalization: the reasons they give themselves, which should be partly right;
+  - cost: what keeping it takes from them (sleep, intimacy, money, a relationship, self-respect);
+  - a near-telling: a moment when they nearly tell, or decide not to, and why.
+- **Keepers behave differently from the innocent.** They over-explain, avoid one subject, redirect, are kind at odd
+  moments, or are angry out of proportion. These behaviours are fair clues (mystery-and-clues.md §4) if they also have
+  an innocent reading.
+- **Several keepers, different secrets.** In a closed world, most people hide something; usually only one hidden thing
+  is the crime. The others give the reader rival explanations (information-design.md §10).
+- **Disclosure as a choice.** When the secret comes out, it should come out because someone decides to tell (or is
+  forced to), and that decision should be a scene with stakes, not a convenient monologue (scene-and-summary.md §6).
+- **Keepers who are also narrators** must have a reason for withholding that the reader can accept
+  (viewpoint-and-narration.md §5).
+
+## 11. Surprising but true: behaviour that startles and convinces
+Behaviour that is fully predictable reads as a template; behaviour that is random reads as authorial convenience. Aim
+for the action the reader didn't expect but recognises at once as this person's.
+- **Derive surprise from contradiction.** Pick the character's established contradiction (§4) and let the less visible
+  side act at a moment of pressure: the timid one is suddenly ruthless about one thing; the cynic does a private
+  kindness and hides it.
+- **Displacement.** People under strain often act on a nearby object instead of the real one: they clean, argue about
+  money, fix a gutter, insist on a ritual. The displacement shows the feeling without naming it.
+- **Wrong-sized reactions.** Real people over-react to small things and under-react to large ones, especially in grief
+  and shock. Calm at the funeral and collapse over a lost glove are both true.
+- **Mixed motives.** Let a good act have a selfish thread and a bad act a loving one. The reader believes the mixture
+  more than the purity.
+- **Plant the capacity, not the act.** Show earlier that the character *could* do it (a skill, a temper, a value) so
+  the act surprises without breaking trust.
+- **Test:** after the scene, could a reader say "of course" on reflection? If the only explanation is "the plot needed
+  it", rework the motive or cut the act.
+
+## 12. Motive, backstory and the ghost
 - **The ghost** (Truby, via outline): the past event that still haunts the protagonist, often the source of their
   weakness. It is narrower and more useful than general backstory.
 - **Understand motive deeply but leave part of the "why" open.** Never reduce a person to one cause (McKee).
@@ -153,7 +229,7 @@ Covered in emotion.md §1–3. Essentials:
 - **Know far more than you show** (Howard & Mabley); backstory is ammunition to spend as turning points, not a
   biography to recite (McKee; see structure-and-scenes.md §10).
 
-## 9. Arcs: change, refusal, tragedy
+## 13. Arcs: change, refusal, tragedy
 - **An arc is a change in deep character** over the telling, for better or worse. Change can go downward: Michael
   Corleone ends as a tyrant (Truby, via outline).
 - **Common change patterns** (Truby, via outline): child to adult, adult to leader, cynic to participant, leader to
@@ -172,7 +248,22 @@ Covered in emotion.md §1–3. Essentials:
 - **Whose story is it?** When unsure, ask who makes the pivotal decisions, who changes most, who has most at stake, who
   carries the theme, and what the title points to (Howard & Mabley).
 
-## 10. Writing characters on the page
+## 14. Agency: who acts, who is acted upon
+- **The protagonist's choices should cause the major turns.** If the decisive events happen *to* the protagonist
+  (rescues, revelations delivered by others, coincidences), the story loses its spine. Mark each turning point on the
+  spine with who chose it (structure-and-scenes.md §2).
+- **Passive situations can still have active people.** A prisoner, a child, a patient, a ghost or someone bound by
+  duty can still choose: what to notice, whom to trust, what to say, what to refuse, when to stop pretending. Find
+  the small choices the situation allows and make them cost.
+- **Limited agency is a subject, not an excuse.** When the story is *about* people who cannot change their fate (an
+  institution, an illness, a class), show them testing the limits, and let the reader feel the moments they could
+  have pushed and didn't. Acceptance must be dramatized as a choice, not presumed.
+- **Discovery is not agency on its own.** A protagonist who only finds documents and hears confessions is an audience.
+  Make finding cost something, and make them act on what they find.
+- **Hand-offs.** When another character takes over the decisive action (a rescuer, a confessor), pay for it: the
+  protagonist must have caused the opportunity, or the hand-off must itself be the protagonist's choice.
+
+## 15. Writing characters on the page
 - **Love every character, villains especially,** without losing judgment (McKee).
 - **Source deep character from self-knowledge** ("If I were this person in these circumstances, what would I do?") and
   surface traits from observation, combined rather than copied (McKee).
@@ -183,7 +274,18 @@ Covered in emotion.md §1–3. Essentials:
 - **Comic characters** are driven by a blind obsession; when they recognize it, the comedy ends and the story can turn
   romantic or dramatic (McKee).
 
-## 11. Character checklist
+## 16. Failure patterns
+| Symptom | Cause | Repair |
+|---|---|---|
+| A character feels like a device | no life beyond the plot | §8: interruption test; three cares the plot doesn't need |
+| The cast is too nice | no self-interest, no friction | §9: competing wants; kindness with a cost |
+| The keeper of the secret is a blank | the keeper has no side | §10: pressure, rationalization, cost, near-telling |
+| Behaviour is predictable | traits applied, not contradictions | §4, §11: let the hidden side act under pressure |
+| Behaviour is random | no planted capacity or motive | §11: plant the capacity; mixed motives |
+| The protagonist watches | turns are caused by others or chance | §14: mark who chooses each turn |
+| A late confession explains everything | disclosure isn't a choice with stakes | §10; scene-and-summary.md §6 |
+
+## 17. Character checklist
 - [ ] Can you state the protagonist's conscious want, unconscious desire, and need in one line each?
 - [ ] Do the key scenes force choices under rising pressure that reveal true character?
 - [ ] Is the protagonist the most dimensional character (a consistent contradiction)?
@@ -193,3 +295,8 @@ Covered in emotion.md §1–3. Essentials:
 - [ ] Does the main opponent want the same thing, and attack the protagonist's weakness?
 - [ ] Does each major character answer the central moral problem differently?
 - [ ] Is inner change proven by a choice, never announced?
+- [ ] Does each major character have a life the plot interrupts, with at least one care shown in action?
+- [ ] Do allies and loved ones create friction, and does kindness cost something?
+- [ ] Does each secret-keeper have pressure, rationalization, cost and a near-telling on the page?
+- [ ] Does each major character do at least one surprising but convincing thing?
+- [ ] Are the major turns caused by the protagonist's choices?

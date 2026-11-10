@@ -14,13 +14,17 @@ scenes before sentences; most "boring" or "flat" stories have a structural cause
 
 ## 1. Doctor procedure
 1. **Read for intent.** What is the author trying to make the audience feel and think? Respect it.
-2. **Reconstruct the spine** (§2) as the draft currently stands, even where it's implicit or missing.
-3. **Run the failure catalogue** (§3). Note evidence (quote or point to the beat).
-4. **Rank by impact:** core (want/stakes/causality/ending) → structure (acts, reveals, pacing) → scenes → lines.
-5. **Prescribe specific fixes** using the author's own material: show the changed beat, the new plant, the moved
-   reveal. Offer two options when the right choice depends on the author's taste.
-6. **Show a revised spine** (beats with causal links) when the problems are structural.
-7. **Protect what works:** say what's strong and why, so revisions don't destroy it.
+2. **If there is outside feedback, test it first:** split it into claims and check each against the text, with a
+   verdict and evidence (revision.md §2). Don't accept or dismiss criticism wholesale.
+3. **Reconstruct the spine** (§2) as the draft currently stands, even where it's implicit or missing.
+4. **Run the failure catalogue** (§3). Note the evidence (quote, point to the beat, or count).
+5. **Rank by impact:** scope and core (want, stakes, causality, ending) → information (leaks, reveals) → structure
+   (acts, pacing) → staging (scene vs summary) → people → world → prose.
+6. **Prescribe specific fixes** using the author's own material: show the changed beat, the new plant, the moved
+   reveal, the staged scene. Recommend one; mention the alternative in a line when the choice depends on taste.
+7. **Show a revised spine** (beats with causal links and treatment) when the problems are structural.
+8. **Protect what works:** say what's strong and why, so revisions don't destroy it.
+For the repair passes themselves, follow revision.md.
 
 ## 2. Reconstruct the spine
 Extract, in one or two lines each:
@@ -58,7 +62,26 @@ Extract, in one or two lines each:
 - *Two stories fighting* → the protagonist pursues two unrelated main objectives, breaking unity (Howard & Mabley's
   suspension bridge) → choose one spine; make the other a subplot that varies the theme.
 
+**Scope and staging**
+- *Summarized life / "it reads like an outline with beautiful sentences"* → the story's material (decades, several arcs,
+  a political world, a long deception) is bigger than its length, so summary carries it → narrow the window, re-time
+  with a frame or braided lines, or move to a longer form (revision.md §4; scope-budget template).
+- *Reported climaxes* → the most dramatic events (the crossing, the confession, the betrayal) reach the reader only as
+  somebody's account → stage them, or make the telling a scene with its own conflict (scene-and-summary.md §6).
+- *Decades in a paragraph* → long spans have no anchoring instances → choose a few moments that each change something
+  and stage them; keep the summary between them (scene-and-summary.md §5).
+- *Revelation without consequences* → after the big reveal, the characters only feel; nobody acts differently → stage
+  at least one consequence scene in which someone makes a costly choice because of what they now know.
+
 **Information and reveals**
+- *Reveal that only confirms* → the reader guessed long before (leaks from interludes, imagery, symmetry, repeated
+  emphasis, a second voice that knows) → run the leak audit (revision.md §6); restore the mystery, convert it to
+  deliberate irony, or move the payload to a decision.
+- *Mixed strategy* → the same secret is run as a mystery and given away as irony → choose one per stretch; if the
+  reader knows, write scenes in which characters act on the false belief.
+- *Explanation-heavy reveal* → the revelation scene carries the backstory as a monologue → distribute the backstory
+  earlier as unexplained effects; keep in the reveal only the fact that turns the scene; give the explainer a goal in
+  the telling (information-design.md §7).
 - *Confusing, not intriguing* → the audience doesn't know the situation, the want, or the stakes → clarify those;
   hide only the specific fact.
 - *No suspense* → the danger is hidden from the audience → show the bomb; add a clock.
@@ -85,6 +108,24 @@ Extract, in one or two lines each:
   establish the exception early.
 - *Puppet characters* → characters act to serve the plot, not their own wants (a secondary character who knows they're
   secondary) → give every significant character their own objective.
+- *Barrier with holes* → the plot needs people unable to talk, meet, leave or learn, but obvious channels (a relative
+  abroad, an institution, a go-between) are never closed → run the channel audit; show enforcement at least once
+  (world-and-society.md §4).
+- *Abstract world* → unnamed war, country and institutions; rules stated, not lived → specify, or commit to fable and
+  stop the plot depending on logistics (world-and-society.md §6).
+
+**People**
+- *Function characters* → each person exists to do one plot job (the patient suitor, the lost beloved, the
+  helpful soldier) → give them a life beyond the plot, self-interest and one surprising but true action (character.md
+  §8, §11).
+- *Saintly ally* → a good character who is never petty, jealous, tired or wrong → give a competing want and a moment of
+  friction that costs something.
+- *Starved secret-keeper* → the character carrying the secret, often the most interesting one, gets no scenes of
+  their own → give them pressure, justification and cost on the page (character.md §10).
+- *One voice for everyone* → all speakers share the narrator's polished register → voice test; rebuild voices from
+  diction, rhythm, what each notices and how each dodges (voice-and-dialogue.md §2).
+- *No friction* → nobody argues, refuses or misunderstands; conflict is only with circumstances → let allies want
+  different things and say so.
 
 **Emotion**
 - *We don't care* → jeopardy before attachment; no empathy point → build the bond first; give the protagonist effort,
@@ -112,6 +153,17 @@ Extract, in one or two lines each:
   unrelated material → stage the dilemma; cut straight from decision to action.
 - *Ending unsatisfying* → doesn't answer the dramatic question, contradicts the emotional promise, or needs a speech
   to explain → see endings.md checklist.
+- *Too tidy* → in one scene every thread closes, every relationship reconciles, every motif returns, and the loss turns
+  into consolation → proportion test and cost ledger; leave the honest residue open (endings.md §10).
+
+**Prose and visible machinery**
+- *"Conspicuously literary"* → high density of comparisons, aphoristic one-line paragraphs, symmetrical phrasing →
+  count against the benchmarks; keep the best; make the rest literal (prose.md §8).
+- *Machinery shows* → every object returns, counts match, lines echo in other mouths, chapter titles are motifs →
+  motif inventory; keep the load-bearing one or two echoes; break symmetries; let most details be merely real
+  (prose.md §6).
+- *Sounds translated* → de-specified setting, generalizing similes ("the way you…"), calqued idiom → specify;
+  transcreate other-language editions (prose.md §10).
 - *Genre promise broken or clichéd* → an obligatory scene is missing, or delivered in its most familiar form → list the
   genre's conventions; for each key scene list several alternatives and pick the truest, least-seen one (McKee; see
   genres.md).
@@ -129,11 +181,16 @@ Condensed from Howard & Mabley's rewrite questions and McKee's scene analysis:
 8. Is there dramatic irony or subtext? Is dialogue doing several jobs at once?
 9. Is there a plant, a payoff, advertising, or an element of the future?
 10. Does it contrast with the scenes around it? Is preparation or aftermath needed?
-11. If you cut it, would the main tension, culmination or resolution suffer? If not, cut or merge.
+11. If you cut it, would the main tension, culmination or resolution suffer? If not, cut or merge. (Before cutting,
+    check that it isn't the only place a character's life beyond the plot is shown.)
+12. What does each *other* person in the scene want, and do they push for it in their own voice?
+13. Is the key event staged here, or merely reported? If reported, does the telling have its own conflict?
+14. Could anything in this scene let a sharp reader guess a later secret too early?
 
 ## 5. Report format
 Use `assets/templates/doctor-report.md`:
 - **What works** (2–4 specifics).
+- **Feedback verdicts** (when responding to notes): claim | evidence | verdict | cause | fix.
 - **The core problem** (one sentence) and its evidence.
 - **Ranked issues** (impact, evidence, fix).
 - **Revised spine** (beats with therefore/but links, value turns, reveals).

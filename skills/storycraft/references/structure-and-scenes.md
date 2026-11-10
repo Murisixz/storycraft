@@ -230,7 +230,13 @@ that answers the emotional question.
 |---|---|---|---|
 | 30 s–3 min video | 1 | 3–7 beats | one question, one reveal; open in motion |
 | Flash fiction (<1.5k words) | 1 | 1–2 scenes | single effect; image ending |
-| Short story (3–7k words) | 1–2 | 3–8 scenes | one dominant line of action |
+| Short story (3–7.5k words) | 1–2 | 3–8 scenes | one dominant line of action; a narrow time window |
+| Novelette (7.5–17.5k) | 1–2 | 6–15 scenes | one secondary life can be developed |
+| Novella (17.5–40k) | 2 | 15–40 scenes | small cast; one subplot at most; long spans only as staged stations |
 | Short film (5–15 min) | 1–2 | 6–15 scenes | few locations; one recognition |
 | Feature film | 3+ | 40–60 scenes | sequences with their own questions |
 | Novel | 3+ | 60–120+ scenes | subplots as theme variations |
+
+Before choosing a length, check that the story's material fits it: time span, arcs, reveals and world
+(premise.md §7; `assets/templates/scope-budget.md`). Material too large for its length produces summary where scenes
+should be.

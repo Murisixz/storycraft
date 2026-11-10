@@ -19,6 +19,9 @@ available, and when finding it changes what we feel about the people involved. I
 12. Mysteries that break hearts
 13. Small-scale mysteries (short video, flash, games)
 14. Clue-ledger procedure and checklist
+15. Mystery architectures at length
+16. Concealment strategies compared
+17. Delivering the solution: explanation load and who carries it
 
 ---
 
@@ -292,3 +295,76 @@ Checklist:
 - [ ] Is the basic situation always clear even while the secret is hidden?
 - [ ] Is the solution inevitable in hindsight and does it change what the story means?
 - [ ] Is the reveal staged in action/image, with aftermath?
+
+## 15. Mystery architectures at length
+The novels studied for this skill (novel-studies.md) hold mysteries across a whole book in very different ways. Pick
+the architecture before the clues, because it decides where the reader's attention goes.
+
+| Architecture | Engine | Where suspense lives | Typical risks | Studied example |
+|---|---|---|---|---|
+| **Closed circle with a published pattern** | trapped people, a rule that predicts each death | who, and how the next step will fit | thin characters; the method becomes predictable; the solution needs a document | *And Then There Were None* |
+| **Biography quest** | a searcher pieces together an absent person's life from witnesses and objects | the next witness; who is threatening the searcher | witnesses as info-booths; convenient survivors; a memoir that knows too much | *The Shadow of the Wind* |
+| **The governing absence** | an absent person dominates a house; testimony conflicts | what the absent one was really like; what the living hide | a passive viewpoint; long confessions; coincidence to break the secret | *Rebecca* |
+| **Puzzle-chain pursuit** | a sequence of locks and codes under a clock, with pursuers | the next solution; the hidden enemy among allies | exposition blocks; mechanical chapter-end withholding; backfilled plants | *The Da Vinci Code* |
+| **Crime told first** | the reader knows the crime and the culprit; characters don't | who will learn, what it will cost, whether justice comes | the investigation stalls; authorities must be implausibly dim | *The Lovely Bones* |
+| **Misjudgment** | the reader watches an accusation form from the misreader's side | how the error happens; who really did it; whether repair is possible | the misreader looks stupid unless her reasons are built step by step | *Atonement* |
+| **Hidden purpose** | an institution's real function is half-known by those inside | why, and whether any hope is real | a late explainer; readers asking why no one rebels | *Never Let Me Go* |
+
+These overlap. A biography quest can hide a crime; a governing absence can turn into a murder story. Name the main
+engine, then check the risks column against your plan.
+
+## 16. Concealment strategies compared
+Each secret needs its own strategy (information-design.md §10). The studied books use at least seven, and they are not
+interchangeable.
+- **Framing instead of withholding.** Put the incriminating facts on the page early, each told by someone with another
+  purpose, and let a biased viewpoint misread them. *Rebecca* has every hard fact against the husband on the page by
+  43%, inside a grieving servant's tour. Use it when the reader should feel, at the reveal, that they knew. It fails
+  when the framing speaker has no motive of their own, so the detail sticks out.
+- **Credibility routing.** Give true testimony to a witness everyone dismisses, have the viewpoint dismiss it
+  explicitly, and confirm it later through a credible source. It works once or twice; by the fourth use the reader
+  expects the fool to be right.
+- **Several plausible authors per threat.** Give each threat two or three candidate culprits, each with evidence, so
+  facts can be confirmed without the solution leaking (*The Shadow of the Wind*'s book-burner). It fails if the
+  alternatives are obvious decoys.
+- **Leak, deny, confirm.** Raise a secondary truth, let a trusted expert deny it on narrow technical grounds, and
+  confirm it later with a reason it was hidden (*The Da Vinci Code*'s bloodline). A reasoned denial lowers the
+  reader's guard. It fails if the denial was so absolute that the confirmation feels like cheating.
+- **The culprit in the victim role.** Place the culprit among the threatened: hostage, target, or apparently dead.
+  *And Then There Were None* has the killer fake his death, certified by a dupe whom the reader must trust, examined
+  only by candlelight. *The Da Vinci Code* stages a kidnapping. Sympathy and apparent death suppress suspicion. The
+  narration may conceal but must not lie. A misleading word order inside the culprit's viewpoint (an unnamed "loose
+  end" placed so it seems to be someone else's) is the point where readers stop forgiving.
+- **The organiser as culprit.** Let the culprit run the investigation and volunteer a weakness (no alibi). Authority
+  and candour read as innocence. Give the reader one reason to doubt them, or the reveal will feel unearned.
+- **Confirm the wrong secrets.** In a closed circle where everyone is guilty of something, confirm the minor secrets
+  one by one in private thought. The reader's knowledge grows, but in a direction that doesn't identify the main
+  culprit.
+
+**Fair-play warnings from the studied books:**
+- solution-critical facts that arrive only in the final document;
+- a culprit's early private thought that reads as sincere and is never explained;
+- a narrator's count of "frightened people" that includes the killer;
+- plants referred to as earlier events that the text never showed (backfilled);
+- puzzle rules that bend to reach the answer.
+Each one is the kind of thing a careful reader names after the reveal.
+
+## 17. Delivering the solution: explanation load and who carries it
+A solution has to be explained somewhere, and the delivery shapes the feeling.
+
+| Delivery | Gives | Costs | Repair |
+|---|---|---|---|
+| **Confession monologue** (the culprit or keeper speaks at length) | the keeper's side; a voice under pressure | a long info-dump; recap passages that show machinery | let the listener resist; cut the recaps; move consequence to the next scene |
+| **Memoir or document** (letter, manuscript, diary) | a second voice; the hidden story in full | removes the searcher from action; the writer may "know" things they couldn't | keep the searcher reacting before and after; limit the writer's knowledge; break it up |
+| **Official process** (inquest, trial, police review) | public stakes; social texture | recapitulation | make an honest minor character's self-interest the engine (a tradesman clearing his name) |
+| **Lecture by an expert** | authority; the reader's own deductions tested | stalls the scene; an always-right expert | threats converging on the place; a resisting listener; the expert partly wrong |
+| **One line or display text** (an epitaph, a headline, a whispered sentence) | a blow without explanation | the explanation must come later | spread the explanation over the following chapters; give consequence the space |
+| **Social fact without comment** (a wedding announced in a letter) | the reader supplies the meaning | needs earlier clues strong enough | leave it uncommented; let the moral shock land |
+
+**Principles:**
+- **Keep the explanation as short as the puzzle allows, and give the last beat to a person.** Characters, readers and
+  professionals can all fail before the solution, which makes it welcome. The final word, though, should be a
+  consequence for someone (§11; endings.md §10).
+- **Give the explainer a motive of their own.** Vanity, shame, a plea, a bargain. A confession that condemns or
+  exposes its speaker works as character. A confession that only supplies mechanics is an appendix.
+- **Separate explanation and feeling.** The strongest examples deliver the facts in one scene and the emotional
+  reaction in a later, smaller one (a rage in a field; a death given three chapters of aftermath).
