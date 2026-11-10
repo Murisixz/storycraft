@@ -64,8 +64,8 @@ way of talking that changes under pressure.
 - **Vary speech length.** A long speech is an event; give it a reason (persuasion, confession, a lecture someone
   resents) and let someone react to it.
 - **Tags and beats:** "said" is invisible; elaborate verbs draw attention. Use action beats (what someone does while
-  speaking) to stage the scene and show subtext, not as decoration on every line. Make the speaker clear in every
-  exchange of three or more lines.
+  speaking) to stage the scene and show subtext, not as decoration on every line. Make the speaker recoverable on
+  every line (frequency: clarity-and-orientation.md §7; Arabic layout: arabic-writing.md §4).
 - **Put the most important word last** in the line, and the most important line last in the exchange (Howard & Mabley;
   Truby, via outline).
 
@@ -86,6 +86,8 @@ way of talking that changes under pressure.
   - withdraw, appeal to rules, appeal to the past.
   Tactics change when they fail (structure-and-scenes.md §7).
 - **Power shifts** inside a conversation are turns. Track who holds the advantage at the start and at the end.
+- **Persuasion as a visible syllogism:** enumeration, then "so" or "therefore", then the conclusion. The opponent
+  answers with a definition and its consequence (*Arsis* 2). The argument is easy to follow and is not a lecture.
 - **Allies argue too.** Friends, lovers and family want different things and say so, often unfairly. Conflict between
   people who love each other is the most revealing kind (character.md §9).
 
@@ -117,12 +119,31 @@ way of talking that changes under pressure.
   first group scene, then reinforce it.
 - **Keep the staging clear:** who is where, who moves, who leaves. Each entrance or exit changes the dynamic (McKee's
   "French scenes").
+- **Keep track of who is who:** fixed role labels for the unnamed, epithets built from an earlier act, labels that
+  change when a name is learned, and no epithet shared by two people (clarity-and-orientation.md §4). Attribution
+  frequency is in clarity-and-orientation.md §7.
 
 ## 9. Period, dialect and translated speech
-- **Suggest dialect through vocabulary, idiom and syntax,** not phonetic spelling. Heavy phonetic rendering slows reading
-  and can caricature.
+- **In English, suggest dialect through vocabulary, idiom and syntax,** not phonetic spelling. Heavy phonetic rendering
+  slows reading and can caricature. For Arabic, where dialect is a written register of its own, see arabic-writing.md
+  §2.
 - **Period speech:** use the era's idioms and forms of address lightly, and avoid modern slang and modern psychological
   vocabulary in historical characters' mouths.
+- **Give a dialect or register a clear job,** in any language:
+  - one character's identity (register itself then attributes his lines);
+  - a home social world;
+  - a whole locale set against another world.
+
+  A register change that characters notice can carry plot: a hero loses his home dialect as he loses himself, and
+  others say so (*Ard Zikola*). Otherworldly speakers can be marked by register: archaic and laconic, or
+  incongruously familiar (*Khawf* 1–2). If readers may not know a dialect, they must still be able to follow the plot
+  without it (arabic-writing.md §2).
+- **Label a register from where the narration stands.** To a foreign narrator, the hero's home speech is "his strange
+  dialect"; to the hero, it is "our dialect" (*Amarita*). The reader always knows whose ears the narration uses.
+- **A language no reader knows** is better narrated as sound and translated in summary by a bilingual character than
+  transliterated (*Amarita*).
+- **Oaths and formulae can mark a culture.** God-language for the people from our world, fate and curses for an invented
+  one (*Amarita*), marks the worlds with no exposition.
 - **Speech "in another language":** when characters are understood to speak a language other than the text's, render
   it as natural speech in the text's language. Don't calque foreign idioms word by word unless the strangeness itself
   is the point (prose.md §10).
@@ -144,7 +165,7 @@ way of talking that changes under pressure.
 | On-the-nose dialogue | characters state feelings and themes | move it into subtext; give them a surface task |
 | Ping-pong Q&A | one person interrogates, the other informs | give both wants; let answers dodge |
 | Quips everywhere | every character shares the author's wit | ration wit to the characters who'd have it |
-| Unclear speakers | missing tags in long exchanges | tag every three or four lines; use action beats |
+| Unclear speakers | missing tags in long exchanges | re-anchor two-person runs every four to six lines; name every change of speaker in groups (clarity-and-orientation.md §7); use action beats |
 
 ## 12. Checklist
 - [ ] Does each major character have a voice built from diction, rhythm, what they notice and how they dodge?
@@ -153,4 +174,5 @@ way of talking that changes under pressure.
 - [ ] Is exposition used as ammunition, distributed, and contested?
 - [ ] Do witnesses and confessors have agendas, gaps and different voices?
 - [ ] Is the narrator's register kept out of the characters' mouths?
-- [ ] Is dialect suggested through idiom and syntax rather than spelling?
+- [ ] Is dialect suggested through idiom and syntax rather than phonetic spelling (English), or handled by a register
+      plan (Arabic, arabic-writing.md §2)?

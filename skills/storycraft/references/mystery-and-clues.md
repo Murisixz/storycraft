@@ -22,6 +22,8 @@ available, and when finding it changes what we feel about the people involved. I
 15. Mystery architectures at length
 16. Concealment strategies compared
 17. Delivering the solution: explanation load and who carries it
+18. Earned discoveries, false leads and suspect marking
+19. Plot-carrying mechanisms: the mechanism ledger
 
 ---
 
@@ -116,7 +118,7 @@ Rules:
   revelation reopens the path.
 - **Clarity about the situation is non-negotiable** ("Clarity is God," Beinhart, via a summary): the audience must
   always know who is where, who wants what, and what is at stake. Withhold the specific secret, never the basic
-  situation. Confusion is not mystery.
+  situation. Confusion is not mystery (method and cold-read check: clarity-and-orientation.md).
 - **Knowledge gaps between characters** generate suspense inside a mystery: a searcher who knows less than the culprit
   is in danger; let the audience sometimes know more than the searcher (an audience revelation; see
   information-design.md) and owe them the recognition scene.
@@ -170,6 +172,14 @@ Craft heuristics for making a clue visible but unremarkable (synthesized from co
 8. **Let a red herring stand beside it** and draw the attention.
 9. **Make it an absence** (what's missing is harder to notice than what's present).
 10. **Put it in a true line with a misread referent** ("My daughter").
+11. **Hide it in plain sound:** fragments a character repeats that turn out to be the ends of words the opening used
+    constantly (a feverish child's «حونا، جانا», from «طاحونة», the mill, and «الهجّانة», the camel corps; *Wadi
+    al-Dhi'ab*). Solve it by a sound-match the reader can check against earlier pages.
+12. **Make an implausibility the clue:** no inquiry follows a patrol's disappearance, and the last document shows the
+    patrol were impostors (*Wadi al-Dhi'ab*). Pay it, or it stays a plot hole.
+13. **Keep the key outside the hero's knowledge.** Plant it as a throwaway gesture in a dark, busy moment (a necklace
+    pocketed during a chase), then write the hero's blind spot in exact words that exclude the hiding place ("she wears
+    nothing on her hands").
 If the audience starts hunting for the payoff the moment a clue appears, the plant is too emphatic (Howard & Mabley).
 
 ## 8. Red herrings and misdirection
@@ -183,6 +193,9 @@ If the audience starts hunting for the payoff the moment a clue appears, the pla
   the protagonist to win (Truby, via outline). Exposing them is a natural mid-story reveal.
 - **Structural misdirection:** emphasize the wrong question (who? when the real mystery is why?), or let the
   investigator's flaw (pride, grief, bias) bend the investigation.
+- **A visible threat as misdirection.** Plant an obstacle the reader is told to fear (patrol ships), then let the plan
+  fail through a planted piece of character history instead (an old sailor's illness, *Amarita*). The reader's
+  attention was the misdirection. It fails when the real cause was never planted.
 - **Never lie in the narration** about objective facts. Characters may lie; the storyteller may not (see fair play).
 
 ## 9. Fair play and coincidence
@@ -196,6 +209,8 @@ If the audience starts hunting for the payoff the moment a clue appears, the pla
 - **Coincidence:** coincidences that get characters *into* trouble are fine; coincidences that get them *out* are
   cheating (Emma Coats's Pixar rule). McKee goes further: bring coincidence in early and let it gain meaning (ideally
   becoming a force of antagonism); as a rule of thumb none after the midpoint; never use one to turn the ending.
+  A coincidence the plot needs reads as cause when it is rooted in a habit already shown (he works in that quarter,
+  so he is near the tavern; *Amarita*).
 - **Eliminate, don't just accuse.** A fair solution rules out every other suspect with fair evidence, not only points
   at the culprit. Testimony, confessions and mutual alibis are weak eliminators (either party may lie); corroborate
   each elimination with physical, temporal or systemic evidence (a log, a mark, a mechanism, a distance).
@@ -243,6 +258,9 @@ Mabley's analysis of *Rashomon*):
 - **A final reversal of understanding** (the audience re-sees the whole story) is the most powerful reveal, but only if
   it passes the rereading test and changes meaning, not just facts (Truby, via outline, cites *The Sixth Sense* and *The
   Usual Suspects*).
+- **Make the world's founding rule the key.** When the answer follows from a rule the reader learned long before (in
+  *Amarita*, the first book's rule that every transfer has a price), the solution is surprising and inevitable at
+  once.
 - **Aftermath:** give space for what the truth costs the people who learn it.
 
 ## 12. Mysteries that break hearts
@@ -368,3 +386,71 @@ A solution has to be explained somewhere, and the delivery shapes the feeling.
   exposes its speaker works as character. A confession that only supplies mechanics is an appendix.
 - **Separate explanation and feeling.** The strongest examples deliver the facts in one scene and the emotional
   reaction in a later, smaller one (a rage in a field; a death given three chapters of aftermath).
+
+## 18. Earned discoveries, false leads and suspect marking
+An investigation feels authored, not lived, when information is **delivered**: a witness volunteers the next lead before being asked, a document turns up intact at the right moment, a suspect names the culprit unprompted. Run the three audits below on any story with a search in it.
+
+**The discovery audit.** List every discovery and give each a source and a price.
+
+| Discovery | Source | What it cost the searcher | Whose resistance it overcame | What changed because of it |
+|---|---|---|---|---|
+
+Sources, from strongest to weakest:
+1. **Observation** the reader could also have made (a detail on the page that others overlooked).
+2. **Inference** from two facts the reader already holds.
+3. **Risk** (trespass, a lie, a bargain, exposure).
+4. **A mistake** that teaches.
+5. **Testimony** extracted against the witness's interest.
+6. **Testimony** volunteered.
+7. **A document** that appears.
+
+**Diagnosis:** if more than half the discoveries are volunteered testimony or appearing documents, the protagonist is a courier, not a searcher. Repairs:
+- **Give each witness a reason to withhold** (fear, loyalty, shame, a price) and a reason to yield (a bargain, a threat, an appeal that costs the searcher something to make).
+- **Make at least one key discovery come from the searcher's own observation** of something planted earlier in plain view.
+- **Let the searcher act on a wrong inference** and pay for it before the right one arrives.
+- **Use the protagonist's particular access** (a trade, a network, a language) to open doors. Then make the door cost something: a favour owed, a secret betrayed, a relationship strained.
+
+**False-lead lifespan.** A false lead earns its place only if, before it dies:
+- the **reader** believes it, not just the character;
+- it **changes at least one action** (a visit, an accusation, a confrontation);
+- it **costs** something;
+- it dies by a discovery that is itself earned, and leaves its own true explanation (§8).
+
+A false lead cleared within a scene of becoming plausible is a delay, not a misdirection. In a short story one well-fed false lead beats two starved ones. A strong false lead often needs a second scene in which it seems confirmed.
+
+**Suspect marking.** In the first quarter of the story, count the markers that point to each person. Markers include:
+- nervous questions about the case;
+- a damaged or abandoned object;
+- a lie flagged by the narration ("he told her");
+- a job or connection that ties them to the scene;
+- an entrance cut against a revelation.
+
+If one person carries three or more markers while no one else carries any, the reader has solved the case, and the story is running dramatic irony whether it intended to or not. Then choose:
+- **Commit to irony.** Let the reader know or strongly suspect. Move the suspense to *when the searcher will see* and *what she will do*, and cut the false-lead machinery, which now only delays.
+- **Commit to mystery.** Spread the markers, give the loudest one an innocent explanation the reader accepts early, and give the rival suspect real weight (`information-design.md` §10; SKILL.md "one strategy per secret").
+
+**Confessions that carry a prosecution.** If a character confesses falsely, the plot must show why the confession keeps working:
+- why it is repeated, and to whom;
+- why the police or court stop looking;
+- why the people who know better stay silent.
+
+An initial misunderstanding cannot carry a story on its own once the confessor has confirmed it several times with full knowledge. Look for what keeps the false state alive, and dramatize that.
+
+## 19. Plot-carrying mechanisms: the mechanism ledger
+When the solution or the central error turns on a precise mechanism (a letter of the alphabet, a dialect form, a legal rule, a medical sign, a timetable, a magical law), check it as an expert reader would. Before drafting, fill one row per mechanism:
+
+| Element | Answer |
+|---|---|
+| What was physically said, written or done (exact words, forms, marks) | |
+| Who perceived it, and under what conditions (fatigue, noise, language, light) | |
+| Why the misperception or error happened (a plausible human cause) | |
+| What record it left, and in whose hand | |
+| What keeps the error alive after later events (repetition, silence, fear, a second choice) | |
+| Who could expose it, and why they don't | |
+| How and when it is recognized, and what the recognition costs | |
+| What an expert would object to, and the answer | |
+
+**Rules:**
+- **Verify the facts of the mechanism:** the grammar of the dialect, how the script joins letters, the procedure of the court, the dosage. An expert reader stops believing at the first false detail, and a clever-looking mechanism that fails scrutiny sinks the whole plot.
+- **Explain the mechanism's rule once, before it is needed,** in the terms of the language and culture the reader is reading in (`clarity-and-orientation.md` §8; `translation.md` §6). If the mechanism is the solution, plant the general rule without pointing at the instance that will matter; the instance is the reveal. Keep its terms consistent afterwards.
+- **Make the mechanism the entry point, and the people the engine.** Most mechanisms only open the problem. What sustains it is a choice: someone's silence, loyalty or fear. Stage that choice.

@@ -1,7 +1,7 @@
 {
   "name": "storycraft",
-  "version": "2.0.0",
-  "description": "Story design, writing and revision system for Claude: cause-and-effect plotting, characters with lives beyond the plot, mysteries with fair clues and controlled inference, suspense, reveals, emotionally powerful (including sad) stories, scene-versus-summary and scope control for short stories through novels, and testing editorial feedback against the text.",
+  "version": "3.0.0",
+  "description": "Story design, writing, translation and revision system for Claude: cause-and-effect plotting, characters with lives beyond the plot, mysteries with earned discoveries and controlled inference, suspense and horror, reveals, emotionally powerful (including sad) stories, scope control from short stories to novels and series, fiction in natural, followable Arabic, English-to-Arabic literary translation, and comprehension checks that keep the scene clear while the secret stays hidden.",
   "author": {
     "name": "Murisixz",
     "url": "https://github.com/Murisixz"
@@ -17,7 +17,11 @@
     "character",
     "writing",
     "novel",
-    "revision"
+    "revision",
+    "arabic",
+    "translation",
+    "horror",
+    "series"
   ],
   "homepage": "https://github.com/Murisixz/storycraft",
   "repository": "https://github.com/Murisixz/storycraft"

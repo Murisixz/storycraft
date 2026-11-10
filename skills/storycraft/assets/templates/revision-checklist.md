@@ -35,17 +35,23 @@ scene, count) for every "no".
 - [ ] Secret-keepers get their own side: pressure, justification, cost.
 - [ ] Voice test passed (speakers distinguishable without tags).
 - [ ] Each major character has one surprising but true action.
+- [ ] Every large sacrifice is prepared by earlier scenes where the attachment acts and costs something.
+- [ ] Plot-relevant professionals have a competence, an interest or a doubt of their own.
 
 ## 6. World
 - [ ] Channel audit done: every obvious workaround is closed with a visible reason.
 - [ ] Enforcement is shown at least once; daily life under the rules is felt.
 - [ ] The abstraction level (specific / invented / fable) is chosen and consistent.
+- [ ] Institutions accept convenient outcomes only with a shown habit, quiet objectors and a protagonist's risk, and they push back once or visibly choose not to.
+- [ ] Any law or policy a choice depends on is dated and shown through a known case.
 
 ## 7. Emotion, ending, proportion
 - [ ] Cost ledger: who loses what; who keeps paying.
 - [ ] The settlement is proportionate to the loss or deception (time, cost, partialness).
 - [ ] Tidiness tally: something honest stays open.
-- [ ] At least one consequence scene after the main revelation shows a costly choice.
+- [ ] At least one consequence scene after the main revelation shows a costly choice (in long forms; a short form may end on the recognition).
+- [ ] Closure density: one or two returning motifs at most in the last two scenes.
+- [ ] A broken primary relationship gets a scene, including the overridden person's response.
 
 ## 8. Prose and visible machinery
 - [ ] Motif inventory: only the load-bearing echoes kept.
@@ -55,3 +61,10 @@ scene, count) for every "no".
 
 ## 9. Continuity
 - [ ] Master timeline checked: dates, ages, counts, names, travel times, who knows what when.
+
+## 10. Clarity (cold read)
+- [ ] Intended-uncertainty list written: what the reader must not yet know, may suspect, should infer and must have clear, stage by stage.
+- [ ] Cold read logged (`comprehension-log`): no accidental stumble of moderate or serious severity remains, and no "should infer" item was fixed by stating it.
+- [ ] Every hinge passes the "what changed?" test; every scene opening orients within two or three sentences.
+- [ ] For a translated edition: each stumble classified as source, translation, or uncompensated source gap, and
+      fixed (`references/translation.md`).

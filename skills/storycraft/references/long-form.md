@@ -111,6 +111,15 @@ reader learns things, which changes suspense, irony and grief.
 **Close every frame with consequence.** The telling should change the teller or the listener
 (viewpoint-and-narration.md §7).
 
+**Braids that converge** (*Wadi al-Dhi'ab*, which braids 1921, the present and another world):
+- **Give the reader facts that fit one person before any character can connect the strands.** A mad old man with a dead
+  wolf, an axe and a protective verse is plainly the 1921 narrator, and the reader knows it about 25 pages before the
+  visions confirm it. The dramatic irony costs nothing.
+- **Let a place or a person appear in two times before anyone names them:** a ruined round building with animal hair
+  in its walls, which only the reader recognizes as the ice house built twenty years earlier in the other strand.
+- **Let a causal link cross the strands unstated.** The hero's grave robbery in one world brings back the moon that
+  saves a stranger at a gallows in another, and only the reader sees the connection.
+
 ## 5. Viewpoint at length
 - **One narrator for the whole book** gives intimacy and a consistent filter. It needs strong other voices heard
   through the narrator, and an occasion for the telling (viewpoint-and-narration.md §2). It limits what the reader can

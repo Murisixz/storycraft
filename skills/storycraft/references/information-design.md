@@ -146,6 +146,9 @@ For every sequence, choose deliberately where the audience stands relative to th
   - **After:** leave room for questions the characters ask later and for consequences.
   - **Long embedded accounts** (a manuscript, a letter, a confession) stop the present story. Budget their length and
     give them their own voice and gaps.
+- **A large reveal can widen step by step and end in a human witness:** one cell, then the count, then the clean rooms,
+  then a cart of bodies, then a captive who explains in short, flat answers (*Amarita*). Each step raises the scale;
+  the witness supplies the meaning.
 - **For endings that leave a question:** answer the emotional question fully; leave open only a question the story's
   clues make answerable (a real answer exists, and attentive viewers can argue for it).
 
@@ -153,10 +156,26 @@ For every sequence, choose deliberately where the audience stands relative to th
 - Exposition serves the audience, not the characters. Use it like a spice (Howard & Mabley): cut what will become clear
   anyway; deliver the rest in scenes of conflict (or with humor); postpone it to its moment of greatest impact; dose it
   with an eyedropper, not a ladle.
-- Make the audience work for background facts through hints, partial revelations, contradictions and small mysteries.
-  Effort creates participation (and closure; see Smith & Worch's environmental storytelling).
+- Make the audience work only for what the information plan withholds, through hints, partial revelations,
+  contradictions and small mysteries. Effort on the designed questions creates participation (and closure; see Smith
+  & Worch's environmental storytelling). Effort on basic facts creates confusion: who someone is to the protagonist,
+  what a place is and when we are come in a clause at first need (clarity-and-orientation.md §9).
 - McKee's principle (detailed in structure-and-scenes.md): show, don't tell, and convert exposition into ammunition that a
   character uses to get what they want in the scene.
+- **Techniques that keep lore inside scenes:**
+  - **Place lore between two lines of dialogue,** and let the next line use it. Or let action cut the answer off
+    ("What's the difference?", and the light changes) (*Khawf* 2).
+  - **Explain lore after the reader has seen its effect,** not in advance. But establish any rule the climax depends on
+    before it is needed (clarity-and-orientation.md §8).
+  - **Make every prop a contract:** explain it, then use it (salt, rice, scripture, a rooster, each used in turn).
+  - **Introduce a device by its parts** in short parallel clauses, then show each part working, using the same nouns.
+  - **Teach a strange world through the newcomer's mistakes** (world-and-society.md §9).
+  - **A reader-proxy** (a sceptical brother, a pupil) asks the reader's questions. A proxy does not make a long lecture
+    short.
+  - **A reluctant functionary answering short questions** explains a hidden institution better than a speech: each
+    flat answer adds one fact (*Amarita*).
+  - **Avoid invented statistics and taxonomies** delivered as speech. They give lore false authority and stall the
+    scene.
 
 ## 9. The information ledger (procedure)
 Use `assets/templates/information-plan.md`. For each major secret or question:
@@ -185,11 +204,11 @@ lands as confirmation.
 - **Know where leaks come from:**
   - **A second voice that knows:** an interlude, a prologue in the secret-keeper's voice, a document, or the narrator's
     hindsight remarks. Each hint is small; together they give the answer away.
-  - **Details that only make sense if the secret is true,** like a speaker who couldn't know the beloved's face, or a
-    mark that matches.
+  - **Details that only make sense if the secret is true,** like a stranger who knows the family's pet name, or a
+    scar that matches.
   - **Emphasis:** a detail lingered on, repeated or given its own paragraph.
   - **Symmetry:** matched numbers, mirrored events, the same line in two mouths. Patterns point.
-  - **Packaging:** chapter titles, epigraphs, jacket copy, a "the thought she would not let herself think" line.
+  - **Packaging:** chapter titles, epigraphs, jacket copy, a "there was one thing she refused to think about" line.
 - **Keep a rival explanation alive.** A mystery holds when the reader can believe more than one answer. Give the false
   answer real support:
   - a motive;
@@ -212,13 +231,17 @@ lands as confirmation.
 
   Mystery-led stories need the first or the third. A known fact can still devastate when its *consequences* are the
   reveal.
+- **A fair flash-forward can mislead.** End a section on a future moment described so that it fits two people (a
+  dawn visitor known only by her dress and dialect), and pay it with a detail only the true one fits (a nickname only
+  she uses; *Amarita*). The reader's own inference becomes the trap. Pay it before the setup is forgotten.
 - **Plants that don't point.** A plant is fair when it's visible and fairly readable in hindsight, and it hides when
   it is also *doing another job* (characterization, comedy, conflict) at the moment it appears. A detail that has no
   job except being a clue points at itself.
 
 ## 11. Failure modes
 - **Confusion mistaken for mystery:** the audience doesn't know what's at stake, who wants what, or where/when it is.
-  Fix: clarify the situation; hide only the specific fact.
+  Fix: clarify the situation; hide only the specific fact. Keep an intended-uncertainty list and run a cold read
+  (clarity-and-orientation.md §2, §12).
 - **Withheld danger:** no suspense because the audience can't foresee what might go wrong. Fix: show the bomb.
 - **One plausible outcome:** predictability. Fix: strengthen the opposing possibility.
 - **Revelation without recognition:** the audience is told a secret that the affected character never confronts.

@@ -7,7 +7,7 @@ Choose **one strategy per secret per stretch**: mystery (the audience knows less
 |---|---|---|---|---|---|---|---|---|
 
 ## Inference timeline (the leak audit)
-Fill this cold, as a sharp, genre-literate reader who has read only the pages so far. Method: `references/revision.md` §6.
+Fill this as a sharp, genre-literate reader who has read only the pages so far; the best data are a cold reader's own guesses (`comprehension-log`). Method: `references/revision.md` §6.
 
 | After beat / section | Secret ID | Reader's best guess | Confidence (low / medium / high) | What in the text supports it | Rival explanation still alive? |
 |---|---|---|---|---|---|

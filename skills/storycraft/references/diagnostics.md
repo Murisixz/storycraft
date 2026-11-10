@@ -18,8 +18,8 @@ scenes before sentences; most "boring" or "flat" stories have a structural cause
    verdict and evidence (revision.md §2). Don't accept or dismiss criticism wholesale.
 3. **Reconstruct the spine** (§2) as the draft currently stands, even where it's implicit or missing.
 4. **Run the failure catalogue** (§3). Note the evidence (quote, point to the beat, or count).
-5. **Rank by impact:** scope and core (want, stakes, causality, ending) → information (leaks, reveals) → structure
-   (acts, pacing) → staging (scene vs summary) → people → world → prose.
+5. **Rank by impact:** scope and core (want, stakes, causality, ending) → information (leaks, reveals) → clarity
+   (orientation, reference, links) → structure (acts, pacing) → staging (scene vs summary) → people → world → prose.
 6. **Prescribe specific fixes** using the author's own material: show the changed beat, the new plant, the moved
    reveal, the staged scene. Recommend one; mention the alternative in a line when the choice depends on taste.
 7. **Show a revised spine** (beats with causal links and treatment) when the problems are structural.
@@ -82,8 +82,8 @@ Extract, in one or two lines each:
 - *Explanation-heavy reveal* → the revelation scene carries the backstory as a monologue → distribute the backstory
   earlier as unexplained effects; keep in the reveal only the fact that turns the scene; give the explainer a goal in
   the telling (information-design.md §7).
-- *Confusing, not intriguing* → the audience doesn't know the situation, the want, or the stakes → clarify those;
-  hide only the specific fact.
+- *Confusing, not intriguing* → the audience doesn't know the situation, the want, or the stakes, or can't tell what
+  is unknown → clarify those; name the open question; hide only the specific fact (clarity-and-orientation.md §2, §11).
 - *No suspense* → the danger is hidden from the audience → show the bomb; add a clock.
 - *Predictable* → only one plausible outcome → strengthen the alternative; keep two outcomes alive.
 - *Unearned twist / "where did that come from?"* → reveal not planted, or depends on information withheld unfairly →
@@ -99,6 +99,14 @@ Extract, in one or two lines each:
   apply the procedure test ("with what they know and can do, what would they do next?"); fit the crime to the
   evidence the searcher can reach (see mystery-and-clues.md §5).
 - *Info dump* → exposition delivered as lecture → cut, postpone, dramatize in conflict, eyedropper not ladle.
+- *Courier investigation* → witnesses volunteer the next lead, documents appear intact, and no discovery costs the
+  searcher anything → run the discovery audit; give witnesses reasons to withhold; let one key discovery come from
+  the searcher's own observation (mystery-and-clues.md §18).
+- *Accidental irony* → one character carries three or more suspicion markers before any rival exists, so the reader
+  solves the case in the first scenes → commit to irony and cut the false-lead machinery, or spread the markers and
+  feed a real rival (mystery-and-clues.md §18).
+- *Starved false lead* → a false lead is cleared within a scene of becoming plausible → make the reader believe it, let
+  it change an action and cost something before an earned discovery kills it (mystery-and-clues.md §18).
 
 **Plausibility**
 - *Coincidence rescue* → chance gets a character out of trouble, or resolves the ending (deus ex machina) → make the
@@ -113,10 +121,18 @@ Extract, in one or two lines each:
   (world-and-society.md §4).
 - *Abstract world* → unnamed war, country and institutions; rules stated, not lived → specify, or commit to fable and
   stop the plot depending on logistics (world-and-society.md §6).
+- *Convenient institution* → a court, police force or hospital accepts what the plot needs after one mild question →
+  show the habit that makes it normal, the objectors and why they stay quiet, the protagonist's risk, and one forceful
+  push-back, or a visible choice not to look (world-and-society.md §7).
+- *Undated stakes* → a choice is weighed against a law or policy that depends on a year the story never fixes → date
+  the world; show the consequence through a known case (world-and-society.md §7).
+- *Mechanism that fails scrutiny* → the plot turns on a linguistic, legal, technical or magical detail that an expert
+  would reject, or that stops mattering once others confirm the wrong version → fill the mechanism ledger; find what
+  keeps the error alive (mystery-and-clues.md §19).
 
 **People**
-- *Function characters* → each person exists to do one plot job (the patient suitor, the lost beloved, the
-  helpful soldier) → give them a life beyond the plot, self-interest and one surprising but true action (character.md
+- *Function characters* → each person exists to do one plot job (the wise mentor, the loyal friend, the
+  comic neighbour) → give them a life beyond the plot, self-interest and one surprising but true action (character.md
   §8, §11).
 - *Saintly ally* → a good character who is never petty, jealous, tired or wrong → give a competing want and a moment of
   friction that costs something.
@@ -126,6 +142,10 @@ Extract, in one or two lines each:
   diction, rhythm, what each notices and how each dodges (voice-and-dialogue.md §2).
 - *No friction* → nobody argues, refuses or misunderstands; conflict is only with circumstances → let allies want
   different things and say so.
+- *Asserted sacrifice* → a character gives up years or safety for others on the strength of a climactic speech → stage
+  earlier scenes where the attachment acts and costs; mix the motives; show what the sacrifice damages (character.md §12).
+- *Stage-clearing professional* → the lawyer, officer or doctor exists to be impatient or absent so the plot can move
+  → give a competence, an interest or a suppressed doubt (character.md §9).
 
 **Emotion**
 - *We don't care* → jeopardy before attachment; no empathy point → build the bond first; give the protagonist effort,
@@ -155,6 +175,10 @@ Extract, in one or two lines each:
   to explain → see endings.md checklist.
 - *Too tidy* → in one scene every thread closes, every relationship reconciles, every motif returns, and the loss turns
   into consolation → proportion test and cost ledger; leave the honest residue open (endings.md §10).
+- *Closure pile-up* → individually earned echoes all return in the last two scenes → keep the one that carries the
+  meaning; move or drop the rest (endings.md §10).
+- *Rupture in a line* → the central relationship breaks in one exchange and a departure → give the break a scene,
+  including the response of anyone whose choice was overridden (endings.md §10).
 
 **Prose and visible machinery**
 - *"Conspicuously literary"* → high density of comparisons, aphoristic one-line paragraphs, symmetrical phrasing →
@@ -163,7 +187,20 @@ Extract, in one or two lines each:
   motif inventory; keep the load-bearing one or two echoes; break symmetries; let most details be merely real
   (prose.md §6).
 - *Sounds translated* → de-specified setting, generalizing similes ("the way you…"), calqued idiom → specify;
-  transcreate other-language editions (prose.md §10).
+  transcreate other-language editions (prose.md §10; translation.md).
+
+**Clarity and language**
+- *"I understand the words but not what's happening"* → accidental uncertainty: links missing at hinges, background
+  never given, pronouns resolving to the wrong person → intended-uncertainty list plus a cold read; repair links,
+  background and referents first (clarity-and-orientation.md §1–5, §12).
+- *Elegant hinge* → a simile or aphorism stands where the reader needed to learn what changed → state the change;
+  keep the image around it (clarity-and-orientation.md §6).
+- *Translated edition unfollowable* → the translation kept the source's information order and its typographic cues
+  (italics, capitals, explicit pronouns, tense) without replacing them → run the translation procedure: source
+  analysis, transfer plan, re-anchored drafting, verification passes, cold read (translation.md).
+- *Unnatural Arabic in an Arabic draft* → English syntax and attribution habits (tags after the line, long participle
+  chains, metaphors calqued word by word), dialect used without a plan, names that read as ordinary words →
+  arabic-writing.md.
 - *Genre promise broken or clichéd* → an obligatory scene is missing, or delivered in its most familiar form → list the
   genre's conventions; for each key scene list several alternatives and pick the truest, least-seen one (McKee; see
   genres.md).

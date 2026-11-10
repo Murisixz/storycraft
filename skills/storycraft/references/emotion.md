@@ -61,6 +61,9 @@ Use several of these in the first beats:
   (Howard & Mabley).
 - Keep the protagonist the most dimensional character, or empathy drifts to a more contradictory rival (McKee; see
   character.md §4).
+- **When sympathetic people transgress for love, let one figure of authority name the transgression once:** a healer
+  tells his apprentice that death has its sanctity and he violated it (*Wadi al-Dhi'ab*). The reader's unease gets a
+  voice without a sermon. A drugging or a parricide narrated with no comment at all reads as the book not noticing.
 
 ## 4. Objective and subjective drama
 - **Objective drama** is dramatic on the surface without knowing anyone: a baby crawling toward a cliff edge, a gun, an
@@ -92,6 +95,20 @@ Use several of these in the first beats:
 - **Emphasize reactions.** Many events are expected; the emotion lives in how they land on a particular person (McKee).
 - **Let awkwardness run.** Refusing to relieve an uncomfortable moment reveals character and holds the audience
   (Howard & Mabley on *sex, lies, and videotape* and *Annie Hall*).
+- **One incongruous gesture, then the change in one plain clause.** A smile at a catastrophe, then "my whole world
+  collapsed" (*Khawf* 2). No aphorism at the peak.
+- **Ritual and formulaic language carry feeling** a character can't say:
+  - give each fixed phrase a social function (rebuke, comfort, deflection, gratitude), and invert one only at a
+    turning point;
+  - at a death, let the culture's own ritual speak (the last words of faith, the funeral formula) without explanation
+    (*Arsis* 1);
+  - a pious formula can be given literal consequences, as when an oath answered with "amen" costs a daughter (*Khawf* 1).
+
+  For Arabic formulae, see arabic-writing.md §8.
+- **Grief as a daily act** with an object and a place (a letter left by an open window), shown first and explained
+  later (*Arsis* 1).
+- **Estrangement heals by a ladder of small acts:** an apology, a wave, a vow, a last message, a voice (*Arsis* 1). One
+  tearful speech does not do it.
 - **Restraint:** in *Up*'s montage Docter kept removing material and found "the less we had the more emotional it
   felt." Don't explain the feeling the image already delivers. Restraint governs *explicitness*: naming feelings,
   explaining images, speeches about meaning. It doesn't mean compressing events. A montage works in film because each
@@ -178,6 +195,9 @@ as McMurphy's defiance does in *Cuckoo's Nest*).
   or lose personally while the philosophical value triumphs (see endings.md, stakes convergence).
 - **Dramatic irony as tragic engine:** open with the ending (a death message, a grave, a final letter), then let the
   audience watch with dread and compassion as the characters walk toward it. Curiosity shifts to why and how.
+- **Show the safety device before the hero removes it.** When a well-meant act should doom someone, let the reader see
+  the protection first: a poison vial shown, stolen by the lover, missed at her death, and only then explained as her
+  way to rise again (*Wadi al-Dhi'ab*). The reversal needs those earlier physical beats.
 - **Comedy and tragedy share the gap.** Comedy turns the gap into a laugh; tragedy into insight. Mixing them (the tragic
   in the comic; McKee's "variety within unity") often makes sadness hit harder.
 

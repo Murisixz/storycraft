@@ -29,7 +29,7 @@ reader must live through, which they only need to know, and how to make the comp
 
 **Frequency** (often called singulative, iterative and repeating narration):
 - **Singular:** tell once what happened once.
-- **Iterative:** tell once what happened many times ("every night she climbed the stairs").
+- **Iterative:** tell once what happened many times ("every morning he swept the shop step").
 - **Repeating:** tell several times what happened once, through witnesses, memories or versions.
 
 Iterative narration is the most efficient way to carry years, and the most dangerous, because nothing in it can turn.
@@ -66,7 +66,7 @@ If the most dramatic events in the story reach the reader as one character's acc
   moment it's discovered.
 
 ## 4. Summary that lives
-- **Iterative plus instance.** Follow "every winter he brought the ointment" with one specific winter in scene: what was
+- **Iterative plus instance.** Follow "every Friday she brought him the newspaper" with one specific Friday in scene: what was
   said, what was refused, what went wrong. The iterative gives duration; the instance gives life.
 - **Change inside the summary.** A summarized stretch should move something: a relationship cools, a habit hardens, a
   hope dies a little. Summary in which nothing changes is filler. Cut it to a clause.
@@ -76,10 +76,13 @@ If the most dramatic events in the story reach the reader as one character's acc
   they skip, how they joke about it.
 - **Pressure from the present.** Summary placed inside a live scene, as memory triggered under strain, borrows that
   scene's tension. The reader keeps watching the present while the past arrives.
+- **One time phrase and one countable result per step.** Carry two years of apprenticeship as day five (a dropped
+  bottle), day seven (the first wage), the second year (the first case alone), and dramatize only the failures and the
+  turns (*Wadi al-Dhi'ab*).
 - **Proportion check.** If a summarized moment feels as if it deserves more, it's probably a scene. Stage it.
 
 ## 5. Carrying long time spans
-*Examples:* novel-studies.md §5 (ten ways the studied novels carry years).
+*Examples:* novel-studies.md §5 (more than a dozen ways the studied novels carry years).
 Stories covering years or decades need a strategy, not a run of "years passed" paragraphs. Choose one or combine a few:
 | Strategy | How it works | Watch for |
 |---|---|---|
@@ -90,6 +93,7 @@ Stories covering years or decades need a strategy, not a run of "years passed" p
 | **Braided timelines** | Alternate two periods, each with its own forward pull, converging | one line much weaker than the other |
 | **Mobile observer** | A narrator not bound to one time or place (an omniscient voice, a ghost, a historian) surveys many lives | spread so thin that no one is lived with |
 | **Documents** | Letters, diaries, records and reports span years quickly, in other voices | documents that explain instead of dramatize |
+| **Time-scale skeleton** | Headers that count the span ("the first minute … the first year … the last minute"), or a recurring calendar event counted per character | headers with no turn between them |
 
 **Rules for any strategy:**
 - **Keep a present tension running across the span:** a question, a danger, a promise, a clock.
@@ -112,13 +116,17 @@ When a character tells what happened, the telling can be a strong scene if it is
 - **For long accounts,** let the telling dissolve into dramatized past (a scene inside the account, with dialogue), then
   return to the present listener at moments of strain. Or split the account across several sittings or several
   witnesses, each with their own agenda and distortions (mystery-and-clues.md §10).
+- **Interrupt a long account with concrete present beats** (a traffic light, a horn, the listener's interjection), so
+  the reader stays in place and time while the past is told (*Khawf* 1).
+- **An offstage event can be delivered twice:** first as broken fragments to a helpless listener whose life depends on
+  them, then as a coherent account (a battle reported by a medium while the hero's shroud lies ready, *Khawf* 1).
 - **Watch the reveal monologue.** One person explaining the backstory to a silent listener is the commonest form of
   explanation overload (information-design.md §7).
 
 ## 7. Interiority as scene time
 In prose, thought can be scene time. Moment-by-moment perception, calculation, temptation and decision, pressed by the
 present situation, is dramatized interiority, and a long scene can be mostly inside one head. Reflection afterwards
-("she understood a little better what she had done") is summary. Both are legitimate, but don't let reflection replace
+("later she saw what the visit had cost him") is summary. Both are legitimate, but don't let reflection replace
 the moment it reflects on: stage the moment, then let the reflection be short.
 
 ## 8. Chapters, breaks and transitions
@@ -127,9 +135,24 @@ the moment it reflects on: stage the moment, then let the reflection be short.
 - **Use section breaks to cut dead time** and to make leaps. A break plus a changed situation tells the reader time has
   passed without a sentence saying so.
 - **Use transitions to carry feeling** across cuts through a shared or opposed element: an object, a word, a sound, a
-  light, a gesture (McKee; Howard & Mabley).
+  light, a gesture (McKee; Howard & Mabley). Two chapter endings in one sentence frame can link two worlds before the
+  plot does: two skies, the same "it has appeared again" (*Wadi al-Dhi'ab*).
 - **Cross-cutting** between lines can stretch suspense. Its cost is that each cut interrupts immersion, so cut at
-  moments of maximum question, not mid-feeling (long-form.md §6).
+  moments of maximum question, not mid-feeling (long-form.md §6). Open each segment with its subject and place in the
+  first few words, and mark simultaneity when it matters ("at the same hour…"). Give every re-entry its own clock
+  phrase when several strands converge (*Amarita*'s six places before its climax). A slug line (place, then time) lets
+  strands run with no connective (*Arsis* 2).
+- **State the length of a time skip at the skip** ("a month passed…"). A skip measured only later leaves the reader
+  unable to weigh absences and progress (*Ard Zikola*).
+- **After a chapter break inside continuous action,** re-enter through the hearer's reaction, a one-line recap of the
+  hook, or the same beat replayed from the new narrator's side (*Amarita*). When you return to a strand, repeat its
+  last line (*Wadi al-Dhi'ab*). Chapter breaks can be cliffhanger cuts in the middle of the action, but not between a
+  question and the answer the reader needs to follow the scene.
+- **Replays** (a memory, a time loop, a second chance) reuse the exact earlier sentences and headers, so the reader
+  recognizes the loop, and change only what has changed (*Arsis* 1).
+- **Leaving a flashback:** rejoin the main line by repeating an earlier sentence verbatim (*Khawf* 1), or cut back with a
+  sound in the present, such as a bell or a phone (*Arsis*). For the markers that enter a memory, see
+  clarity-and-orientation.md §3.
 
 ## 9. Proportion: where the words go
 - **Measure the shares.** List the beats and their word counts. The beats that turn the story should get the largest

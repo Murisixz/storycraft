@@ -69,6 +69,10 @@ story needs.
 - **Antagonist viewpoints** buy dread and understanding, but they risk giving away plans and identities. Decide what the
   antagonist chapters may reveal and hide (§9).
 - **Balance the lines.** If one viewpoint is much weaker, readers skim it. Each line needs its own forward pull.
+- **Witness relays.** When many first-person witnesses share a book, give each a reason to be the witness and a
+  noticing habit: the maid sees the palace, the boy the boat, the soldier the law (*Amarita*). Mark every switch the
+  same way (clarity-and-orientation.md §3). *Wadi al-Dhi'ab* keeps six first-person narrators and four time-frames
+  clear with a name heading at every switch and a first sentence that gives who, where and when.
 
 ## 5. Disclosure control: how a narrator manages what the reader learns
 A narrator can let the reader sense far more than is stated. These are the main instruments, and each has a cost:
@@ -122,6 +126,9 @@ A narrator can let the reader sense far more than is stated. These are the main 
 A child, a dead person, a collective "we", an animal, an institution, a future historian:
 - **Define the limits precisely.** What can this narrator perceive, know, enter or affect? Keep the rules consistent.
   Breaking them for convenience destroys trust.
+- **Two minds in one body** (a borrowed sight, a possession, a vision): anchor each sentence with the host's name and a
+  sense verb, use the present for the borrowed scene and the past for the frame, and bracket the passage with "I
+  closed my eyes… I opened my eyes" (*Wadi al-Dhi'ab*).
 - **Use the displacement.** The unusual position should show what an ordinary narrator couldn't: the dead seeing the
   living grieve, a child seeing adults' lies without understanding them.
 - **Give the narrator their own want and change.** A narrator who only observes becomes a camera. Even a dead narrator

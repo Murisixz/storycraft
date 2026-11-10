@@ -143,6 +143,8 @@ complications** → **crisis** (the decisive dilemma) → **climax** (the decisi
 - Structure dilemmas as a **triangle** (the character torn between two things, which may be people, ideals or selves),
   not as back-and-forth vacillation, and end them with an **irreversible sacrifice**.
 - Suffering is not drama; give victims decisions.
+- **Give characters a real means of peace and let them refuse it** (a signal that would stop a war; *Amarita*). The
+  war then becomes partly theirs. The refusal's cost must be felt afterwards.
 
 ## 9. Subtext
 - **Never write a scene "about what it's about"** (McKee). Put the real action under a surface task: a love scene played
@@ -156,11 +158,11 @@ complications** → **crisis** (the decisive dilemma) → **climax** (the decisi
 ## 10. Exposition and backstory
 - Exposition is ammunition: characters use facts as weapons or tools to get what they want in the scene; conflict
   first, information second; cut "as you know" lines (McKee).
-- **Withhold by default:** cut what the audience can infer; give only what prevents confusion; plant the question
-  "Why?" before supplying the answer.
+- **Withhold by design, not by default:** cut what the audience can infer; give what prevents confusion when it is
+  first needed (clarity-and-orientation.md §9); plant the question "Why?" before supplying the answer.
 - **Order from least to most important,** secrets last, forced out under pressure.
 - **Rules of thumb** (Howard & Mabley): eliminate the non-essential; deliver necessary exposition in conflict (or humor);
-  postpone it to its moment of maximum impact; use an eyedropper, not a ladle; make the audience work for it.
+  postpone it to its moment of maximum impact; use an eyedropper, not a ladle; make the audience work for the withheld part, never for the basic situation.
 - **Flashbacks** only once the audience hungers for them, and each must be a mini-drama with its own turn (McKee).
 - **Narration test:** remove it; keep it only if it adds counterpoint rather than explanation (McKee).
 - **Open on a consequence and withhold its cause** to pull curiosity backward while the present pulls forward.

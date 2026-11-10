@@ -43,7 +43,8 @@ number recurs, the reader starts reading the pattern instead of the people.
   Readers adjust to any consistent register. What they notice is a register that doesn't match the speaker, or that
   never varies.
 - **Heighten rarely and on purpose.** Lift the language at the peaks: dream, dread, revelation, ecstasy, the image the
-  book will be remembered by. Elsewhere, plain prose builds the credit the peaks spend. A book that is heightened in
+  book will be remembered by. Heighten *around* a revelation, but state the revelation itself literally
+  (clarity-and-orientation.md §6). Elsewhere, plain prose builds the credit the peaks spend. A book that is heightened in
   every paragraph has no peaks.
 - **Plain is not flat.** Plain prose still has exact nouns, live verbs and controlled rhythm. A plain narrator can be
   devastating precisely because they don't dramatize; the reader supplies the feeling the narrator declines to name.
@@ -67,7 +68,7 @@ number recurs, the reader starts reading the pattern instead of the people.
   - comes from the viewpoint character's own world (a sailor's comparisons differ from a dressmaker's);
   - is fresh rather than stock.
 - **Strip the decorative ones.** A comparison that only decorates or tells the reader how to feel can usually go.
-- **Watch the generalizing simile** ("the way you know the last step of your own stairs", "the way people do"). It steps
+- **Watch the generalizing simile** ("the way you know a friend's laugh across a room", "the way people do"). It steps
   outside the scene, addresses the reader and universalizes. Once in a while it creates intimacy; repeated, it becomes
   the author's signature and turns every moment into a little lesson. In the published novels measured below it is
   close to absent, about 0.0–0.1 per 1,000 words.
@@ -82,15 +83,24 @@ number recurs, the reader starts reading the pattern instead of the people.
   - long, accumulating sentences for perception, memory and complex thought;
   - short ones for impact, decision and shock.
   A uniform rhythm (all short, all long, or all the same shape) dulls.
-- **Use one-line paragraphs sparingly.** "It was not a question." "Nothing came." Each works once or twice. A dozen in a
+- **Use one-line paragraphs sparingly.** "He did not wait." "The door stayed shut." Each works once or twice. A dozen in a
   short story become a drumbeat that announces "this is significant".
 - **Repetition is a tool with a short half-life.** Anaphora ("She thought: … She thought: …"), refrains and triads work
   when rare and when each repetition changes something. A refrain repeated unchanged becomes wallpaper.
-- **Watch for symmetrical sentences.** Balanced antitheses, zeugma ("a gap in his teeth and a mother in the hills") and
+- **Watch for symmetrical sentences.** Balanced antitheses, zeugma ("he took his hat and his leave") and
   chiasmus are ornaments. Two in a scene can delight; a steady supply makes the voice sound composed and literary, not
   lived.
 - **Dialogue has its own rhythm.** People interrupt, trail off, repeat themselves and answer the question before last
   (voice-and-dialogue.md §3).
+- **Sentences at hinges and shocks:**
+  - give the decisive fact of a hinge its own short, literal clause, never subordinated to a simile
+    (clarity-and-orientation.md §6);
+  - in a sentence of dread, the worst detail can come last: hedge, plain detail, worst detail (horror.md §6);
+  - a shock is one flat sentence, with no ellipsis and no exclamation mark;
+  - in a physical crisis, give one bodily change per clause, in physiological order, and no adjective of emotion is
+    needed (*Ard Zikola*'s collapse).
+- **Hand off between paragraphs.** Start the next paragraph on the person or object the last one ended with, or on a
+  time word.
 
 ## 6. Motifs, symbols, echoes and numbers: the budget
 - **Budget by length.** A short story can carry one or two load-bearing echoes, an image or line that returns with a
@@ -98,14 +108,14 @@ number recurs, the reader starts reading the pattern instead of the people.
   meaning; they show the design.
 - **Load-bearing versus decorative.** An echo is load-bearing when its return changes what the reader understands or
   feels. Keep those. Cut, vary or let fall the rest.
-- **Break the symmetries.** Life is asymmetrical. If counts match (three nights and three nights; nine days and nine
-  nights), an identical mark appears on two people, and the same line returns in another mouth, keep the one that
+- **Break the symmetries.** Life is asymmetrical. If counts match (seven days here and seven days there), the same scar
+  appears on two people, and the same line returns in another mouth, keep the one that
   matters and break the others by changing:
   - the number;
   - the timing;
   - the agent;
   - the outcome.
-- **Numbers as motif.** Exact numbers give authority ("nineteen steps"). They also give the author away when every
+- **Numbers as motif.** Exact numbers give authority ("forty-two stairs"). They also give the author away when every
   chapter is titled with a number and every span is counted. Count only what a character would count, and only when the
   count matters to them.
 - **Plant without pointing.** A plant the reader notices as a plant is announcing its payoff (information-design.md
@@ -126,9 +136,7 @@ number recurs, the reader starts reading the pattern instead of the people.
 
 ## 8. Measuring the prose (benchmarks from published novels)
 Rough counts make habits visible. They are made with simple pattern matching on extracted text, so they are good for
-comparison only, not as standards. The texts are those studied for this skill (see novel-studies.md and sources.md). A
-skill-made story, "The Answering Light", which an editor criticized as "conspicuously literary", is included for
-contrast.
+comparison only, not as standards. The texts are those studied for this skill (see novel-studies.md and sources.md).
 
 | Text | Comparisons per 1k words ("like a/the…", "as if/though", "the way…") | Generalizing "the way you/one/people…" per 1k | Number words per 1k | Dialogue share |
 |---|---|---|---|---|
@@ -141,7 +149,8 @@ contrast.
 | The Da Vinci Code | 1.4 | 0.01 | 11.4 | 31% |
 | The Secret History (opening only) | 2.8 | 0.00 | 14.7 | 18% |
 | The Thirteenth Tale (opening only) | 1.5 | 0.13 | 11.3 | 2% |
-| *The Answering Light* (skill-made) | **5.0** | **1.25** | **36.5** | 8% |
+
+Drafts that editors call "conspicuously literary" often run at two to three times these rates.
 
 How to read it:
 - **Ornate isn't the same as tic-ridden.** Even the most ornamented novel in the set ran about 2.5 explicit comparisons
@@ -168,12 +177,16 @@ How to read it:
 ## 10. Translationese and editions in other languages
 - **What it is.** Translationese is syntax and idiom carried across languages: calqued similes, foreign word order, and
   idioms that don't exist in the target language. It makes a text sound translated even when the story is good.
-- **Transcreate.** When producing an edition in another language, rebuild the sentences in that language's idiom and
-  rhythm: equivalent imagery, natural dialogue registers, native proverbs or none. Don't map sentence to sentence.
-  Keep the plot, the clues and the emotional beats exact; let the surface be native.
+- **It is rarely the main reason a translation can't be followed.** Foreign phrasing usually causes only minor
+  stumbles. What breaks comprehension is the information plan:
+  - links left to the reader;
+  - pronouns that resolved to the wrong person;
+  - English metalanguage ("she wrote *we*") laid over Arabic grammar;
+  - background facts never given.
+- **Transcreate.** Rebuild the sentences in the target language's idiom and rhythm, and re-plan where each fact and
+  link appears. The full procedure is in `translation.md`; for Arabic, see also `arabic-writing.md`.
 - **Check the original too.** A de-specified fable register in the original ("the capital", "a committee", proverbial
   epigraphs, generalizing similes) reads as translated in *any* language. Fix that at the source.
-- **Names** follow the target language's conventions, and so do quotation punctuation and dialogue formatting.
 
 ## 11. Prose failure patterns and repairs
 | Symptom | Likely cause | Repair |
@@ -186,6 +199,7 @@ How to read it:
 | "Purple" | heightened register everywhere | choose the peaks; flatten the rest |
 | "Flat" | generic nouns, filtered perception ("she saw", "she felt"), no attitude | exact nouns, live verbs, perception through a character with an opinion |
 | "Too neat" | every object returns; numbers match | break symmetries; let details be merely real (§3, §6) |
+| "Beautiful, but what just happened?" | an image or aphorism stands where a fact or decision belongs | state the change at the hinge; keep the image around it (clarity-and-orientation.md §6) |
 
 ## 12. Prose checklist
 - [ ] Is the home register chosen, and are the heightened passages reserved for peaks?
@@ -196,4 +210,5 @@ How to read it:
 - [ ] Symmetries broken except the one that matters?
 - [ ] Few one-line aphoristic paragraphs, each placed where it lands?
 - [ ] Backstory distributed, not dumped, and never parked inside the revelation?
-- [ ] Other-language editions transcreated, not calqued?
+- [ ] At every hinge (clarity-and-orientation.md §6), is the literal change (what was learned, decided, done) clear before any image?
+- [ ] Other-language editions transcreated, not calqued, with the information plan re-checked (translation.md)?

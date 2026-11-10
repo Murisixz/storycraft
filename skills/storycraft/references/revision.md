@@ -17,13 +17,15 @@ a missing scene only makes the machinery shinier.
 10. Pass 7: emotion, ending, proportion
 11. Pass 8: prose and visible machinery
 12. Pass 9: continuity
-13. Restructure or revise?
-14. Reporting a revision
+13. Pass 10: clarity (the cold read)
+14. Restructure or revise?
+15. Reporting a revision
 
 ---
 
 ## 1. Ground rules
-- **Big to small.** The order is scope → spine → information → scenes → people → world → ending → prose → continuity.
+- **Big to small.** The order is scope → spine → information → scenes → people → world → ending → prose → continuity →
+  clarity.
   A later pass can't rescue an earlier failure.
 - **Measure, then judge.** Counts and tables expose habits the eye skips:
   - the scene/summary mix;
@@ -75,6 +77,7 @@ Record it as a table: claim | evidence | verdict | cause | fix. Template: `asset
 | 7 Ending | Is the settlement proportionate? Who keeps paying? | cost ledger, tidiness tally | leave residue; partial reconciliation; a consolation that costs |
 | 8 Prose | Where does the machinery show? | motif inventory, tic counts | cut echoes; break symmetries; vary syntax; specify |
 | 9 Continuity | Do dates, ages, counts, names and knowledge agree? | master timeline | fix |
+| 10 Clarity | Can a fresh reader follow who, where, when and the link to the previous beat at every paragraph, while the secret stays hidden? | cold read (`comprehension-log`) | orient scenes; re-anchor referents; state hinges; give background at first need |
 
 Checklist version: `assets/templates/revision-checklist.md`.
 
@@ -118,7 +121,7 @@ to live (a full dramatic scene in a novel usually runs to thousands of words, no
 ## 6. Pass 3: information and inference (the leak audit)
 **Leak audit:**
 1. List each secret and open question.
-2. Read the draft cold, section by section. After each one, write down what a sharp, genre-literate reader would now
+2. Read the draft section by section as a sharp, genre-literate first reader would, section by section. After each one, write down what a sharp, genre-literate reader would now
    guess and how sure they would be (low, medium or high), using only the pages so far.
 3. Mark the **inference point**: the first section where the true answer becomes the reader's best guess.
 4. Compare it with the reveal point. If inference comes well before the reveal, the reveal will merely confirm. Choose
@@ -136,8 +139,8 @@ to live (a full dramatic scene in a novel usually runs to thousands of words, no
 - a second voice (an interlude, prologue or document) that knows more and hints;
 - details that make sense only if the secret is true;
 - emphatic repetition;
-- symmetries that point, such as two identical marks or matched counts;
-- "the thought she did not let herself think" lines;
+- symmetries that point, such as two matching scars or matched counts;
+- "there was one thing she refused to think about" lines;
 - jacket copy or chapter titles.
 
 ## 7. Pass 4: scene and summary
@@ -155,7 +158,7 @@ Mark each as staged, reported or summarized. By default, stage them all. Summari
 - a deliberate omission that the story then makes the reader feel elsewhere.
 
 **Ways to turn summary into life** (scene-and-summary.md §4–6):
-- **An iterative summary plus one singular instance:** "Every winter he brought the ointment", then one winter staged,
+- **An iterative summary plus one singular instance:** "Every Friday she brought him the newspaper", then one Friday staged,
   with friction.
 - **Report to scene:** move the event on stage, or stage the *telling* as a scene with its own conflict.
 - **A sequence of moments** that each change something, rather than a montage of the same mood.
@@ -231,7 +234,14 @@ Check against a master timeline:
 - who holds which object when;
 - what each character could know at each moment.
 
-## 13. Restructure or revise?
+## 13. Pass 10: clarity (the cold read)
+Run this after the text is stable, and again after translating it.
+1. **Write the intended-uncertainty list:** what the reader must not yet know, may suspect, should infer and must have
+   clear, stage by stage (`clarity-and-orientation.md` §2).
+2. **Do the cold read and the repairs** in `clarity-and-orientation.md` §12 (template `comprehension-log`). For a
+   translation, add `translation.md` §8.
+
+## 14. Restructure or revise?
 **Restructure** (reconceive and redraft) when:
 - the scope and the length don't match;
 - the protagonist is wrong;
@@ -247,7 +257,7 @@ Check against a master timeline:
 
 Before a restructure, list what must survive (lines, images, the core idea) and carry it across.
 
-## 14. Reporting a revision
+## 15. Reporting a revision
 Lead with what works. Then give:
 - the core problem in one sentence, with evidence;
 - the ranked issues, each with its evidence, cause and fix;
