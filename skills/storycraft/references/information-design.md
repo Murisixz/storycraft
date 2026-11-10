@@ -14,8 +14,9 @@ so many events in a sequence" (Howard & Mabley).
 7. Designing a reveal
 8. Exposition is information design
 9. The information ledger (procedure)
-10. Failure modes
-11. Quick recipes by form
+10. Inference control: leaks, rival explanations and the reader's speed
+11. Failure modes
+12. Quick recipes by form
 
 ---
 
@@ -125,6 +126,7 @@ For every sequence, choose deliberately where the audience stands relative to th
   ideally a **turning point inside the climax** (McKee) or the final recognition.
 
 ## 7. Designing a reveal
+*Examples:* novel-studies.md §7 (explanation versus consequence in the studied novels).
 - **Recognition + reversal together** is the strongest form: the change from ignorance to knowledge flips the
   situation at the same moment (Aristotle's Oedipus).
 - **Stage it through action and image**, not explanation. The best reveals are implied or shown (Chinatown replaced a
@@ -133,7 +135,17 @@ For every sequence, choose deliberately where the audience stands relative to th
   plant and payoff in time; distract when they must be close.
 - **Choose its position.** Where should the audience learn it relative to the character? Before (irony and dread), with
   them (shared shock), after (mystery, and the character's behavior is reinterpreted in hindsight)?
-- **Give it aftermath.** Let characters and audience absorb the blow (preparation and aftermath).
+- **Give it aftermath and consequence.** Let characters and audience absorb the blow, then show what someone does
+  because of it (endings.md §9–10).
+- **Keep the explanation load light.** The revelation scene should carry the one fact that turns it, not the whole
+  backstory. Plan the explanation across the story:
+  - **Before:** spread the backstory as unexplained effects and partial accounts (an odd habit, a gap in a record, a
+    reaction that doesn't fit), so the reveal *connects* rather than *informs*.
+  - **During:** give the explainer a goal in the telling (to be forgiven, to wound, to keep one last thing back) and
+    let the listener resist, interrupt or refuse. A confession is a scene, not a lecture.
+  - **After:** leave room for questions the characters ask later and for consequences.
+  - **Long embedded accounts** (a manuscript, a letter, a confession) stop the present story. Budget their length and
+    give them their own voice and gaps.
 - **For endings that leave a question:** answer the emotional question fully; leave open only a question the story's
   clues make answerable (a real answer exists, and attentive viewers can argue for it).
 
@@ -158,7 +170,53 @@ Use `assets/templates/information-plan.md`. For each major secret or question:
 Then run down the beat list and confirm that the audience always has at least one live question, and that one is
 answered roughly as another opens.
 
-## 10. Failure modes
+## 10. Inference control: leaks, rival explanations and the reader's speed
+*Examples:* novel-studies.md §4 (framing, conceding, sealing, rotating).
+Fairness guards against under-planting. The opposite failure is just as common and harder to see from the inside:
+the author knows the answer, so every hint feels subtle, while the reader assembles it chapters early and the reveal
+lands as confirmation.
+- **Track inference, not just disclosure.** For each secret, record when the audience is *told* and also when a sharp
+  reader could *infer* it with confidence. The gap between the inference point and the reveal point decides the
+  effect:
+  - **Inference just before the reveal:** the pleasure of being right.
+  - **Inference at the reveal:** shock with insight.
+  - **Inference long before:** the reveal is a formality, unless the design has turned the secret into irony.
+  Procedure: revision.md §6. Template: `assets/templates/information-plan.md`.
+- **Know where leaks come from:**
+  - **A second voice that knows:** an interlude, a prologue in the secret-keeper's voice, a document, or the narrator's
+    hindsight remarks. Each hint is small; together they give the answer away.
+  - **Details that only make sense if the secret is true,** like a speaker who couldn't know the beloved's face, or a
+    mark that matches.
+  - **Emphasis:** a detail lingered on, repeated or given its own paragraph.
+  - **Symmetry:** matched numbers, mirrored events, the same line in two mouths. Patterns point.
+  - **Packaging:** chapter titles, epigraphs, jacket copy, a "the thought she would not let herself think" line.
+- **Keep a rival explanation alive.** A mystery holds when the reader can believe more than one answer. Give the false
+  answer real support:
+  - a motive;
+  - a piece of evidence;
+  - a character who argues for it;
+  - the viewpoint character's own assumption (often the strongest, because the reader shares it).
+
+  Every rival explanation needs its own innocent truth (mystery-and-clues.md §8).
+- **Control speed with the narrator.** A narrator who misreads, who is too young or too invested to understand, or who
+  uses euphemisms she was taught, lets the reader sense more than she says and so supports irony. A narrator who
+  withholds by choice must have a reason the reader accepts, and the withholding must be part of her character
+  (viewpoint-and-narration.md §5).
+- **One strategy per secret per stretch.** Choose mystery, suspense or irony for each secret in each stretch. A second
+  voice that gives the reader the answer converts a mystery into irony, whether intended or not. Then write the
+  scenes irony needs: characters acting on the false belief while the reader winces.
+- **Decide what the reveal is for:**
+  - **Recontextualizing:** earlier scenes change meaning.
+  - **Confirming:** a dreaded guess comes true, which works for tragedy if the reader was meant to dread it.
+  - **Forcing a decision:** the fact matters for what someone must now do.
+
+  Mystery-led stories need the first or the third. A known fact can still devastate when its *consequences* are the
+  reveal.
+- **Plants that don't point.** A plant is fair when it's visible and fairly readable in hindsight, and it hides when
+  it is also *doing another job* (characterization, comedy, conflict) at the moment it appears. A detail that has no
+  job except being a clue points at itself.
+
+## 11. Failure modes
 - **Confusion mistaken for mystery:** the audience doesn't know what's at stake, who wants what, or where/when it is.
   Fix: clarify the situation; hide only the specific fact.
 - **Withheld danger:** no suspense because the audience can't foresee what might go wrong. Fix: show the bomb.
@@ -169,8 +227,14 @@ answered roughly as another opens.
 - **Explaining the reveal:** a long speech after the image already landed. Fix: trust implication, cut the speech.
 - **Mystery box without contents:** intriguing questions with no designed answer. Fix: write the hidden story before
   plotting the clues.
+- **Leaky secret:** the reader infers the answer long before the reveal. Fix: leak audit; cut or soften the pointing
+  details; support a rival explanation; or convert to deliberate irony (§10).
+- **Mixed strategy:** a secret run as a mystery in the main line while a second voice gives it away. Fix: choose one
+  strategy per stretch (§10).
+- **Explanation-heavy reveal:** the backstory delivered as a monologue inside the revelation scene. Fix: distribute it
+  earlier as effects; keep only the turning fact; give the teller a goal and the listener resistance (§7).
 
-## 11. Quick recipes by form
+## 12. Quick recipes by form
 - **Short video (≤3 min):** open on an effect without its cause (curiosity) or on a visible danger (suspense); keep one
   dominant question; place 2–4 visual clues that are legible on rewatch; end with a recognition that recontextualizes
   the first shot.

@@ -4,7 +4,7 @@ Storycraft's guidance is written in its own words and synthesizes the sources be
 Where a source was known only through a summary or secondary account, that is stated, so users can verify load-bearing
 claims.
 
-## Books read in full
+## Craft books read in full
 - **Robert McKee, *Story: Substance, Structure, Style, and the Principles of Screenwriting*** (ReganBooks/HarperCollins,
   1997). Story events and value change; the gap between expectation and result; the risk test; empathy vs sympathy;
   the five-part design (inciting incident, progressive complications, crisis, climax, resolution); scene design and
@@ -20,6 +20,38 @@ claims.
   dramatic irony and the revelation→recognition obligation; preparation and aftermath (including by contrast); planting
   and payoff; advertising and elements of the future; plausibility and inevitability; activity vs action; dialogue;
   visuals; the dramatic scene and its rewrite questions; sixteen film analyses.
+
+## Novels studied for version 2
+Each was read in full, in order, in chunks of about 7,000 words, with a note per chunk. Each note quotes the chunk's
+first and last sentences, and every quotation in the notes was machine-checked against the text. The skill draws
+principles and contrasts from these books (see novel-studies.md). It does not reproduce their plots, characters or
+prose beyond short attributed quotations.
+- **Daphne du Maurier, *Rebecca*** (1938; Little, Brown e-book, 2013). All 27 chapters; Sally Beauman's afterword
+  excluded.
+- **Agatha Christie, *And Then There Were None*** (1939; HarperCollins e-book, 2003, from a scanned print copy).
+  Complete with the Epilogue and the closing manuscript.
+- **Ian McEwan, *Atonement*** (2001; US first-edition text, Nan A. Talese/Doubleday, 2002). Complete through "London,
+  1999".
+- **Alice Sebold, *The Lovely Bones*** (2002; an unofficial e-text without a publisher's page). Complete.
+- **Carlos Ruiz Zafón, *The Shadow of the Wind***, translated by Lucia Graves (English edition; an unofficial e-text).
+  Complete. Observations about sentences describe the translation.
+- **Dan Brown, *The Da Vinci Code*** (Doubleday, 2003). Complete, Prologue to Epilogue.
+- **Kazuo Ishiguro, *Never Let Me Go*** (2005; an unofficial e-text with Knopf jacket copy). Complete, all three parts.
+
+## Openings only
+- **Donna Tartt, *The Secret History*** (Knopf e-book preview): the Prologue and the opening of Book I. Used only for
+  observations about openings.
+- **Diane Setterfield, *The Thirteenth Tale*** (Orion extract): the opening only. Used only for observations about
+  openings.
+
+## Supplied but not used
+- A file labelled *Mystic River* (Dennis Lehane) turned out to be a Bookey app summary, not the novel. No craft claims
+  are drawn from it.
+
+## Length bands
+- Novelette 7,500–17,500 words; novella 17,500–40,000 words: the SFWA Nebula Award categories, via
+  [Wikipedia: Nebula Award for Best Novella](https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novella) and
+  [Locus: Definitions](https://locusmag.com/SFAwards/Definitions.html). Other awards and markets use other bands.
 
 ## Secondary summaries used (not the original books)
 - John Fraim's outline of **John Truby, *The Anatomy of Story*** (FSG, 2007): premise and designing principle; seven key

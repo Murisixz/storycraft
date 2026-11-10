@@ -93,7 +93,12 @@ Use several of these in the first beats:
 - **Let awkwardness run.** Refusing to relieve an uncomfortable moment reveals character and holds the audience
   (Howard & Mabley on *sex, lies, and videotape* and *Annie Hall*).
 - **Restraint:** in *Up*'s montage Docter kept removing material and found "the less we had the more emotional it
-  felt." Don't explain the feeling the image already delivers.
+  felt." Don't explain the feeling the image already delivers. Restraint governs *explicitness*: naming feelings,
+  explaining images, speeches about meaning. It doesn't mean compressing events. A montage works in film because each
+  image is a lived moment. In prose, a paragraph that summarizes a decade is not a montage; it's a skipped story.
+  Stage the moments of choice, confrontation and consequence in full, and keep their emotional statement understated
+  (scene-and-summary.md). Several studied novels leave their most important deaths unnarrated, but only after the
+  people were lived in scene, and with the aftermath staged (novel-studies.md §8).
 
 ## 6. Shaping the emotional rhythm
 - **Preparation and aftermath** (Howard & Mabley): scenes in which characters and audience brace for, or absorb, a
@@ -130,7 +135,8 @@ Design rules that follow:
    than being told afterward.
 5. **Measure the loss by contrast:** re-stage an earlier happy moment after the loss (the same ritual with one chair
    empty; the lobster scene replayed with a new partner in *Annie Hall*), or let a beloved line return in another mouth
-   (Howard & Mabley).
+   (Howard & Mabley). Choose **one** such echo. Several stacked together (a returning line, a re-staged ritual, a
+   mirrored mark, matched counts) turn the loss into a pattern the reader admires instead of feels (prose.md §6).
 6. **Leave a trace:** an object, gesture or image that carries the loss forward (the key image; see endings.md).
 7. **Hold back.** Under-dramatize the expression of grief; over-dramatize the specific detail.
 8. **No false nostalgia:** an idealized world has nothing to lose. Hopes must be able to fail and people must have base
@@ -138,7 +144,13 @@ Design rules that follow:
 
 ## 8. A design sequence for heartbreak
 A synthesis drawn from McKee's two full scene analyses (Casablanca's Paris market scene; the climax of *Through a Glass
-Darkly*) and his chapters on antagonism and irony. Use it as a checklist, not a formula:
+Darkly*) and his chapters on antagonism and irony. **Use it to check a design, never to generate one.** A story built
+by walking these steps in order produces a schematic: hope, then the blow, then the irony, then silence and a designed
+final image. The machinery shows and the people thin out. Start from the people and the situation, design the
+heartbreak the way *these* characters would cause and suffer it, then check it against the list. Many devastating
+stories skip steps. Some reveal the outcome at the start and let grief, not suspense, drive the whole book; some never
+let the hope come within reach; some hold the blow back until the reader has stopped bracing (novel-studies.md
+compares several).
 1. **Open on hope.** Establish what the character longs for and let the audience want it too.
 2. **Bring it within reach.** Let it nearly happen: the reunion, the confession, the cure.
 3. **Let the blow come through the character's own flaw or choice**, not chance: pride, fear, a lie, a promise kept
@@ -149,7 +161,9 @@ Darkly*) and his chapters on antagonism and irony. Use it as a checklist, not a 
    control, a truth the character hid even from themselves (see character.md §6).
 6. **Let the audience see what the character can't** (dramatic irony): a half-truth revelation gives the character
    false insight while the audience holds the real one.
-7. **Give the aftermath its silence,** then a final image that crystallizes the meaning.
+7. **Give the aftermath its weight:** silence where the blow lands, then **consequences**, meaning what the characters
+   now do (blame, refuse, confess, leave, stay, change how they treat each other), and only then, if at all, a final
+   image. An aftermath that is only silence and an image skips the part of grief that is lived.
 Two more patterns from Howard & Mabley's analyses: **doom from locked opposites** (two characters who can't escape each
 other, with one exit that would satisfy both, destroyed by a deliberate choice: Stanley exposing Blanche to Mitch in
 *A Streetcar Named Desire*); and **downfall through virtue** (the protagonist's best quality causes their destruction,

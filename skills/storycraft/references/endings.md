@@ -13,8 +13,9 @@ Mabley). Design the ending first; everything else is built to make it feel inevi
 7. Meaning: the controlling idea and the ending's charge
 8. The key image and the last beat
 9. The resolution
-10. Open endings that still satisfy
-11. Ending checklist
+10. Proportion, residue and tidiness
+11. Open endings that still satisfy
+12. Ending checklist
 
 ---
 
@@ -94,7 +95,8 @@ decisive action and irreversible change) → **resolution**. Use whichever vocab
   character understands, too late or just in time, what was true all along.
 - **Satisfying is not the same as happy** (Howard & Mabley on *One Flew Over the Cuckoo's Nest*): a tragic ending
   satisfies when it completes the story and carries a hint of upturn (the Chief's escape: lost in the flesh, won in
-  the spirit). A relentlessly downbeat ending, with no meaning salvaged, tends to fail.
+  the spirit). A relentlessly downbeat ending, with no meaning salvaged, tends to fail. The opposite failure is just as
+  common: an upturn so complete that it cancels the loss. Salvage meaning, not comfort (§10).
 - **Earned sadness:** a sad ending lands when the loss is of something the audience has watched the character love,
   and when it reveals what that love or choice meant. Arbitrary death is shock, not tragedy (see emotion.md).
 - **Ironic endings** (positive and negative at once) are often the most truthful and memorable: Ordinary People's
@@ -136,8 +138,45 @@ decisive action and irreversible change) → **resolution**. Use whichever vocab
 - The resolution is where the theme is read: the same material ends happily in one story and bittersweetly in another,
   and that choice is the author's point of view (Howard & Mabley).
 - Keep it short; the audience is done hoping and fearing.
+- **Resolution is not the same as consequences.** When the climax is a revelation (a confession, a discovery, a
+  recognition), the characters' response to it is still part of the climax. They argue, blame, refuse, decide, and
+  change how they treat each other. Stage that before the brief resolution. Jumping from the revelation straight to a
+  grace note makes the ending feel convenient (§10).
 
-## 10. Open endings that still satisfy
+## 10. Proportion, residue and tidiness
+*Examples:* novel-studies.md §10 (where each studied ending is tidy and where it is costly).
+An ending can be elegant and still feel false if its emotional settlement is out of proportion to what happened. The
+bigger the loss, deception or harm, the more an easy reconciliation reads as the author's convenience rather than
+the characters' truth.
+- **Proportion test.** Set the size of the wound (years lost, a death caused, a long deception, a betrayal) beside the
+  time, cost and difficulty of the settlement. Forgiveness, understanding or a new love arriving in one afternoon for a
+  wound decades deep needs at least one of these:
+  - a cost the forgiver pays;
+  - partialness (forgiveness for one thing, not another);
+  - a time span the reader can feel;
+  - a refusal somewhere.
+- **Residue.** Something honest should outlast the last page:
+  - a relationship that stays damaged;
+  - a question that stays painful;
+  - a person still paying;
+  - a debt that can't be settled.
+  Residue isn't gloom. It's the weight that makes the grace believable.
+- **Tidiness tally.** In the last tenth of the story, count the threads closed, relationships reconciled, motifs
+  returned and consolations granted. If everything closes and everything returns, reopen whatever would honestly stay
+  open and cut the returning echo that matters least.
+- **Who keeps paying?** List each character's loss in a cost ledger. A tragedy in which nobody bears a lasting cost
+  except the dead has converted grief into decoration.
+- **The grace note must cost.** When the ending offers consolation (a new beginning, an answered call, a reconciliation),
+  make it a choice that risks something, and let it be imperfect: clumsy, late or partial. Clumsiness is also a form of
+  honesty.
+- **Explanation endings.** An ending that has to explain the plot (a confession document, a detective's summation, a
+  late manuscript) trades emotion for clarity. Keep it as short as the puzzle allows. Put a character with something at
+  stake into the explanation. Give the final beat to a person, not to the explanation.
+- **Recontextualizing endings.** A late reveal that changes the meaning of everything before (a frame revealed, a
+  narrator's motive exposed) must be planted so the rereading test passes. It must also pay off emotionally, not only
+  intellectually: the reader should feel the new meaning as loss or recognition, not merely notice it.
+
+## 11. Open endings that still satisfy
 - An open ending leaves one or two questions unanswered, but the **emotional** question must be answered (McKee's open
   endings in miniplot still climax a change). The alternatives left open should be clear and limited: two or three
   readings the story supports, not anything at all (McKee).
@@ -146,7 +185,7 @@ decisive action and irreversible change) → **resolution**. Use whichever vocab
 - No viewer should leave "rewriting" the ending because an obvious action or scene is missing (McKee: build to a final
   action beyond which the audience cannot imagine another).
 
-## 11. Ending checklist
+## 12. Ending checklist
 - [ ] Can you state the controlling idea in one sentence (value + cause), and does every major scene serve it?
 - [ ] Is the ending designed before the middle, and does everything point toward it?
 - [ ] Does the unity sentence work ("Because of X, Y had to happen")?
@@ -158,3 +197,7 @@ decisive action and irreversible change) → **resolution**. Use whichever vocab
 - [ ] Does it deliver the promised emotion in an unexpected way?
 - [ ] Is there a key image or a payoff that changes the meaning of a plant?
 - [ ] Is the resolution brief and purposeful? Is any open question answerable from the clues?
+- [ ] If the climax is a revelation, are its consequences staged (someone acts differently, at a cost) before the grace note?
+- [ ] Does the settlement pass the proportion test, and does honest residue remain?
+- [ ] Tidiness tally: has something that would honestly stay open been left open?
+- [ ] Is the explanation load at the end as light as the story allows, with the final beat given to a person?

@@ -7,7 +7,7 @@ holds the controls.
 ## Contents
 1. What each medium does best
 2. Short story and flash fiction
-3. Novel
+3. Novella and novel
 4. Screenplay (film and TV)
 5. Short-form video (YouTube Shorts, TikTok, Reels)
 6. Game and interactive narrative
@@ -34,15 +34,27 @@ film must externalize inner states into action and image; prose must dramatize, 
   born of ignorance leave "hollow places" (Hemingway's theory as quoted in secondary sources).
 - **Endings:** a recognition, a decision, or an image that reframes everything; avoid summary epiphanies.
 - **Sizing:** under ~1,500 words, 1–2 scenes; 3,000–7,000 words, 3–8 scenes with one dominant line of action.
+- **Scope discipline.** A short story can't dramatize decades, five arcs and a political world. Either narrow the
+  window (one night, one meeting, one journey) and let the past press in through what people say, withhold and do, or
+  take the material to novella or novel length (premise.md §7). A story that calls itself a novella at 5,000 words
+  is a short story carrying novel-sized material, so summary will do the work scenes should.
 
-## 3. Novel
+## 3. Novella and novel
+- **Lengths.** A common award-category convention (SFWA's Nebula categories) puts the novelette at about 7,500–17,500
+  words and the novella at about 17,500–40,000. Many novels run 70,000–120,000+, and some far longer.
+- **The novella** usually follows one main line of action, with a small cast, a contained span or a few chosen
+  stations across a longer one, and room for several fully staged scenes and one or two secondary lives. It can carry
+  a secret-keeper's side, but rarely more than one subplot. Its shapes are in long-form.md.
 - **Point of view** is the novelist's main information control: close POV gives inner life but limits what the reader
   can know; multiple POVs enable dramatic irony (the reader knows what one character doesn't).
 - **Subplots as variations on the theme** (Howard & Mabley): each subplot explores the same human question from another
   angle, with its own conflict and resolution.
 - **Chapters as units of tension:** end chapters on an opened question, a turn, or a decision pending.
 - **Scene and summary:** dramatize turning points in scene; compress connective time in summary. Use reaction passages
-  after big scenes (aftermath) so the character processes the turn and makes the next decision.
+  after big scenes (aftermath) so the character processes the turn and makes the next decision. Full method, including
+  how to carry years and decades: scene-and-summary.md.
+- **Architecture at length** (parts, braided lines, rotating viewpoints, chronology, chapter units, momentum):
+  long-form.md. **Viewpoint and narrators:** viewpoint-and-narration.md.
 - **Interiority is a tool, not a stage:** inner monologue should show contradiction and decision, not repeat what the
   action showed.
 - **Long mysteries:** maintain a clue ledger; vary clue types; refresh important plants; check fair play at every act.
@@ -129,7 +141,9 @@ video loops. YouTube Shorts can run up to 3 minutes for square or vertical video
 |---|---|---|
 | Short video | 30 s–3 min | 3–7 beats; 1 question; 1 reveal |
 | Flash fiction | < 1,500 words | 1–2 scenes; 1 gap; image ending |
-| Short story | 3k–7k words | 3–8 scenes; 1 major turn |
+| Short story | 3k–7.5k words | 3–8 scenes; 1 major turn; a narrow time window |
+| Novelette | 7.5k–17.5k words | 6–15 scenes; 1–2 turns; one secondary life |
+| Novella | 17.5k–40k words | 15–40 scenes; 2 acts or parts; small cast; one subplot at most |
 | Short film | 5–15 pages | 1–3 locations; 1 turn; 1 recognition |
 | Feature film | 90–120 pages | 40–60 scenes; act climaxes; sequences |
 | TV episode | 30–60 pages | 4–6 acts; A/B/C stories |
