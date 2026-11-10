@@ -101,6 +101,7 @@ skill's pairing, not McKee's):
   tool for mystery-horror.
 - Set the threat's rules early and keep them; dread grows from what the audience can foresee, not from randomness.
 - The most haunting horror is about something human: guilt, grief, a secret. Give the monster a meaning.
+- Methods for dread, rules of the threat, darkness, sentence-level horror and horror endings: `horror.md`.
 
 ### Tragedy and disillusionment
 - Tragedy turns on a protagonist's error or blind spot, a reversal of fortune, and a recognition that comes too late

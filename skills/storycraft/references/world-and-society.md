@@ -62,7 +62,10 @@ believe makes every choice inside it feel arbitrary.
 - **Give the powerless their tactics:** silence, deference used as armour, gossip, small sabotage, alliances below
   stairs. Agency under constraint is more interesting than either freedom or helplessness.
 - **Let social position shape testimony.** Whose account is trusted, ignored or punished is itself a story engine,
-  especially in mysteries (mystery-and-clues.md §4).
+  especially in mysteries (mystery-and-clues.md §10, §16).
+- **Quantify an economy that traps people.** Wages, forfeits and taxes in hard numbers let the reader do the arithmetic
+  and feel the trap close (*Amarita*: one copper piece for three days' work, fifteen days' pay lost for one idle day).
+  Keep the numbers alive until the trap is resolved; a debt that vanishes after an escape reads as a lapse.
 
 ## 4. Barriers and the channel audit
 *Examples:* novel-studies.md §9 (how the studied novels justify their barriers).
@@ -70,7 +73,7 @@ When a story depends on characters *not* being able to do something (talk, meet,
 the reader will test the barrier. "Why didn't she just…?" is the question that breaks belief.
 
 **Channel audit (procedure):**
-1. State what the barrier prevents (e.g., "Nadia and Elias cannot communicate for 31 years").
+1. State what the barrier prevents (e.g., "two brothers on opposite sides of a closed border cannot write to each other for twenty years").
 2. List every channel a resourceful person would try:
    - **direct:** a visit, a call, a letter;
    - **indirect:** a relative abroad, a third country, an institution (the Red Cross, a church, a union), a lawyer, a
@@ -142,6 +145,21 @@ pair it with a plot that depends on the logistics of a real-world barrier, becau
   disappearances and characters who know which streets to avoid.
 - Whatever the place, give it **its own time**: daily rhythm, seasons, change across the story. A place that never
   changes is a stage set.
+- **Institutional acceptance scenes.** When a court, a police station, a hospital, a school board or a family council
+  accepts an outcome the plot needs (a compressed translation, a confession, a death certificate, a quiet burial),
+  make the acceptance *normal* before it becomes *useful*.
+  - **Show the habit or rule** that lets it pass: routine summarizing by interpreters, a judge who wants a short trial,
+    a doctor who signs without looking on night shift.
+  - **Show who could object, and why they don't:** a prosecutor satisfied by the confession, a defence lawyer with
+    forty cases.
+  - **Show what the protagonist risks:** an oath, a licence, a criminal charge if exposed.
+  - **If the acceptance is the plot's convenience, let the institution push back once,** with real force, and let the
+    answer to that push be the scene's turning point. A single mild question followed by acceptance reads as
+    convenience. If indifference is the point, show one person choosing not to look (character.md §9).
+- **Date the world when the stakes depend on law or politics.** Deportation rules, citizenship, currency, censorship
+  and marriage law change by the year. If a choice is weighed against one of them, fix the year (or a datable event)
+  on the page. Make the consequence felt through a case the characters know (a neighbour sent back, a cousin's trial),
+  not asserted in one line.
 
 ## 8. Research without dumps
 - **Use only what the scene needs** and what the viewpoint character would notice. A local doesn't explain the tram
@@ -155,9 +173,26 @@ pair it with a plot that depends on the logistics of a real-world barrier, becau
 - **Every world sets its own causal laws, and once set they can't be broken** (McKee). In fantasy, allow one leap of
   premise, then strict consistency.
 - **Establish exceptions early.** If the climax needs an exception to a rule (a secret door, a gap in the patrols, a
-  forged pass), plant it before it's needed and give it a cost.
+  forged pass), plant it before it's needed and give it a cost. A rule stated early that bites at the worst moment
+  reads as consequence. An exception that later waives it needs its own stated limits: *Amarita* lets a treason law
+  block a king's gift, then waives it through a loophole that is never explained.
 - **Probability over possibility.** Readers accept improbable premises and resist improbable conveniences. Spend
   improbability at the start, never at the resolution.
+- **Teach invented rules in stages** (*Ard Zikola*; examples in novel-studies.md §10):
+  1. the protagonist pays for not knowing;
+  2. a spectacle shows the stakes before the rules;
+  3. a contested teacher explains;
+  4. proof appears on the protagonist's own body.
+
+  After that, give one new rule at a time, each when a plan needs it. Build the climax only from rules already
+  stated, restating the key one a page before it is used.
+- **State, predict, test.** A rule the reader must believe is stated, predicted from, and tested, with a false negative
+  and a sceptic who confirms (horror.md §3). Frightened amateurs can run the first tests before any expert names the
+  rule (*Wadi al-Dhi'ab*).
+- **A reset or a change to the past needs a stated rule for what survives:** who remembers, which costs remain, which
+  events are undone. Without one, readers stop trusting which costs were real (*Wadi al-Dhi'ab*).
+- **Borrowed belief** (religious or folk rules many readers hold) needs no exposition and carries moral weight. Honour
+  such rules consistently, and never mock them by accident (horror.md §7).
 
 ## 10. World checklist
 - [ ] Do I know period, duration, place and the level of conflict, plus a few exact details of daily life?
@@ -166,5 +201,10 @@ pair it with a plot that depends on the logistics of a real-world barrier, becau
 - [ ] Is each enforced rule shown being enforced at least once?
 - [ ] Is power embodied in people with their own stakes?
 - [ ] Is the level of abstraction (specific, invented, fable) chosen deliberately and kept consistent?
+- [ ] Are invented rules taught in scenes (mistakes, a spectacle, a teacher, proof on the body), with the climax built
+      from rules already stated?
 - [ ] Do places have routines, staff, seasons and change?
 - [ ] Is research turned into events and character expertise, not lectures?
+- [ ] When an institution accepts a convenient outcome, are its habit, its potential objectors and the protagonist's
+      risk on the page, and does it push back once with force, or visibly choose not to?
+- [ ] If a choice depends on a law or policy, is the year fixed and the consequence shown through a known case?

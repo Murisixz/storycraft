@@ -67,6 +67,9 @@ decisive action and irreversible change) → **resolution**. Use whichever vocab
   new choice).
 - **Resolve subplots inside the main climax** when possible (one act settles everything); otherwise resolve the least
   important subplots earlier, building to the central plot.
+- **Let the hero face the chance to repeat the original sin, and refuse.** Sent back to the night a killing began
+  everything, the hero of *Wadi al-Dhi'ab* holds a dagger over the sleeping killer-to-be, says he is no killer, and
+  kneels unarmed before the wolf. The refusal must cost something.
 - **No rescue from outside.** The ending must grow from the story's own fabric: no sudden inheritance, no convenient
   heart attack, no storm that saves the day, no coincidence (McKee: never turn an ending with coincidence; Howard &
   Mabley: no deus ex machina). The protagonist's choices decide the outcome.
@@ -130,6 +133,9 @@ decisive action and irreversible change) → **resolution**. Use whichever vocab
   tearing apart his apartment looking for a bug.
 - In short forms the last image often recontextualizes the first (a loop for short video; a callback in a short story).
 - Pay off a planted object at the end with a **new meaning** (Howard & Mabley's palm tree in *Mister Roberts*).
+- **A frame that opens on a wish can close on the wish refused or redefined.** A man's fortieth-birthday wish for change
+  becomes "as long as you are well, that is all I wish" (*Wadi al-Dhi'ab*). Don't let the neat echo force every other
+  thread to close with it.
 
 ## 9. The resolution
 - After the climax, give a brief resolution: to settle a subplot that couldn't fit (ideally reviving the main tension
@@ -144,7 +150,7 @@ decisive action and irreversible change) → **resolution**. Use whichever vocab
   grace note makes the ending feel convenient (§10).
 
 ## 10. Proportion, residue and tidiness
-*Examples:* novel-studies.md §10 (where each studied ending is tidy and where it is costly).
+*Examples:* novel-studies.md §15 (where each studied ending is tidy and where it is costly).
 An ending can be elegant and still feel false if its emotional settlement is out of proportion to what happened. The
 bigger the loss, deception or harm, the more an easy reconciliation reads as the author's convenience rather than
 the characters' truth.
@@ -175,6 +181,22 @@ the characters' truth.
 - **Recontextualizing endings.** A late reveal that changes the meaning of everything before (a frame revealed, a
   narrator's motive exposed) must be planted so the rereading test passes. It must also pay off emotionally, not only
   intellectually: the reader should feel the new meaning as loss or recognition, not merely notice it.
+- **Closure density.** Count the motifs, objects and verbal echoes that return in the last two scenes. Individually
+  earned returns feel engineered when they arrive together:
+  - the garment put back on;
+  - the ruled page mirrored;
+  - the bow repeated;
+  - the line echoed;
+  - the final letter.
+
+  Keep the one that carries the meaning. Let one or two others return quietly earlier, and let at least one decorative
+  motif fall (never a clue, or a promise the story made). The same holds for threads. *Amarita* settles nine threads
+  in about eight pages of a minor narrator's summary, and the two reckonings readers most want are never staged.
+- **Give the rupture a scene.** If the ending breaks a primary relationship (parent and child, partners, friends),
+  the break needs room: a scene in which both sides speak, or one in which one side acts on the break. A single line
+  and a departure is enough only when the relationship has *not* been the story's emotional centre. When one
+  character has overridden another's stated choice (to confess, to leave, to stay), stage the overridden person's
+  response. Their silence must be a choice we see them make.
 
 ## 11. Open endings that still satisfy
 - An open ending leaves one or two questions unanswered, but the **emotional** question must be answered (McKee's open
@@ -197,7 +219,11 @@ the characters' truth.
 - [ ] Does it deliver the promised emotion in an unexpected way?
 - [ ] Is there a key image or a payoff that changes the meaning of a plant?
 - [ ] Is the resolution brief and purposeful? Is any open question answerable from the clues?
-- [ ] If the climax is a revelation, are its consequences staged (someone acts differently, at a cost) before the grace note?
+- [ ] If the climax is a revelation, are its consequences staged (someone acts differently, at a cost) before the grace note? (In long forms; a short form may end on the recognition, SKILL.md "Calibration".)
 - [ ] Does the settlement pass the proportion test, and does honest residue remain?
 - [ ] Tidiness tally: has something that would honestly stay open been left open?
 - [ ] Is the explanation load at the end as light as the story allows, with the final beat given to a person?
+- [ ] Closure density: in the last two scenes, do no more than one or two motifs return, with at least one decorative
+      motif left to fall (never a clue or a promise)?
+- [ ] If a primary relationship breaks, does the break get a scene, including the response of anyone whose choice was
+      overridden?

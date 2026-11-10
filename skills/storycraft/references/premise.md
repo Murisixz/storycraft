@@ -2,7 +2,7 @@
 
 A premise is a situation that forces particular people to act: someone, somewhere, under a pressure that won't let
 them stay as they are, facing a question the reader wants answered. It is not a theme ("grief"), a mood ("eerie") or
-an image ("a lantern across a lake"). An image becomes a premise once we know whose want it serves, what opposes them
+an image ("a bell ringing in an empty church"). An image becomes a premise once we know whose want it serves, what opposes them
 and what it will cost.
 
 ## Contents

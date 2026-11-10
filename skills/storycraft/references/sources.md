@@ -38,6 +38,31 @@ prose beyond short attributed quotations.
 - **Dan Brown, *The Da Vinci Code*** (Doubleday, 2003). Complete, Prologue to Epilogue.
 - **Kazuo Ishiguro, *Never Let Me Go*** (2005; an unofficial e-text with Knopf jacket copy). Complete, all three parts.
 
+## Arabic novels studied for version 3
+Each was read in full, in order, in chunks of about 3,000–5,000 Arabic words, with a note per chunk, a whole-book
+analysis and a separate analysis of its Arabic prose. Every quotation in the notes was machine-checked against the
+text. The texts are OCR of the supplied PDFs (most were scans): Tesseract's Arabic model, checked against the page
+images, with skipped lines recovered and dialogue layout verified on the images. Quotations are therefore verified
+against the OCR, not against print. The skill draws principles and contrasts from these books
+(`novel-studies.md`, `arabic-writing.md`). It reproduces no plots, characters or prose beyond short attributed
+quotations.
+- **Osamah Al Muslim (أسامة المسلم), *Khawf* (خوف) 1, 2 and 3**: a trilogy of occult-horror memoir (Markaz al-Adab
+  al-Arabi, Dammam; volumes 1–2 carry King Fahd National Library cataloguing). Volumes 1 and 2 are complete,
+  including their afterwords. **The scan of volume 3 lacks printed pages 306–307** (the end of the last scene with
+  the devil and the narrator's return home). Those pages were not read, and nothing in the skill depends on them.
+- **Ahmed Al Hamdan (أحمد آل حمدان), *Arsis* (آرسس) parts 1 and 2**: a Saudi thriller with a supernatural time
+  gate. Both complete. Both are re-typeset e-book editions, so their page breaks differ from print. Part 2 is from
+  Markaz al-Adab al-Arabi, first edition 2024.
+- **Amr Abdel Hamid (عمرو عبد الحميد), *Ard Zikola* (أرض زيكولا), *Amarita* (أماريتا) and *Wadi al-Dhi'ab
+  al-Mansiyya* (وادي الذئاب المنسية)**: an Egyptian fantasy series (Asir al-Kutub; *Ard Zikola* legal deposit
+  2010/19834). All three complete. The scan of *Wadi al-Dhi'ab* drops thirteen blank pages before chapter openings and the front
+  matter. Its reader checked every page-number jump against the page images and found no text missing.
+
+Also used for version 3: an unpublished story and its Arabic edition, studied at the author's request. An
+editor's critique of it was tested claim by claim, and a cold read of the Arabic edition located why a native reader
+could not follow it. The lessons are generalized in `clarity-and-orientation.md`, `translation.md` and
+`mystery-and-clues.md` §18–19. Nothing from the story is quoted, and every example in the skill is invented.
+
 ## Openings only
 - **Donna Tartt, *The Secret History*** (Knopf e-book preview): the Prologue and the opening of Book I. Used only for
   observations about openings.

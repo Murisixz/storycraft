@@ -1,15 +1,24 @@
 # Storycraft
 
-A storytelling skill for Claude: invent, plot, write and fix stories in any form. It is strongest at mysteries,
-suspense, sad and bittersweet stories, and plots whose events follow from one another.
+A storytelling skill for Claude: invent, plot, write, translate and fix stories in any form. It is strongest at
+mysteries, suspense, horror, sad and bittersweet stories, plots whose events follow from one another, and fiction in
+natural, followable Arabic.
 
 Storycraft teaches Claude the parts that make a story work. Events cause each other; someone wants something badly and
 pays for it; the audience always has something to hope for, fear, wonder about, or know before a character does; and
 endings feel surprising but inevitable. It gathers the core principles of Robert McKee's *Story*, Howard & Mabley's
 *The Tools of Screenwriting* (from Frank Daniel's teaching), and classic and modern craft writing on plot, mystery and
-emotion. Version 2 adds findings from a close reading of published novels, each read in full, compared for how they
-solve the same problems differently. All of it is rewritten as practical procedures, decision rules, checklists and
-templates, in the skill's own words, not as models to imitate.
+emotion. Version 2 added findings from a close reading of seven published novels, each read in full, compared for
+how they solve the same problems differently. Version 3 adds:
+- eight Arabic novels in three series, read in full. Their storytelling lessons join those of the novels read in
+  English in the shared craft, filed by function (rules, investigation, dread, series, endings). Their prose lessons form
+  an Arabic language layer that sits on top of that craft;
+- a method for keeping readers oriented while a secret stays hidden;
+- an English → Arabic literary translation procedure, built from an audit of a translation that a native reader could
+  not follow.
+
+All of it is rewritten as practical procedures, decision rules, checklists and templates, in the skill's own words,
+not as models to imitate.
 
 ## What it does
 
@@ -19,7 +28,8 @@ templates, in the skill's own words, not as models to imitate.
 | **Architect** | an outline, plot, mystery design or story bible | Story core → ending first → hidden story and information plan → cause-and-effect beat list → clues and plants → emotional and pacing passes → quality gate |
 | **Draft** | a scene, chapter, script or short-video beat sheet | A short scene plan, then the pages |
 | **Doctor** | "why is my story flat/confusing/predictable?" | A ranked diagnosis with evidence, concrete fixes, and a revised spine |
-| **Revise** | a draft plus editorial feedback, or "revise this" | Each feedback claim tested against the text (claim, evidence, verdict, cause, fix), then revision passes from scope down to sentences |
+| **Revise** | a draft plus editorial feedback, or "revise this" | Each feedback claim tested against the text (claim, evidence, verdict, cause, fix), then revision passes from scope down to sentences, ending with a cold read for clarity |
+| **Translate** | a version in another language (English → Arabic in detail), or a fix for a translation readers can't follow | Source analysis and glossaries, a transfer plan, the translation, verification passes, and a cold read that sorts each stumble into source or translation problems |
 
 Example prompts:
 - "Give me five ideas for a sad, mysterious 60-second Minecraft Short that viewers will theorize about."
@@ -28,6 +38,9 @@ Example prompts:
 - "Here's my outline. Why does it feel flat? Fix it."
 - "Outline a quiet, bittersweet short film with no twist."
 - "My editor says this novella feels summarized and too tidy. Is that fair? Revise it."
+- "Write the opening chapter of a Saudi horror novel in Arabic. Keep it eerie but easy to follow."
+- "Translate my short story into Arabic. Arabic readers said my last translation was confusing."
+- "Plan book two of my fantasy series: what should it recap, and what should it leave open?"
 
 ## What's inside
 
@@ -47,16 +60,22 @@ skills/storycraft/
 │   ├── mystery-and-clues.md      # hidden stories, investigations, clues, red herrings, fair play, solutions
 │   ├── emotion.md                # caring, subtext, restraint, meaningful sadness, grief over time
 │   ├── endings.md                # crisis, climax, controlling idea, proportion and residue, open endings
-│   ├── prose.md                  # register, specificity, comparison and motif budgets, rhythm, translation
+│   ├── prose.md                  # register, specificity, comparison and motif budgets, rhythm
+│   ├── clarity-and-orientation.md # a clear scene with a hidden secret; intended-uncertainty list; the cold read
+│   ├── arabic-writing.md         # the Arabic language layer, added to the shared craft: voice, register, reference, layout
+│   ├── translation.md            # literary translation procedure, English → Arabic in detail
+│   ├── horror.md                 # dread, the threat's rules, darkness, sentence-level fear, horror endings
+│   ├── series.md                 # series and sequels: recaps, continuity, evolving rules, long mysteries
 │   ├── genres.md                 # genre contracts and conventions
 │   ├── forms.md                  # short story, novella, novel, screenplay, short video, games, comics, audio, stage
 │   ├── revision.md               # revision passes, leak audit, testing feedback against the text
 │   ├── diagnostics.md            # failure catalogue (symptom → cause → fix) and doctor procedure
-│   ├── novel-studies.md          # contrastive case studies from published novels read in full
+│   ├── novel-studies.md          # case studies from fifteen novels read in English and Arabic, by craft problem
 │   ├── worked-example.md         # an annotated Architect pass on an original short film
 │   └── sources.md                # where the ideas come from, and how each source was accessed
 ├── assets/templates/             # story bible, scope budget, causal spine, information plan, clue ledger, character
-│                                 # dossier, scene card, revision checklist, doctor report
+│                                 # dossier, scene card, revision checklist, doctor report, comprehension log,
+│                                 # translation brief, series bible
 └── evals/                        # test cases (prompts + graders) for `claude plugin eval`
 ```
 
@@ -98,8 +117,8 @@ This runs every case with and without the skill and reports scores.
 
 ## About the sources
 The craft guidance is written in Storycraft's own words, with short attributed quotations. `references/sources.md`
-says which books were read in full (craft books and novels), which were known only through summaries, and which
-essays and studies were consulted. The novels are used for principles, with short attributed quotations only; no plots,
+says which books were read in full (craft books, English-language novels, and Arabic novels read from OCR checked
+against page images), which were known only through summaries, and which essays and studies were consulted. The novels are used for principles, with short attributed quotations only; no plots,
 characters or prose are reproduced. Where a book was used only through a third-party summary (Truby's *The Anatomy of Story*, Maass's *The
 Emotional Craft of Fiction*, Beinhart's *How to Write a Mystery*), the skill marks it "via outline" or "via a summary".
 

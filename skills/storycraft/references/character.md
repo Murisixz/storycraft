@@ -183,6 +183,14 @@ cure is not more backstory but a present-tense life the plot interrupts.
   argues fairly is a cast of mouthpieces.
 - **The saintly ally** (endlessly patient, always available, never wrong) is a warning sign. Give them a competing want
   and one moment of friction that costs something (diagnostics.md, people patterns).
+- **Functionaries with a life.** Lawyers, police officers, doctors, clerics, clerks and guards easily become devices
+  that clear the stage: the impatient lawyer who looks at the clock so the protagonist can talk freely, the officer who
+  stops asking. Give each one who matters to the plot at least one of these:
+  - **a competence** (one thing they notice or do well, even if it's inconvenient);
+  - **a cost or interest** (a caseload, a promotion, a quota, a fear of the press);
+  - **a moment of doubt** they choose to suppress, and why.
+
+  Their indifference is believable when it has a reason, and powerful when it is a choice the reader sees them make.
 
 ## 10. Secret-keepers and the people who know
 *Examples:* novel-studies.md §6 (five ways the studied novels give keepers interiority, and why).
@@ -228,6 +236,20 @@ for the action the reader didn't expect but recognises at once as this person's.
   compelling breaks the pattern (Maass, via a summary).
 - **Know far more than you show** (Howard & Mabley); backstory is ammunition to spend as turning points, not a
   biography to recite (McKee; see structure-and-scenes.md §10).
+- **Earn a sacrifice before it is made.** When a character gives up years, money, safety or love for someone else,
+  the reader must have *seen* the attachment act before the sacrifice, not only heard it explained at the climax.
+  - **Stage at least one earlier scene in which the bond costs the giver something small:** a favour, a risk, a lie
+    told for the other's sake.
+  - **Give the sacrifice mixed motives:** love plus guilt, debt, pride, a calculation, or an escape from something
+    else. A single pure motive reads as a device.
+  - **Give the giver a life the sacrifice damages,** shown as a real loss (a spouse who will wait, a trade, a home),
+    and let them weigh it on the page.
+  - **Let the beneficiary have a say.** The person saved may refuse, resent or be shamed by the gift. Their reaction
+    is part of the sacrifice's meaning.
+  - **Let a third party reveal it,** with a reaction of their own: a son reports that his father sold his house to buy
+    the boat (*Amarita*). A self-announced sacrifice reads as a claim.
+  - **Test:** remove the climactic explanation speech. Would the reader still believe the choice? If not, the earlier
+    scenes are missing.
 
 ## 13. Arcs: change, refusal, tragedy
 - **An arc is a change in deep character** over the telling, for better or worse. Change can go downward: Michael
@@ -284,6 +306,8 @@ for the action the reader didn't expect but recognises at once as this person's.
 | Behaviour is random | no planted capacity or motive | §11: plant the capacity; mixed motives |
 | The protagonist watches | turns are caused by others or chance | §14: mark who chooses each turn |
 | A late confession explains everything | disclosure isn't a choice with stakes | §10; scene-and-summary.md §6 |
+| A great sacrifice feels asserted | the attachment was explained, never shown acting | §12: an earlier scene where the bond costs something; mixed motives |
+| A professional exists to clear the stage | indifference without reason | §9: a competence, a cost, a suppressed doubt |
 
 ## 17. Character checklist
 - [ ] Can you state the protagonist's conscious want, unconscious desire, and need in one line each?
@@ -300,3 +324,5 @@ for the action the reader didn't expect but recognises at once as this person's.
 - [ ] Does each secret-keeper have pressure, rationalization, cost and a near-telling on the page?
 - [ ] Does each major character do at least one surprising but convincing thing?
 - [ ] Are the major turns caused by the protagonist's choices?
+- [ ] Is every large sacrifice prepared by earlier scenes in which the attachment acts and costs something?
+- [ ] Does each plot-relevant professional have a competence, an interest, or a doubt of their own?

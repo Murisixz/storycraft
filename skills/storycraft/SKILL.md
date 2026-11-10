@@ -1,6 +1,6 @@
 ---
 name: storycraft
-description: Story design and writing system for fiction in any form - novels, novellas, short stories, screenplays, short films, YouTube Shorts and TikToks, games, comics, audio drama. Use it to invent premises, build plots with real cause and effect, design mysteries, clues, twists and reveals, create suspense, develop characters with full lives and distinct voices, stage scenes instead of summarizing, write emotionally powerful (including sad or tragic) stories and endings, and revise drafts or respond to editorial feedback. Especially strong for mystery, suspense, gothic, thriller, tragedy and bittersweet stories. Use it whenever the user wants to create, outline, plot, draft, rewrite, critique or improve a narrative, even if they only say "help with my story", "I have an idea", "make this twist land", "my editor says it feels summarized" or "why is my plot boring", or paste a premise, draft or critique.
+description: Story design and writing system for fiction in any form and language - novels, novellas, series, short stories, screenplays, short films, YouTube Shorts and TikToks, games, comics, audio drama. Use it to invent premises, build plots with real cause and effect, design mysteries, clues, twists and reveals, create suspense and horror, develop characters with full lives and distinct voices, stage scenes instead of summarizing, write moving, sad or tragic endings, write or translate fiction in natural, followable Arabic, keep readers oriented while a secret stays hidden, and revise drafts or respond to editorial feedback. Use it whenever the user wants to create, outline, plot, draft, translate, rewrite, critique or improve a narrative, even if they only say "help with my story", "I have an idea", "make this twist land", "my editor says it feels summarized", "translate my story into Arabic", "readers get lost" or "why is my plot boring", or paste a premise, draft or critique.
 license: MIT
 ---
 
@@ -20,6 +20,9 @@ This skill builds both and adapts them to any genre and form, without forcing on
 2. **Read the brief:** form and length, genre and tone, audience, what already exists, and hard constraints.
    - **Check scope:** does the material the user wants (time span, cast, arcs, reveals, world) fit the length?
      (`references/premise.md` §7)
+   - **Language and readers:** which language, and which readership (region, age)? The craft is the same in every
+     language; a language layer is added on top of it ("One craft, any language" below). Producing an edition in
+     another language: Translate mode.
    - If a missing answer would change the whole design (novel vs 60-second video), ask up to 2–3 short questions;
      otherwise state your assumptions in one line and proceed.
 3. **Follow the workflow** for the mode. Open reference files only when you need their depth; most requests need one to
@@ -35,6 +38,29 @@ This skill builds both and adapts them to any genre and form, without forcing on
 | **Draft** | pages: a scene, chapter, story, script, short, game beats | A brief scene plan, then the text in the requested form |
 | **Doctor** | "why doesn't this work?", a diagnosis | A ranked diagnosis with evidence, concrete fixes, and a revised spine |
 | **Revise** | a rewrite, or a response to feedback or an editor's notes | Claims tested against the text, then revision passes from big to small, then the revised pages or plan |
+| **Translate** | a version in another language (especially English → Arabic), or a fix for a translation readers can't follow | Source analysis and glossaries → transfer plan → draft → verification passes → cold read, with stumbles classified source / translation / uncompensated |
+
+### One craft, any language
+Storycraft is one system for stories in every language. Nothing in it is English-only.
+- **The shared craft applies in every language:** the story engine, the workflows, the quality gate and every craft
+  reference. The case studies (`references/novel-studies.md`) compare novels read in English and in Arabic, filed by
+  craft problem, so a method found in a book in either language serves a story in any language.
+- **A language layer adds expression, never craft.** For Arabic, `references/arabic-writing.md` covers:
+  - narrative voice and register;
+  - reference;
+  - dialogue layout;
+  - sentence construction;
+  - orientation devices;
+  - names and vowelling;
+  - idiom;
+  - punctuation.
+
+  For an edition in another language, `references/translation.md` adds the transfer procedure. In English, expression is
+  handled by `references/prose.md`, `references/voice-and-dialogue.md` and `references/clarity-and-orientation.md`,
+  which are written to hold in any language.
+- **Loading rule:** choose the craft references the story needs exactly as you would for any language. Then add the
+  language layer. Never load a language layer instead of the craft references, and never drop a craft reference
+  because the story is in Arabic.
 
 ## The story engine
 Before writing beats, answer these in a line or two each (template: `assets/templates/story-bible.md`). Every later
@@ -74,20 +100,24 @@ Techniques are not universally good; each buys one effect at a price. Choose by 
 | Curiosity about a hidden fact | Mystery: show effects, withhold causes; keep rival explanations alive | leaks turn the reveal into confirmation; confusion is not mystery | information-design §4, §10 |
 | Dread and compassion | Dramatic irony: the reader knows; characters walk toward it | owes a staged recognition; curiosity shifts to how and when | information-design §5 |
 | Anxiety and identification | Suspense: shared knowledge, a clock, two plausible outcomes | hidden danger produces no suspense | information-design §3 |
-| A shock that re-sees the story | Planted reversal of understanding | must pass the rereading test; one per story | information-design §6–7; mystery-and-clues §11 |
+| A shock that re-sees the story | Planted reversal of understanding | must pass the rereading test; rare: usually one per story, at most one or two | information-design §6–7; mystery-and-clues §11 |
 | Momentum | Short units, cross-cutting, chapter-end questions, clocks, puzzle chains | thin characters, explainer dialogue, visible machinery | long-form §6; novel-studies |
 | Intimacy and depth | Close viewpoint, dramatized interiority, long scenes | slowness unless pressure runs underneath | viewpoint-and-narration; scene-and-summary |
 | Breadth of time | Anchored summary, leaps with consequences, frames, braided lines | decades in a paragraph kill feeling | scene-and-summary §5; long-form §4 |
 | Grief that lasts | Loss through choice, then time spent in consequences | sentimentality if unearned; tidiness if rushed | emotion §7–9; endings §10 |
 | Moral complexity | Secret-keepers and opponents with their own side and strong reasons | preaching if one side is starved | character §6, §10 |
 | Resonance | One or two load-bearing echoes or images | a lattice of symbols shows the author's hand | prose §6; endings §8 |
+| Fear of a threat (horror) | The familiar made wrong; a threat with stated, tested rules | lore dumps and universal remedies drain fear; a deus ex machina ending | horror |
+| Pull across volumes | A series question above each volume's own question | recaps that stall; contradictions; hooks made of withheld scenes | series |
+| Clarity with mystery | An intended-uncertainty list; orientation; literal hinges | over-explaining kills subtext; fog kills curiosity | clarity-and-orientation |
 
 ## Architect workflow
 1. **Core and premise.** Write a logline plus the story-engine answers. Generate options before settling, and test the
    premise for engine, irony and freshness (`references/premise.md`).
 2. **Scope.** Fill the scope budget: time span, viewpoints, arcs, reveals, world, and the must-stage moments, against
    the length. If it doesn't fit, narrow, re-time or change form before plotting (`assets/templates/scope-budget.md`;
-   `references/long-form.md` for novellas and novels).
+   `references/long-form.md` for novellas and novels; `references/series.md` and the series-bible template for
+   a series).
 3. **Ending first.**
    - Design the crisis (a true dilemma), the climax (the protagonist's decisive action, an irreversible change), the
      resolution and the final image.
@@ -102,6 +132,8 @@ Techniques are not universally good; each buys one effect at a price. Choose by 
      - irony (it knows more).
    - Plan an **inference timeline**: when could a sharp reader guess? Every revelation creates an obligation to stage
      the character's recognition and its consequences.
+   - From the plan, write the **intended-uncertainty list**: what the reader must not yet know, may suspect, should
+     infer, and must have clear (`references/clarity-and-orientation.md` §2).
    - Depth: `references/information-design.md`; template `assets/templates/information-plan.md`.
 5. **Causal spine with staging.**
    - For each beat, record:
@@ -185,7 +217,14 @@ Techniques are not universally good; each buys one effect at a price. Choose by 
    - Choose the register and keep heightened language for the peaks.
    - Cut any line that explains an image, names the subtext or states the theme.
    - Count comparisons, number words and echoes against the budget (`references/prose.md`).
-5. **Format** for the medium: prose, screenplay, short-video beat script, game beats (`references/forms.md`).
+5. **Clarity check.** Re-read as a stranger: can every paragraph's who, where, when and how-this-follows be recovered
+   while the secret stays hidden? Fix links at hinges, background, referents (`references/clarity-and-orientation.md`;
+   log: `assets/templates/comprehension-log.md`).
+6. **Writing in Arabic** (the language layer, on top of steps 1–5; `references/arabic-writing.md`):
+   - Before drafting, plan the narrative voice and register (the narrator's person, distance and height; each
+     character's dialogue register) and the dialogue convention (tags before the line, or speaker labels).
+   - Afterwards, re-check every pronoun and omitted subject against the nearest-person rule.
+7. **Format** for the medium: prose, screenplay, short-video beat script, game beats (`references/forms.md`).
 
 ## Doctor and Revise workflows
 - **Doctor** (`references/diagnostics.md`):
@@ -199,9 +238,28 @@ Techniques are not universally good; each buys one effect at a price. Choose by 
   1. **Feedback first.** If there is outside feedback, test each claim against the text (claim | evidence | verdict |
      cause | fix). Feedback is evidence, not a verdict.
   2. **Run the passes in order:** scope → spine → information (leak audit) → scene and summary → people → world →
-     ending and proportion → prose and visible machinery → continuity.
+     ending and proportion → prose and visible machinery → continuity → clarity (cold read).
   3. **Restructure when the scope or the information plan is wrong;** otherwise revise. Protect the strengths.
-  4. Templates: `assets/templates/revision-checklist.md`, `assets/templates/doctor-report.md`.
+  4. Templates: `assets/templates/revision-checklist.md`, `assets/templates/doctor-report.md`,
+     `assets/templates/comprehension-log.md`.
+
+## Translate workflow
+Full procedure: `references/translation.md` (template `assets/templates/translation-brief.md`).
+1. **Source analysis:**
+   - the intended-uncertainty list;
+   - every inference the source leaves to the reader, marked intended or accidental;
+   - the cues that won't survive (italics, capitals, explicit pronouns, tense, dash interruptions);
+   - language-dependent mechanisms.
+2. **Glossaries:**
+   - names, checked for word-readings and given role nouns;
+   - one target word per clue, echo and refrain;
+   - terms.
+3. **Transfer plan:** registers, gloss policy, one dialogue convention, punctuation, what the readership knows.
+4. **Draft** with the intended-uncertainty list open. Re-anchor referents, mark memories, state hinge changes, and re-describe
+   mechanisms in the target language's grammar.
+5. **Verify,** then **cold read:**
+   - classify each stumble: S (source), T (translation) or S→T (uncompensated);
+   - fix T and S→T, and flag S to the author.
 
 ## Quality gate (check before presenting)
 **Machinery**
@@ -234,10 +292,23 @@ Techniques are not universally good; each buys one effect at a price. Choose by 
   - symmetries are broken except the one that matters;
   - no prose construction dominates (`references/prose.md` §8).
 
+**Clarity and language** (`references/clarity-and-orientation.md`)
+- **Orientation and reference:**
+  - each scene's first lines settle place, time, cast and viewpoint;
+  - no pronoun or omitted subject can attach to a wrong nearby person;
+  - every line's speaker is recoverable;
+  - in Arabic, one dialogue convention runs throughout, with the speaker named before the line (by tag or label).
+- **Hinges:** at every turn the literal change is stated, and images sit around it, not in place of it.
+- **Intended uncertainty only:** the reader is unsure only of what the story chose to hide, and left to infer only what
+  it chose to imply (`references/clarity-and-orientation.md` §2).
+- **Naturalness:** no calqued idiom, metalanguage or layout from another language. Each character's register follows
+  the plan, and any shift is deliberate and noticed.
+
 **Ending and meaning**
 - **Ending:** answers the dramatic question and delivers the promised emotion in an unexpected way. Two outcomes stayed
   plausible until late.
-- **Proportion:** the settlement fits the size of the loss or deception, and someone keeps paying.
+- **Proportion:** the settlement fits the size of the loss or deception; where the story dealt in real loss, someone
+  keeps paying.
 - **Meaning:** the theme emerges from choices and the ending, not from speeches.
 - **Scrutiny:** list the objections a sharp reader will raise (how did they know? why didn't she just…? is that
   possible?) and make sure the story answers each. For mysteries and theory-bait stories, include a short plot-hole
@@ -268,8 +339,14 @@ Techniques are not universally good; each buys one effect at a price. Choose by 
   "No twist" means no secret-driven plot: let the drama come from what characters face openly.
 - **Templates are thinking tools,** not molds. The heartbreak sequence, beat tables and checklists describe effects to
   check, not beats to hit in order. Every story is its own prototype.
-- **Learn principles from published novels, never copy them.** `references/novel-studies.md` shows contrasting
-  solutions. Don't reuse their plots, characters, signature devices or prose.
+- **Learn principles from published novels, never copy them.** `references/novel-studies.md` compares fifteen novels
+  read in English and Arabic, by craft problem, and shows contrasting solutions. Don't reuse their plots, characters,
+  signature devices or prose.
+- **A clear scene, a hidden secret.** Restraint and mystery govern meaning, never the reader's grip on events. Keep who,
+  where, when and the link to the previous beat recoverable in every paragraph, and withhold only what the information
+  plan withholds.
+- **Clarity is not simplicity.** Don't simplify vocabulary, explain subtext or vowel everything to make a text clear.
+  Fix orientation, reference and links.
 - **Dark material** (death, grief, crime, cruelty) is fine when it serves meaning. Avoid gratuitousness, and adapt to the
   stated audience age and platform rules.
 - **Open questions** must have a designed answer that the clues support. Always answer the emotional question.
@@ -289,23 +366,35 @@ Techniques are not universally good; each buys one effect at a price. Choose by 
 | Making the audience care; grief, tragedy, bittersweetness; restraint; moral complexity | `references/emotion.md` |
 | Crisis, climax, resolution, final images, proportion and residue, open endings | `references/endings.md` |
 | Setting, social context, history and politics, barriers and plausibility | `references/world-and-society.md` |
-| Prose register, specificity, comparisons, rhythm, motifs and visible machinery, translation | `references/prose.md` |
+| Prose register, specificity, comparisons, rhythm, motifs and visible machinery | `references/prose.md` |
+| Keeping readers oriented while a secret stays hidden; intended-uncertainty list; the cold read | `references/clarity-and-orientation.md` |
+| The Arabic language layer, added to the craft references and never used instead of them: narrative voice and register, reference, dialogue layout, sentence construction, orientation devices, names, idiom, punctuation | `references/arabic-writing.md` |
+| Translating fiction (English → Arabic in detail): source analysis, glossaries, drafting rules, verification, cold read | `references/translation.md` |
+| Horror: dread, the threat's rules, darkness, sentence-level fear, horror endings | `references/horror.md` |
+| Series and sequels: volume and series questions, recaps, continuity, evolving rules, long mysteries | `references/series.md` |
 | Genre expectations and core values | `references/genres.md` |
 | Medium specifics: short story, novella, novel, screenplay, short video, games, comics, audio, stage | `references/forms.md` |
 | Diagnosing problems (failure catalogue) | `references/diagnostics.md` |
 | Revising a draft; testing feedback against the text | `references/revision.md` |
-| How seven novels (plus two openings) solve the same problems differently | `references/novel-studies.md` |
+| How fifteen novels read in English and Arabic (plus two openings) solve the same craft problems differently, by function: premise, reveals, inference, time, people, rules, investigation, dread, clarity, register, endings, series, prose | `references/novel-studies.md` |
 | A complete worked example | `references/worked-example.md` |
 | Where these ideas come from | `references/sources.md` |
-| Templates | `assets/templates/`: story-bible, scope-budget, causal-spine, information-plan, clue-ledger, character-dossier, scene-card, doctor-report, revision-checklist |
+| Templates | `assets/templates/`: story-bible, scope-budget, causal-spine, information-plan, clue-ledger, character-dossier, scene-card, doctor-report, revision-checklist, comprehension-log, translation-brief, series-bible |
 
-**Typical reads:**
-- **A mystery or twist design:** mystery-and-clues + information-design (+ endings). At novel length, start with
-  mystery-and-clues §15–17.
+**Typical reads** (the same in every language; for a story in Arabic, add the Arabic layer to them):
+- **A mystery or twist design:** mystery-and-clues + information-design (+ endings), and clarity-and-orientation §2
+  and §12 before presenting. At novel length, start with mystery-and-clues §15–17.
 - **A sad, tragic or bittersweet story:** emotion + endings + scene-and-summary.
 - **A novella or novel:** premise §7 + long-form + scene-and-summary + character, then the genre's references.
-- **A scene or chapter draft:** structure-and-scenes §7–11 + voice-and-dialogue, and prose for the polish.
+- **A scene or chapter draft:** structure-and-scenes §7–11 + voice-and-dialogue + clarity-and-orientation §3–7, and
+  prose for the polish.
 - **A short video or game story:** forms (§5 or §6) + whichever of the above fits.
 - **Story doctoring or a response to feedback:** revision §2 + diagnostics, then only the references its top problems
   point to.
 - **Quick idea lists:** usually premise only.
+- **Writing in Arabic:** the reads above for the kind of story (a mystery, a novel, a scene, horror…), plus
+  arabic-writing and clarity-and-orientation. The layer is added to the craft reads, never substituted for them.
+- **Translating, or an edition readers can't follow:** translation + clarity-and-orientation (+ arabic-writing for
+  Arabic), plus the craft references that the story's own problems point to.
+- **Horror:** horror + information-design §3 (+ genres "Horror").
+- **A series or a sequel:** series + long-form, and the series-bible template.

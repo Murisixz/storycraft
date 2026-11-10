@@ -4,12 +4,12 @@
     "name": "Murisixz",
     "url": "https://github.com/Murisixz"
   },
-  "description": "Storycraft: a storytelling skill for Claude (plot, mystery, suspense, emotionally powerful stories in any form).",
+  "description": "Storycraft: a storytelling skill for Claude (plot, mystery, suspense, horror, emotionally powerful stories in any form; Arabic writing and translation).",
   "plugins": [
     {
       "name": "storycraft",
       "source": "./",
-      "description": "Story design and writing system: plots with real cause and effect, mysteries, suspense, reveals and emotionally powerful stories in any form."
+      "description": "Story design and writing system: plots with real cause and effect, mysteries, suspense, horror, reveals and emotionally powerful stories in any form, plus natural Arabic fiction and English-to-Arabic literary translation."
     }
   ]
 }
