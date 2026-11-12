@@ -53,6 +53,11 @@ Build each major voice from the person outwards. For each character, decide:
 **The voice test.** Cover the speaker tags in a scene. If you can't tell who is speaking from the words alone, the
 voices aren't built yet. Rewrite from the list above, not by adding accents.
 
+**Mismatch carries relationships.** In *Palace Walk*, a mother's torrents against her son's clipped lines say what
+neither states. In *Palace of Desire*, a wife's Quranic register meets a husband who silences her, and a singer's
+proverbs meet a lover's evasions. Forms of address shift with the moment: a son says "Papa" when told he will marry
+and "Father" when told of his divorce. Drink and grief shift a register visibly.
+
 **Keep it proportionate.** Minor characters need one or two marked traits of speech; major characters need a whole
 way of talking that changes under pressure.
 
@@ -101,6 +106,8 @@ way of talking that changes under pressure.
   - let the listener resist, mock or interrupt;
   - break the explanation with action or danger;
   - deliver some of it through discovery instead of talk.
+- **Set lectures in quotation marks** are still lectures. Friends' speeches on friendship, women or drink in *Palace
+  of Desire* read as essays. Interrupt them, or give them a stake in the scene.
 - **Distribute it.** Don't park the backstory in one speech; spread it across scenes as small contested pieces
   (information-design.md §7–8).
 
@@ -109,12 +116,20 @@ way of talking that changes under pressure.
   Their account bends towards it (mystery-and-clues.md §10).
 - **Give each teller a different voice and a different gap.** What each leaves out is as important as what they say.
 - **Contradictions are clues.** Two accounts that don't fit, or a self-betraying detail, are the reader's evidence.
+- **Find the limit of a household's lying.** In *Palace Walk*, lying to the father is no disgrace in the house, but an
+  oath on the Quran is a line no son crosses. A son's refusal to swear therefore convinces the reader where his denials
+  would not.
+- **Let an interested witness relieve a guilt, and let the narration name the doubt.** A son swears to his father that
+  his dead brother had stopped loving a girl. The oath eases the father's guilt and conveniently frees the son to marry
+  her. The relief becomes a moral knot rather than a convenience (*Palace of Desire*).
 - **Confession is a negotiation.** The confessor wants something (absolution, understanding, a promise) and the
   listener's response shapes what comes next. Stage the listener's resistance (scene-and-summary.md §6).
 
 ## 8. Group scenes
 - **Not everyone speaks equally.** Decide who dominates, who is ignored, who mutters, who stays silent and is watched.
 - **Side conversations and glances** reveal alliances and give the reader several things to track.
+- **A chorus stays clear** when each of five or six voices keeps its idiom and every line is tagged (*Palace Walk*'s
+  coffee hour). Party noise can go untagged only when no single line matters.
 - **Differentiate fast.** In a large cast, establish each person through one vivid speech habit and one want in the
   first group scene, then reinforce it.
 - **Keep the staging clear:** who is where, who moves, who leaves. Each entrance or exit changes the dynamic (McKee's

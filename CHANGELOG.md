@@ -1,5 +1,171 @@
 # Changelog
 
+## 4.2.0 (2026-11-12)
+Version 4.2 gives Storycraft a workflow for **long-form YouTube documentaries**: historical stories, mysteries,
+investigations and human tragedies. It also covers **fiction told in the documentary manner**, such as a novel adapted
+into a documentary-style video. It stays one skill: the story engine, the information plan, the turning-point lens and
+the Arabic layer all carry over, and a new reference adds what changes when a story is true, heard rather than read,
+and shared with pictures and sound.
+
+**Transcripts studied.** Caption tracks of twenty-one documentaries on three channels were read in full, in order and in
+chunks, with verified notes and a map of each video (`references/sources.md` lists them, with their gaps):
+- Brick Immortar, six videos;
+- Fall of Civilizations, five episodes (one supplied twice, and its automatic-caption copy compared word for word, not
+  used for wording);
+- LEMMiNO, seven documentaries, two Q&A videos and a promo.
+
+Each channel was analysed on its own, counting each video once, before the three were compared, so the channel with
+the most files does not dominate. Recurring findings are given as defaults with their conditions, differences between
+channels as choices, and one-channel techniques as options.
+
+**New: `references/documentary.md`.**
+- **A truth ledger:** every narration line is marked established, claimed, uncertain or invented, and the narration
+  marks each status aloud.
+- **The question and the known outcome:** how to choose where a known event sits (stated at the start, at the middle,
+  at the end, or verdict first) by what the suspense is about.
+- **The sequence:** sections with jobs, a ladder of small questions, turns said in words, and stock-taking at the end
+  of each movement.
+- **Openings:** a table of options and their costs.
+- **First need for the ear:** names, places, dates, figures and terms at the moment a listener needs them.
+- **Fair withholding:** plants paid off in the same words, honest deferrals, and the record's silence named.
+- **Attribution heard with each claim,** renewed at the dramatic peak, where all three channels let the line blur.
+- **Writing for the ear,** and a three-track script for narrator, picture and sound and pause.
+- **Room for real deaths,** scaled to the person, with what must not sit beside them.
+- **Teaching an unfamiliar trade or period** one mechanism at a time.
+- **Long runtimes and where business belongs.**
+- **Fiction told as documentary:** three frames, the seams marked, no invented evidence, and labels for reconstructed
+  or generated pictures, following YouTube's disclosure rules for realistic AI-generated content.
+- **Revision passes and a cold listen,** a failure table and a checklist.
+
+**Arabic narration** (`references/arabic-writing.md` §12, new). Register for the ear; event sentences verb-first;
+short construct chains and relative clauses one deep; connectives that name the relation (no all-purpose «حيث»); role
+before name; numbers written out and vowelled for the narrator; where the pause falls; formulae at a death; and timing
+the Arabic aloud. No Arabic documentary transcripts were supplied, so the section transfers the findings through the
+Arabic layer and was checked on an original sample. `translation.md` §6.9 adds narration scripts.
+
+**Elsewhere:**
+- `SKILL.md` gains a Documentary mode and workflow, documentary lines in the quality gate, a technique row, reads and
+  templates.
+- New templates: `documentary-plan.md` and `narration-script.md`.
+- `comprehension-log.md` gains a cold-listen table, and `revision-checklist.md` a documentary pass.
+- `forms.md` §11 covers the long-form documentary as a medium: runtime from speech at about 110–155 words per minute in
+  the studied videos, spoken chapter signals, where business goes, and honest packaging.
+- Pointers were added to `clarity-and-orientation.md`, `information-design.md` and `emotion.md`.
+
+**Validation, and what it changed.** The workflow was tested on a short original sample: an invented novel adapted into
+a documentary-style opening, in English and in Arabic. The sample is not part of the skill. Three checks were run:
+- a cold listen in each language, by readers who saw only the narration;
+- an independent audit against the guidance and the verified sources;
+- the writer's own audit.
+
+Their findings changed the guidance:
+- **The hand-off seam.** A history question was answered with the novel's own object, in the habitual past, so the
+  invention was heard as history. Now covered in §15, and in `arabic-writing.md` §12 for «كان يفعل».
+- **The adaptation's additions.** Details the adaptation invented were voiced as "in the novel". There is now an A
+  status, and "in the novel" is kept for what the book contains.
+- **A real frame vouches for the world.** A frame that calls the world real vouches for every world detail inside the
+  invented scenes. Those details now go in the ledger.
+- **The setting.** No place or period was said aloud, and listeners guessed it from trade terms (§6).
+- **Sources.** A source's modality drifted ("expected to" became "did"), and a lone source was named only by its date
+  (§3, §9).
+- **Figures.** Listeners multiplied neighbouring figures: a dive rate heard beside "sunrise to sunset" (§7).
+- **A clue that proves nothing.** A planted clue was already explained by facts the viewer held (§8).
+- **The ear.** A pronoun in reported speech had two candidates; a title had a near-homophone ("ledger" and "letter");
+  "a diver" and "the diver" drifted into each other; a recap dropped the clue the next section needed (§7, §10).
+- **Arabic.**
+  - The pause silences the case ending that would show which noun a final adjective belongs to.
+  - A name that is also a word needs its role noun on later mentions too, above all in a construct phrase.
+  - Words such as «صاحب» have a rival meaning by ear.
+  - Devices carried over from the English draft sound translated.
+  - Terms known only from English transliterations must be checked in Arabic.
+- **Two narrations, one picture.** Keep the cue points; rebuild each row in its own language (§16, `translation.md`
+  §6.9).
+- **Timing.** The writer cannot always read aloud: estimate per language, do not count pauses twice, and leave the
+  timing to the narrator (§10).
+- **Circular examples.** The examples in the guidance had come from the sample's own world, so they were varied.
+
+A revised sample was then given to fresh cold listeners in both languages. The fixes held. Their smaller findings
+added four more refinements:
+- a foreign term that collides with a known word gives way to the plain gloss;
+- the unverified seam is said aloud;
+- no story fact is hidden inside an inference;
+- in Arabic, an indefinite noun for the general case, and a title introduced as a title.
+
+**Voicing with ElevenLabs** (`documentary.md` §20, added within 4.2.0). How to prepare narration for Eleven
+Multilingual v2 and Eleven v4 separately, from ElevenLabs' documentation as read on 12 November 2026:
+- reading each scene for feeling, emphasis, slowing and silence before choosing a control;
+- each model's supported pauses, tags, pronunciation methods and voice settings;
+- an example request for each model, with placeholders;
+- splitting at scene boundaries, stitching clips and retaking a single section;
+- keeping production notes out of the text the API speaks.
+
+The examples were checked statically, without calling the API. The narration-script template now marks held pauses
+`{pause 2 s}`, because Eleven v4 reads square brackets as audio tags.
+
+## 4.0.0 (2026-11-11)
+Version 4 is driven by a reader's report on a story written with the skill: a character's death in a scene went
+unnoticed on first reading and was understood only when the burial was mentioned. The guidance on restraint and ritual
+had no account of *when* the reader understands a decisive event. Version 4 adds that judgment, without turning it into
+a rule that deaths must be stated, shown or followed by a grief scene.
+
+**Books read in full for this version,** each in order and in chunks, with verified notes (12,769 quotations checked,
+all found), a ledger of decisive events and a whole-book analysis (`references/sources.md` gives editions and gaps):
+- *The Moonstone* (Collins), *Wolf Hall* and *Bring Up the Bodies* (Mantel);
+- in Arabic: *Men in the Sun* (Kanafani), *Celestial Bodies* (Alharthi), *Palace Walk* and *Palace of Desire*
+  (Mahfouz), with a series analysis of the two Mahfouz volumes and of the two Mantel volumes;
+- Edwidge Danticat's *The Art of Death*, a craft book on writing death, tested against the novels.
+
+Partial sources were *Hamnet* (a 28-page sample that stops before any death) and an article about Alrefai's *Al-Najdi*
+instead of the novel. Their limits are recorded, and no claims rest on them beyond what they contain.
+
+**Turning points: what the reader understands, and when** (`clarity-and-orientation.md` §6, rewritten from "Hinges
+must be literal"):
+- choose when the reader should know: at once, by the end of the scene, later by design, in advance, or kept
+  uncertain on purpose;
+- choose the channel that fits the point of view and the pace: a plain line, an unmistakable act, a ritual that belongs
+  to after death, a reaction the reader was prepared to read, a restatement, a report, an announcement, or silence once
+  the fact is secure. Each channel comes with what it achieves, when it works and when it gets in the way;
+- separate the fact from its manner, agent or identity, and label any doubt that is meant to stay;
+- a first-reading test replaces the literal-clause rule.
+
+**Aftermath as a choice** (`emotion.md` §6): the options include responses in the scene, private grief returned to
+later, grief deferred to a fitting occasion, aftermath spread across chapters, a lasting habit, the bereaved written
+before the death, a cut to routine, and a short report for a minor death. Each has its effect and its risk. The
+heartbreak sequence's "aftermath" step now allows distributed and delayed consequences.
+
+**Ritual and restraint reconciled.**
+- Rituals of dying are distinguished from rituals of death.
+- A formula carries a fact only for readers who can read it, and only where the book does not use formulae in jest.
+- `arabic-writing.md` §8 sorts Arabic death formulae and customs by what they tell the reader: «راح» is ambiguous; a
+  formal announcement is unmistakable; a death-watch prayer gives near-certainty.
+
+**Elsewhere:**
+- novel-studies adds the seven novels, a cross-book table of how each keeps a death's fact secure while the scene stays
+  restrained, and §8's old "Rule" rewritten as conditions;
+- information design adds announced outcomes, fair false deaths, and fact versus identity;
+- mystery adds the *Moonstone* clue model, sincere half-truths, false-lead lifespans and social barriers to
+  investigation;
+- scene and summary adds late disclosure, report frames, chapter breaks that carry a death, and proportion as a
+  statement;
+- viewpoint adds tense as witness, narrator hand-overs and labelled uncertainty;
+- world and society adds customs as binding rules, history through household channels, and methods for glossing
+  period terms in stride;
+- character adds durable habits of grief and responses fitted to each relationship;
+- series adds staged recaps of the dead, a death log in the bible, sequels that open in settled aftermath, and echoed
+  techniques with changed outcomes;
+- the Arabic layer adds register as a signal of gravity, labels that mark viewpoint and death, glossing methods,
+  dialogue-layout lessons, and the risk of plot facts in concessive clauses;
+- templates gain a decisive-events table in the information plan, a turning-points table in the comprehension log,
+  and matching revision checks.
+
+**Flexibility pass.** The rules found to be rigid were rewritten as choices with effects and costs:
+- the quality gate's hinge line;
+- the prose checklist;
+- the horror rule on deaths;
+- the novel-studies rule on withheld deaths;
+- "never and then";
+- "recoverable in every paragraph".
+
 ## 3.0.0 (2026-11-10)
 An overhaul driven by three things:
 - an editor's critique of a story written with the skill, tested claim by claim against the manuscript;

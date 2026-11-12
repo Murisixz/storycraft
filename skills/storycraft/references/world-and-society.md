@@ -61,6 +61,13 @@ believe makes every choice inside it feel arbitrary.
   teaches the class system faster than an essay.
 - **Give the powerless their tactics:** silence, deference used as armour, gossip, small sabotage, alliances below
   stairs. Agency under constraint is more interesting than either freedom or helplessness.
+- **Customs as rules that bind.** State a custom where it forces behaviour. The dead must be buried quickly (*Wolf
+  Hall*). The dead must be buried before anyone may console the son, so no one consoles him at the hospital
+  (*Celestial Bodies*). The rule explains the scene without a lecture.
+- **Give the harmed and powerless at least one beat afterwards,** in their own view or someone else's. A servant who is
+  harmed and then vanishes, with the narrator's approval, reads as the book sharing its world's valuation (*Palace
+  Walk*). Deaths of the marginal told in a clause can mirror how the household values them. If the book should not share
+  that valuation, return to them through survivors (*Celestial Bodies* does this for some, not all).
 - **Let social position shape testimony.** Whose account is trusted, ignored or punished is itself a story engine,
   especially in mysteries (mystery-and-clues.md §10, §16).
 - **Quantify an economy that traps people.** Wages, forfeits and taxes in hard numbers let the reader do the arithmetic
@@ -120,6 +127,17 @@ the reader will test the barrier. "Why didn't she just…?" is the question that
 - **Avoid anachronism in attitude as well as objects.** Characters can't know what the era didn't know, and they
   shouldn't think in the reader's moral vocabulary. Give them their period's assumptions, and let the reader feel the
   distance.
+- **History through household channels** (*Palace Walk*): a son's rumour, a document to sign, a camp under the
+  window, a customer's whisper in the shop, a child's friendship with soldiers. Its sequel, *Palace of Desire*, carries
+  politics in jokes, banter in a car, a slogan turned against a father, and a newsboy's cry. Each channel shapes how
+  the news lands on the person who hears it.
+- **History through ignorance.** A wife hears a prince's name "for the first time", so history arrives at a listener's
+  pace (*Palace Walk*). A plain character's question does the same (*Bring Up the Bodies*).
+- **History argued between characters, or carried in one dated sentence,** works (*Celestial Bodies*). Textbook
+  paragraphs dropped into family chapters stall (the same book), and so do full documents and recitals (*Palace
+  Walk*).
+- **Real names that carry weight** (a massacre, a battle, an execution) can be left bare for readers who know them.
+  Outsiders lose the weight, so let a character's reaction carry it.
 - **Dates and duration** need to agree with history and with each other (revision.md §12).
 - **Real atrocities** demand care. Specificity, restraint and attention to victims as people, not props.
 
@@ -166,6 +184,21 @@ pair it with a plot that depends on the logistics of a real-world barrier, becau
   system to herself.
 - **Put the expertise in a character's hands.** Someone who knows the procedure performs it, argues about it or exploits
   it. Expertise shown in action convinces; expertise lectured from one character to another stalls the scene.
+- **Period science and law** convince in an expert's voice attached to an action, such as a will search or an
+  experiment (*The Moonstone*). They stall when authorities are quoted for their own sake.
+- **Gloss period and local terms without stopping the scene.** The version 4 historical novels use these methods:
+  - a joke a page before the office it explains (*Wolf Hall*);
+  - a condescending speaker explaining a law to someone who already knows it (*Wolf Hall*);
+  - a protocol drill ("When you talk to her household she is the Dowager Princess of Wales."; *Bring Up the Bodies*);
+  - a character's ignorance, or a child's question;
+  - a task that carries the meaning;
+  - the law explained just before its ritual (*Bring Up the Bodies*);
+  - a gloss in the same sentence ("Deliver, that is, the accused men"), or at the second use;
+  - a term asked about and glossed in dialogue by the character who needs it (*Hamnet*'s opening);
+  - sound and context alone, for everything the plot does not need.
+
+  Gloss early what the plot turns on. A term that matters but is glossed late is a failure (*Bring Up the Bodies*;
+  *Celestial Bodies*). The Arabic forms are in arabic-writing.md §7.
 - **Watch the explainer-character pattern.** When characters exist mainly to deliver research, give them stakes in
   being believed and let them be wrong or self-serving.
 

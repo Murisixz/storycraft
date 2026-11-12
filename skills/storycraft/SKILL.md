@@ -1,6 +1,6 @@
 ---
 name: storycraft
-description: Story design and writing system for fiction in any form and language - novels, novellas, series, short stories, screenplays, short films, YouTube Shorts and TikToks, games, comics, audio drama. Use it to invent premises, build plots with real cause and effect, design mysteries, clues, twists and reveals, create suspense and horror, develop characters with full lives and distinct voices, stage scenes instead of summarizing, write moving, sad or tragic endings, write or translate fiction in natural, followable Arabic, keep readers oriented while a secret stays hidden, and revise drafts or respond to editorial feedback. Use it whenever the user wants to create, outline, plot, draft, translate, rewrite, critique or improve a narrative, even if they only say "help with my story", "I have an idea", "make this twist land", "my editor says it feels summarized", "translate my story into Arabic", "readers get lost" or "why is my plot boring", or paste a premise, draft or critique.
+description: Story design and writing system for fiction and true stories in any form and language - novels, series, short stories, screenplays, YouTube Shorts and long-form documentaries (history, mystery, investigation, tragedy), games, comics, audio. Use it to invent premises, build cause-and-effect plots, design mysteries and reveals, create suspense and horror, develop distinct characters, stage scenes instead of summarizing, write moving or tragic endings, script documentary narration that is clear on first listen, adapt a novel into a documentary-style video without blurring invention and history, write or translate in natural, followable Arabic, and revise drafts or respond to feedback. Use it whenever the user wants to create, outline, plot, draft, script, translate, rewrite, critique or improve a narrative, even if they only say "help with my story", "make this twist land", "turn my novel into a YouTube documentary", "readers get lost" or "translate my story into Arabic", or paste a premise, draft or critique.
 license: MIT
 ---
 
@@ -39,6 +39,7 @@ This skill builds both and adapts them to any genre and form, without forcing on
 | **Doctor** | "why doesn't this work?", a diagnosis | A ranked diagnosis with evidence, concrete fixes, and a revised spine |
 | **Revise** | a rewrite, or a response to feedback or an editor's notes | Claims tested against the text, then revision passes from big to small, then the revised pages or plan |
 | **Translate** | a version in another language (especially English → Arabic), or a fix for a translation readers can't follow | Source analysis and glossaries → transfer plan → draft → verification passes → cold read, with stumbles classified source / translation / uncompensated |
+| **Documentary** | a narrated documentary or video essay (long-form YouTube) about real events, fiction told as documentary, or a fix for a script viewers can't follow | Brief and frame → truth ledger → question, promise and where the known outcome sits → section plan with reveals and a first-need schedule → three-track script for the ear → cold listen |
 
 ### One craft, any language
 Storycraft is one system for stories in every language. Nothing in it is English-only.
@@ -109,7 +110,8 @@ Techniques are not universally good; each buys one effect at a price. Choose by 
 | Resonance | One or two load-bearing echoes or images | a lattice of symbols shows the author's hand | prose §6; endings §8 |
 | Fear of a threat (horror) | The familiar made wrong; a threat with stated, tested rules | lore dumps and universal remedies drain fear; a deus ex machina ending | horror |
 | Pull across volumes | A series question above each volume's own question | recaps that stall; contradictions; hooks made of withheld scenes | series |
-| Clarity with mystery | An intended-uncertainty list; orientation; literal hinges | over-explaining kills subtext; fog kills curiosity | clarity-and-orientation |
+| Clarity with mystery | An intended-uncertainty list; orientation; legible turning points | over-explaining kills subtext; fog kills curiosity | clarity-and-orientation |
+| Trust in a true story told aloud | A truth ledger; each claim heard with its source and status; the narrowest claim the evidence allows | hedging everything hides the real leaps; a vivid reconstruction outlives its disclaimer | documentary §3, §9 |
 
 ## Architect workflow
 1. **Core and premise.** Write a logline plus the story-engine answers. Generate options before settling, and test the
@@ -134,10 +136,14 @@ Techniques are not universally good; each buys one effect at a price. Choose by 
      the character's recognition and its consequences.
    - From the plan, write the **intended-uncertainty list**: what the reader must not yet know, may suspect, should
      infer, and must have clear (`references/clarity-and-orientation.md` §2).
+   - For each **decisive event** (a death, an arrest, a discovery, a departure), decide when the reader should
+     understand it and what will make that happen, given the point of view and the pace: a plain line, an act, a
+     ritual, a primed reaction, an announcement, or doubt kept on purpose and labelled (`references/clarity-and-orientation.md` §6).
    - Depth: `references/information-design.md`; template `assets/templates/information-plan.md`.
 5. **Causal spine with staging.**
    - For each beat, record:
-     - what happens, what caused it, and the link (**therefore** or **but**, never **and then**);
+     - what happens, what caused it, and the link (**therefore** or **but**; an **and then** link is a warning sign
+       unless the form is episodic by design);
      - the value that turns;
      - what the audience learns, hopes and fears;
      - whether it will be **staged, reported or summarized**.
@@ -167,6 +173,8 @@ Techniques are not universally good; each buys one effect at a price. Choose by 
    - Build the bond before the threat.
    - Put preparation around the biggest blows, and give *consequences* (choices made because of the blow), not just
      silence.
+   - Decide where each loss is registered and by whom: in the scene, kept private and returned to, deferred to a
+     fitting occasion, spread across later scenes, or held in a lasting habit (`references/emotion.md` §6).
    - Restraint is about not naming feelings, not about skipping events.
    - Depth: `references/emotion.md`.
 10. **Pacing pass.**
@@ -218,13 +226,14 @@ Techniques are not universally good; each buys one effect at a price. Choose by 
    - Cut any line that explains an image, names the subtext or states the theme.
    - Count comparisons, number words and echoes against the budget (`references/prose.md`).
 5. **Clarity check.** Re-read as a stranger: can every paragraph's who, where, when and how-this-follows be recovered
-   while the secret stays hidden? Fix links at hinges, background, referents (`references/clarity-and-orientation.md`;
-   log: `assets/templates/comprehension-log.md`).
+   while the secret stays hidden? At each turning point, ask what a first-time reader believes happened, and when.
+   Fix links at hinges, background, referents (`references/clarity-and-orientation.md`; log:
+   `assets/templates/comprehension-log.md`).
 6. **Writing in Arabic** (the language layer, on top of steps 1–5; `references/arabic-writing.md`):
    - Before drafting, plan the narrative voice and register (the narrator's person, distance and height; each
      character's dialogue register) and the dialogue convention (tags before the line, or speaker labels).
    - Afterwards, re-check every pronoun and omitted subject against the nearest-person rule.
-7. **Format** for the medium: prose, screenplay, short-video beat script, game beats (`references/forms.md`).
+7. **Format** for the medium: prose, screenplay, short-video beat script, game beats (`references/forms.md`), or a three-track narration script for a documentary (`references/documentary.md`).
 
 ## Doctor and Revise workflows
 - **Doctor** (`references/diagnostics.md`):
@@ -261,16 +270,44 @@ Full procedure: `references/translation.md` (template `assets/templates/translat
    - classify each stumble: S (source), T (translation) or S→T (uncompensated);
    - fix T and S→T, and flag S to the author.
 
+## Documentary workflow
+Full method: `references/documentary.md`, with the templates `assets/templates/documentary-plan.md` and
+`assets/templates/narration-script.md`. The story engine still runs on the real material: the people in the record
+wanted things and made choices, and the hidden story becomes the truth ledger.
+1. **Brief and frame:** runtime, what viewers already know, how many will listen without watching, the narration
+   language, and the frame (a true story, fiction told as documentary, or a story and the history behind it).
+2. **Truth ledger:** every line the narrator will say, marked established, claimed, uncertain or invented, with its
+   source. Verify before writing; mark what cannot be verified, or leave it out.
+3. **Question and promise:** the central question, and what the video will and will not settle. If the outcome is
+   known, choose where the decisive event sits by what the suspense is about.
+4. **Sequence:**
+   - sections with jobs;
+   - small questions that open and close;
+   - turns said in words;
+   - stock-taking at the end of each movement;
+   - names, places, terms and figures at first need;
+   - plants paid off in the same words.
+5. **Script for the ear,** in three tracks (narration, picture, sound and pause):
+   - each claim heard with its status, and attribution renewed at the peaks;
+   - each death given its own sentence and room;
+   - business only at the seams.
+
+   For Arabic narration, add `references/arabic-writing.md` §12.
+6. **Revise and cold-listen** (`references/documentary.md` §17).
+7. **Voice it,** if the narration will be synthesised with ElevenLabs Multilingual v2 or Eleven v4. Read each scene for
+   its performance, write the spoken text for the chosen model, split it at scene boundaries, and keep production notes
+   out of the text the API speaks (`references/documentary.md` §20).
+
 ## Quality gate (check before presenting)
 **Machinery**
-- **Causality:** each beat is caused by a prior beat or a character's choice, with no "and then" links. No coincidence
+- **Causality:** each beat is caused by a prior beat or a character's choice, with no unintended "and then" links. No coincidence
   gets anyone out of trouble. A coincidence may start trouble, early, and only if it gains meaning.
 - **Agency:** the protagonist makes the decisive choices, and the climax is their choice under maximum pressure.
 - **Stakes:** we know what can be lost when it matters, and we care about the person before they're endangered.
 - **Forward pull:** at every point the audience has an open question or a hoped or feared outcome.
-- **Fairness:**
+- **Fairness** (for stories with secrets and reveals):
   - every reveal was planted (the rereading test);
-  - every revelation gets its recognition;
+  - every revelation gets its recognition, or the missing recognition is itself designed and felt;
   - every red herring has an innocent truth;
   - every character acts only on what they know.
 - **Inference:** for secret-driven stories, the leak audit shows the reader can't confidently guess long before the
@@ -298,11 +335,27 @@ Full procedure: `references/translation.md` (template `assets/templates/translat
   - no pronoun or omitted subject can attach to a wrong nearby person;
   - every line's speaker is recoverable;
   - in Arabic, one dialogue convention runs throughout, with the speaker named before the line (by tag or label).
-- **Hinges:** at every turn the literal change is stated, and images sit around it, not in place of it.
+- **Turning points:** a first-time reader knows what changed by the point the design intends. It may come from a
+  plain line, an unmistakable act or ritual, or a reaction the reader was prepared to read. Images sit around it, not
+  in place of it. Doubt remains only where it is designed and the reader can tell it is (`references/clarity-and-orientation.md` §6).
 - **Intended uncertainty only:** the reader is unsure only of what the story chose to hide, and left to infer only what
   it chose to imply (`references/clarity-and-orientation.md` §2).
 - **Naturalness:** no calqued idiom, metalanguage or layout from another language. Each character's register follows
   the plan, and any shift is deliberate and noticed.
+
+**Documentary and narrated nonfiction** (`references/documentary.md`)
+- **Truth:**
+  - every narration line maps to the truth ledger;
+  - claims are heard with their source and status, and attribution is renewed at the peaks;
+  - no evidence is invented;
+  - fiction told as documentary is framed at the start and marked at every seam.
+- **First listen:**
+  - a listener who hears the script once knows who, where, when and what changed at each turn;
+  - names come with roles, terms with their function, and figures one at a time;
+  - the facts the story stands on survive audio alone.
+- **Weight and payoff:**
+  - each death has its own sentence and room scaled to the person, with nothing administrative or flippant beside it;
+  - the ending answers the question the opening set, or says honestly what stays open.
 
 **Ending and meaning**
 - **Ending:** answers the dramatic question and delivers the promised emotion in an unexpected way. Two outcomes stayed
@@ -324,7 +377,8 @@ Full procedure: `references/translation.md` (template `assets/templates/translat
   function to save words.
 - **Restraint ≠ compression.** Restraint means not naming feelings and not explaining images. It doesn't mean skipping
   the confrontation or summarizing the decade. Stage the moments of choice and consequence fully, and keep their
-  emotional statement understated.
+  emotional statement understated. Restraint also shapes how a decisive fact is delivered (an act, a ritual, a
+  silence), not whether the reader can know it, unless the doubt is designed.
 - **Short resolution, full consequences.** The resolution after the climax is brief. When a revelation *is* the climax,
   its consequences (anger, blame, a decision, a changed relationship) still need staging before any grace note.
 - **One strategy per secret per stretch.** Mystery and irony can't run on the same secret at once. A narrator or
@@ -339,12 +393,13 @@ Full procedure: `references/translation.md` (template `assets/templates/translat
   "No twist" means no secret-driven plot: let the drama come from what characters face openly.
 - **Templates are thinking tools,** not molds. The heartbreak sequence, beat tables and checklists describe effects to
   check, not beats to hit in order. Every story is its own prototype.
-- **Learn principles from published novels, never copy them.** `references/novel-studies.md` compares fifteen novels
-  read in English and Arabic, by craft problem, and shows contrasting solutions. Don't reuse their plots, characters,
-  signature devices or prose.
+- **Learn principles from published novels, never copy them.** `references/novel-studies.md` compares twenty-two
+  novels read in English and Arabic, by craft problem, and shows contrasting solutions. Don't reuse their plots, characters,
+  signature devices or prose. The same holds for the documentaries behind `references/documentary.md`: learn the
+  method, never a creator's wording, catchphrases or recurring structures.
 - **A clear scene, a hidden secret.** Restraint and mystery govern meaning, never the reader's grip on events. Keep who,
-  where, when and the link to the previous beat recoverable in every paragraph, and withhold only what the information
-  plan withholds.
+  where, when and the link to the previous beat recoverable wherever the reader needs them, and withhold only what the
+  information plan withholds. Disorientation works as a tool when it is designed and the reader can tell it is meant; it usually works best brief and at one level (`references/clarity-and-orientation.md` §3).
 - **Clarity is not simplicity.** Don't simplify vocabulary, explain subtext or vowel everything to make a text clear.
   Fix orientation, reference and links.
 - **Dark material** (death, grief, crime, cruelty) is fine when it serves meaning. Avoid gratuitousness, and adapt to the
@@ -373,13 +428,14 @@ Full procedure: `references/translation.md` (template `assets/templates/translat
 | Horror: dread, the threat's rules, darkness, sentence-level fear, horror endings | `references/horror.md` |
 | Series and sequels: volume and series questions, recaps, continuity, evolving rules, long mysteries | `references/series.md` |
 | Genre expectations and core values | `references/genres.md` |
-| Medium specifics: short story, novella, novel, screenplay, short video, games, comics, audio, stage | `references/forms.md` |
+| Medium specifics: short story, novella, novel, screenplay, short video, long-form documentary, games, comics, audio, stage | `references/forms.md` |
+| Long-form narrated documentaries (YouTube), true stories and fiction told as documentary: the truth ledger, the question and the known outcome, sequence, first need, attribution, writing for the ear, narrator, picture and silence, room to absorb, fiction kept apart from history | `references/documentary.md` |
 | Diagnosing problems (failure catalogue) | `references/diagnostics.md` |
 | Revising a draft; testing feedback against the text | `references/revision.md` |
-| How fifteen novels read in English and Arabic (plus two openings) solve the same craft problems differently, by function: premise, reveals, inference, time, people, rules, investigation, dread, clarity, register, endings, series, prose | `references/novel-studies.md` |
+| How twenty-two novels read in English and Arabic (plus three openings and a craft book on writing death) solve the same craft problems differently, by function: premise, reveals, inference, time, people, decisive moments and grief, rules, investigation, dread, clarity, register, endings, series, prose | `references/novel-studies.md` |
 | A complete worked example | `references/worked-example.md` |
 | Where these ideas come from | `references/sources.md` |
-| Templates | `assets/templates/`: story-bible, scope-budget, causal-spine, information-plan, clue-ledger, character-dossier, scene-card, doctor-report, revision-checklist, comprehension-log, translation-brief, series-bible |
+| Templates | `assets/templates/`: story-bible, scope-budget, causal-spine, information-plan, clue-ledger, character-dossier, scene-card, doctor-report, revision-checklist, comprehension-log, translation-brief, series-bible, documentary-plan, narration-script |
 
 **Typical reads** (the same in every language; for a story in Arabic, add the Arabic layer to them):
 - **A mystery or twist design:** mystery-and-clues + information-design (+ endings), and clarity-and-orientation §2
@@ -398,3 +454,6 @@ Full procedure: `references/translation.md` (template `assets/templates/translat
   Arabic), plus the craft references that the story's own problems point to.
 - **Horror:** horror + information-design §3 (+ genres "Horror").
 - **A series or a sequel:** series + long-form, and the series-bible template.
+- **A YouTube documentary or video essay** (a true story, or fiction told as documentary): documentary +
+  information-design + clarity-and-orientation §6 and §9 + emotion §6. Add mystery-and-clues for an investigation,
+  world-and-society §8 for a historical setting, and arabic-writing §12 for Arabic narration.

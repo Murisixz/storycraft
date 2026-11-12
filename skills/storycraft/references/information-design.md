@@ -103,13 +103,24 @@ For every sequence, choose deliberately where the audience stands relative to th
   only seems dead; Salieri "helps" the dying Mozart in order to steal his Requiem (Howard & Mabley).
 - **Revelation → recognition (Frank Daniel):** when you reveal something to the audience that a character doesn't
   know, you create an obligation to stage the moment the character finds out. Withholding that recognition feels like
-  betrayal; delivering it is often the emotional peak.
+  betrayal; delivering it is often the emotional peak. The obligation can also be met by a designed refusal: a
+  character who never learns what the reader knows, with the gap made felt, as when a son never learns the truth about
+  his mother (*Celestial Bodies*).
 - Irony converts anxiety into **dread** (of the moment of discovery) and **compassion** (for someone walking toward
   disaster). It is the native mode of tragedy and of heartbreaking stories.
 - Opening with the ending (a corpse floating in a pool; a death notice; a chat log already saying who died) turns the
   whole story into irony and refocuses curiosity on **how and why** (McKee). Reverse-chronology tellings push this
   further (Pinter's *Betrayal*: we end on the hopeful first meeting already knowing the pain to come).
 - Irony enables subtext: when we know a character is lying, every line plays double (Howard & Mabley).
+- **Announcing an outcome in advance** moves suspense from *whether* to manner and cost. It can be a flat prolepsis in
+  the narration ("which is kill her"; *Bring Up the Bodies*), a paratext note (*Hamnet*'s historical note gives the
+  boy's death and his age), or a line that names a choice as fatal before its cost arrives ("It's the wrong
+  decision."; *Wolf Hall*). It works when every living scene renews the question of how. It gets in the way when the
+  story needs the reader to hope, or when the middle only waits.
+- **When the reader already knows, stage recognition, not information.** A son who discovers his father's secret life
+  moves through the name, a bodily shock, a demand to see, and then sight (*Palace Walk*). The scene's force comes
+  from the reader's long knowledge. Without it, the same scene is only news. When the reader needs only the reaction,
+  summarize the telling and keep the camera on the face (*Palace of Desire*).
 
 ## 6. Surprise and twists
 - **True surprise** = the gap between expectation and result springs open *and* releases a rush of insight into a truth
@@ -122,6 +133,9 @@ For every sequence, choose deliberately where the audience stands relative to th
   1. **Planted:** the evidence for the true reading was on screen or page, fairly (rereading test).
   2. **Motivated:** it follows from what characters wanted and did, not from author convenience.
   3. **Meaningful:** it changes what the story means or what a character must decide, not just what we know.
+- **A false death can be fair.** Report it as plainly as a true one, give one counter-signal at once ("still warm"),
+  and reverse it by touch ("The king is breathing."). The interval can expose every allegiance (*Bring Up the
+  Bodies*). Without a counter-signal it is a cheat. With too loud a counter-signal it is no shock.
 - Prefer suspense over surprise for sustained effect; reserve surprise for one or two turns that reframe the story,
   ideally a **turning point inside the climax** (McKee) or the final recognition.
 
@@ -149,6 +163,13 @@ For every sequence, choose deliberately where the audience stands relative to th
 - **A large reveal can widen step by step and end in a human witness:** one cell, then the count, then the clean rooms,
   then a cart of bodies, then a captive who explains in short, flat answers (*Amarita*). Each step raises the scale;
   the witness supplies the meaning.
+- **Separate the fact from its manner, agent or identity** (clarity-and-orientation.md §6.3). The reveal can then
+  be about who or how while the reader is never unsure what happened. *The Moonstone* settles a death in three lines
+  and delays only the identity, through a visible unmasking. In *Celestial Bodies* a father tells the manner of his
+  son's death fifty pages after the fact, to his lover, so the telling is itself an act in a relationship.
+- **A truth the reader learns and a character never does** can be the emotion. In *Celestial Bodies* the reader alone
+  learns what happened to a man's mother, from a witness with a credible reason to speak (dementia), and the son never
+  learns it.
 - **For endings that leave a question:** answer the emotional question fully; leave open only a question the story's
   clues make answerable (a real answer exists, and attentive viewers can argue for it).
 
@@ -244,7 +265,8 @@ lands as confirmation.
   (clarity-and-orientation.md §2, §12).
 - **Withheld danger:** no suspense because the audience can't foresee what might go wrong. Fix: show the bomb.
 - **One plausible outcome:** predictability. Fix: strengthen the opposing possibility.
-- **Revelation without recognition:** the audience is told a secret that the affected character never confronts.
+- **Revelation without recognition:** the audience is told a secret that the affected character never confronts, and
+  the story does not make that gap felt.
 - **Twist that cancels the story** ("it was all a dream"; the killer is a stranger introduced at the end). Fix: plant,
   motivate, make it meaningful.
 - **Explaining the reveal:** a long speech after the image already landed. Fix: trust implication, cut the speech.
@@ -254,6 +276,11 @@ lands as confirmation.
   details; support a rival explanation; or convert to deliberate irony (§10).
 - **Mixed strategy:** a secret run as a mystery in the main line while a second voice gives it away. Fix: choose one
   strategy per stretch (§10).
+- **The missed decisive event:** the reader learns of a death, an arrest or a departure only after the story has
+  moved on, so its consequences played to someone who did not know. Fix: decide when the reader should know and add a
+  channel that fits the point of view (clarity-and-orientation.md §6).
+- **The announced outcome with a waiting middle:** a prolepsis removes *whether*, and nothing renews *how*. Fix: let
+  each living scene raise a question of manner, cost or meaning.
 - **Explanation-heavy reveal:** the backstory delivered as a monologue inside the revelation scene. Fix: distribute it
   earlier as effects; keep only the turning fact; give the teller a goal and the listener resistance (§7).
 
@@ -269,3 +296,9 @@ lands as confirmation.
   question; episodes should close one question while widening the main one.
 - **Games:** the player's knowledge can lag or lead the character; environmental storytelling lets players pull
   information at their own pace (see forms.md).
+- **Long-form documentary** (a true story, or fiction told as documentary):
+  - when the outcome is known, move the suspense into the process, and choose where the decisive event sits by what
+    the suspense is about;
+  - run the middle on small questions that close within minutes;
+  - withhold meanings, causes and verdicts, never the basic facts;
+  - make every reveal fair by planting it in plain words (`documentary.md` §4, §8).

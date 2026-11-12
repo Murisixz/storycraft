@@ -20,6 +20,19 @@ This feeds the leak audit (`references/revision.md` §6).
 | At P# | Question the reader is asking | Best guess (confidence) |
 |---|---|---|
 
+## Turning points (reader)
+At each moment where something irreversible may have happened, write what you believe happened and how sure you are.
+Do not look ahead.
+| At P# | What I believe just happened | Confidence | What told me (a line, an act, a ritual, a reaction, a later mention) |
+|---|---|---|---|
+
+## Cold listen (narration heard once: documentaries, narrated video, audio)
+The listener hears, or reads, only the narration track, in order, once, with no plan and no pictures
+(`references/documentary.md` §17). At the end of each section:
+
+| After section | What I believe happened | Who is who (and how I know) | Established / claimed / uncertain / invented: what I heard as which | What is still open | Where I lost the thread (time or line) |
+|---|---|---|---|---|---|
+
 ## Summary (reader)
 - Stumbles by type and severity:
 - Recurring patterns:

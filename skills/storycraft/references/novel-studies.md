@@ -1,9 +1,14 @@
-# Novel studies: how fifteen novels solve the same problems differently
+# Novel studies: how twenty-two novels solve the same problems differently
 
-Fifteen novels were read in full, in order and in chunks, with notes anchored to chapters and scenes (one Arabic scan lacks two pages; sources.md):
+Twenty-two novels were read in full, in order and in chunks, with notes anchored to chapters and scenes (one Arabic scan lacks two pages; sources.md):
 - seven read in English for version 2;
 - eight Arabic novels in three series for version 3;
-- the openings of two more (publishers' extracts).
+- seven more for version 4:
+  - three in English: *The Moonstone*, *Wolf Hall* and *Bring Up the Bodies*;
+  - four in Arabic: *Men in the Sun*, *Celestial Bodies*, *Palace Walk* and *Palace of Desire*;
+- the openings of three more (publishers' extracts, including the first 28 pages of *Hamnet*).
+
+Version 4 also read one craft book in full, Edwidge Danticat's *The Art of Death*, and tested its advice against the novels. It read every book with one central question: when is the reader meant to understand a decisive event, and does that event have room to land (§8)? An eight-page article on Taleb Alrefai's *Al-Najdi* was supplied instead of the novel, so it supports no claims here.
 
 This file compares what the texts do, organized by craft problem, not by the language of the book. **Every lesson here applies to stories in any language:** a method found in an Arabic novel serves an English story and the reverse. How to *express* a story in Arabic is a separate language layer, in `arabic-writing.md`.
 
@@ -19,7 +24,7 @@ The file doesn't describe how the authors worked, which no text can show. Use it
 5. Carrying years without draining life
 6. People: lives beyond the plot, friction, secret-keepers, mentors
 7. Revelation scenes: explanation versus consequence
-8. Grief and restraint: what the books leave unnarrated
+8. Decisive moments: when the reader knows, what is withheld, and room for grief
 9. Barriers, institutions and the social world
 10. Teaching a world's rules
 11. Investigation: earned and delivered information
@@ -61,6 +66,18 @@ The file doesn't describe how the authors worked, which no text can show. Use it
 | *Ard Zikola* (Amr Abdel Hamid, Egypt, 2010) | third person close to a young villager; portal fantasy | a world whose currency is intelligence | teaching rules in stages; a climax built from old rules | coincidence; teacher exposition |
 | *Amarita* (*Zikola* 2) | third person close to the heroine, intercut strands, and first-person witness sections (a maid, a boy, a soldier, the hero) | a law that reaches across the sea and drains the heroine; the rescue uncovers an industry | a central secret keyed to the first book's price rule, with every clue planted; quantified economies; witness relays | the law's reach and its loophole never explained; the heroine unconscious for a third of the book; an ending in eight pages of summary |
 | *Wadi al-Dhi'ab al-Mansiyya* (*Zikola* 3) | six first-person narrators with name headings, four time-frames, a third-person epilogue | a braided mystery about one night in 1921 that becomes a time-loop rescue | rules tested by frightened amateurs before any expert names them; fair clues hidden in sound and in an implausibility; orientation by headings and echoes | the other world's lore delivered by informants; a time reset with no rule for what survives; moral silences |
+
+**Read for version 4** (in English, and in Arabic from the original texts):
+
+| Novel | Narration | Main engine | Strongest at | Main weakness (readers' notes) |
+|---|---|---|---|---|
+| *The Moonstone* (Collins, 1868) | a sequence of witness narratives under an editor, each limited to what its narrator saw | a theft investigated through testimony | a clue model the reader can test; deaths never left in doubt for long; a sincere half-truth that misleads fairly | info-dumps; coincidence; caricature; the motive's specifics held for the final report |
+| *Wolf Hall* (Mantel, 2009) | close third person, present tense; bare "he" is always the protagonist | a rise to power across eight years, seen from inside | deaths made unmistakable without a stated line; grief kept in objects and habits; terms glossed in stride | exposition blocks; plot delivered by gossip; late disclosures in passing; the central trial in indirect speech |
+| *Bring Up the Bodies* (Mantel, 2012) | the same voice; one year, compressed | a queen's fall, its outcome stated in advance | labelled uncertainty; deaths framed and confirmed; a false death with a fair counter-signal; responses by relationship | a principal death underweighted; an opening recap block; a cast list that spoils the end |
+| *Men in the Sun* (Kanafani, 1963; a novella) | close third person rotating among three men, then their driver | a desert crossing in an empty water tank, against the clock | restraint in the scene with clarity in the frame; dread spent on the delay; refrains that change meaning | an infant's death buried in a "but" clause; an untagged four-person scene |
+| *Celestial Bodies* (Alharthi, 2010) | a husband's first-person chapters alternating with third-person family chapters | three sisters and three generations in an Omani village across a century of change | fact first and manner later through another teller; labelled uncertainty; grief as one durable habit per person | a main character who exits through rumour; documentary history blocks; a status word glossed 160 pages late; recycled names |
+| *Palace Walk* (Mahfouz, 1956) | third person moving through a family's minds | a patriarch's household under dramatic irony, then the 1919 revolution | deaths implied at the moment and confirmed by a plain verb within a page; short, announced uncertainty; history through household channels | plot facts buried in clauses; a narrator who explains what scenes showed; the same rescuer twice; a harmed servant who vanishes |
+| *Palace of Desire* (Mahfouz, 1957) | the same voice, rotating among a father and two sons | five years after a son's death: a father's return to pleasure, a son's lost love and faith, a family's slow fall | grief kept in habits, places and objects; a death carried across volumes and released in stages through survivors; a near-death that echoes the first volume's death | a parent's death given only by an honorific; lyrical monologues that repeat one movement; visible machinery (one woman proposes to father and son in a week) |
 
 ## 2. Premise: ordinary material and one transforming move
 Every book starts from material most readers know: a house with servants, a house party, a country-house summer, a suburb, a bookshop, a museum, a boarding school, a village, a bedroom at night, a hospital. Each gives that material one move (premise.md §3):
@@ -197,7 +214,7 @@ Reveal scenes in drafts are often heavy with explanation and light on consequenc
 
 (information-design.md §7; mystery-and-clues.md §17; scene-and-summary.md §6.)
 
-## 8. Grief and restraint: what the books leave unnarrated
+## 8. Decisive moments: when the reader knows, what is withheld, and room for grief
 Several of these books **don't narrate the deaths that matter most**:
 - *Never Let Me Go* gives one friend's death as a vigil and a chapter break, and the other's as a clause.
 - *Atonement* puts two deaths inside a hypothetical sentence.
@@ -209,13 +226,48 @@ This might look like the compression the critique attacked, but it is the opposi
 - **The people were lived in scene first.** The reader has spent hundreds of pages with them. The ellipsis is of the event, not of the life.
 - **The aftermath is staged.** *The Shadow of the Wind* gives a murder far more pages of aftermath than of killing: a father's judgment, a funeral, a bereaved parent in the dead woman's flat. *The Lovely Bones* gives each family member a separate mode and room of grief.
 - **The restraint governs expression, not events.** Feeling is displaced onto precise domestic detail (a cigarette burn, four lamps) rather than named.
+- **The fact itself stays secure,** even where the scene is reticent. The version 4 books show how.
+
+**How the version 4 books keep the fact clear while the scene stays restrained.** The decision procedure built from these cases is in clarity-and-orientation.md §6, and the options for aftermath are in emotion.md §6.
+
+| Book and moment | When the reader knows | What makes it unmistakable | What stays withheld | Risk the readers found |
+|---|---|---|---|---|
+| *Men in the Sun*: three men in a tank | by the end of the scene | signs of life taught twenty pages earlier; a tactile check; a physical sign; a chapter title and "three graves"; "body" becoming "corpse" | why they did not knock, asked aloud | none for the fact |
+| *The Moonstone*: a mother dies during another scene | at once | six steps in one paragraph, from "fainted" to a plain "had died"; a burial notice later, as the third confirmation | the daughter's grief, kept private and returned to a month later | none |
+| *The Moonstone*: a servant vanishes | within six pages, with no witness and no body | seven independent signs, including a proverb used as a funeral formula and her note | her reasons, held for a letter read aloud much later | none |
+| *Wolf Hall*: the protagonist's wife | on his homecoming; never stated outright | a plant thirty pages earlier; symptoms the night before; a mother who cannot say the words; the bound jaw; then the mother's account, hour by hour | nothing | none; consequences run to the last chapter |
+| *Bring Up the Bodies*: a former queen, out of the viewpoint's sight | framed in advance ("later he will hear") | the anointing and a clock, one plain line, then a first practical act | nothing; only distance | none |
+| *Palace Walk*: a son, narrated from inside | within a page and a half | failing perceptions, a chapter break, then a formal announcement to his father | the family's response: the volume ends at the door | high on the dying page, closed quickly |
+| *Palace Walk*: a mother | at the last line of a chapter | a condolence formula that is itself the announcement, prepared by her illness, with a lowered head | the aftermath, given weeks later as comedy that judges the mourner | readers who do not know the formula |
+| *Palace of Desire*: the same son, five years on, in the sequel | within a few pages | a prayer for the dead and a stressed silence inside a re-staged ritual, then a plain verb | the manner, released over 233 pages through survivors, last as the literal half of a simile | the final fact inside a figure is easily skimmed |
+| *Palace of Desire*: a father's collapse | uncertain for one page, by design | failing perception, unattributed cries, a chapter break, then elapsed time and the household's view | nothing; he lives | none; the returning reader's fear is the suspense |
+| *Celestial Bodies*: a son | at the first mention | a dialect euphemism pinned by condolences and tears | the manner, told fifty pages later by the father to his lover | none |
+| *Celestial Bodies*: a man's mother | kept uncertain on purpose | the narrator admits he does not know; every version has a named teller | the truth reaches only the reader, through a witness with dementia; the son never learns it | none; the doubt is labelled |
+| Danticat on Morrison's Pilate (*The Art of Death*) | by the end of the scene | a witness's delayed recognition, closed by a plain statement | nothing | none |
 
 **Where it fails:**
 - two principal deaths in one line each, with neither the life fully staged nor an aftermath (*Khawf* 1);
 - a father's murder revealed at the midpoint with its grief compressed for momentum (*Ard Zikola*);
-- a spouse killed with no aftermath (*Arsis* 2).
+- a spouse killed with no aftermath (*Arsis* 2);
+- a main character who leaves through four rumours in someone else's chapter, while the person closest to her gets no scene, only a fever nine pages later (*Celestial Bodies*). It is labelled, so it is fair, but a first reader cannot tell whether she died;
+- a visionary's execution disclosed in passing a year late (*Wolf Hall*), and a principal death reduced to "made an eloquent speech" (*Bring Up the Bodies*);
+- an infant's death inside a "but" clause (*Men in the Sun*), and plot facts in subordinate clauses (*Palace Walk*);
+- a harmed servant who vanishes and never returns, even in thought (*Palace Walk*);
+- a main character's parent dead by honorific alone, a death in a clause with no death word confirmed 320 pages later, and a widow's death in three sentences with no reaction for 128 pages (*Palace of Desire*);
+- a central death so brief that "readers often miss it", as Danticat reports Morrison saying of *Beloved*. The book compensates with an aftermath that keeps circling back to the act;
+- an off-stage death received too calmly. Danticat's verdict on her own first novel: "I wish now that I had included more confrontation."
 
-**Rule:** you may withhold the death scene only when the person has been fully staged in life and the consequences are staged after. A short story that summarizes the life *and* withholds the death has nothing left to grieve (emotion.md; scene-and-summary.md §2).
+**What the books suggest, as conditions rather than a rule:**
+- **Withholding the death scene works** when three conditions hold:
+  - the person was lived in scene;
+  - the fact is secure at the point the design intends, through an announcement, a frame, a ritual that belongs to after death, a primed reaction or a restatement soon after, or else the doubt is labelled;
+  - the loss is registered somewhere: in the scene, later, spread across chapters, or held in a habit (emotion.md §6).
+- **It fails** in three situations:
+  - the fact rests on one soft signal: a euphemism, a ritual of dying, or a formula some readers cannot read;
+  - the plot moves on before the reader has the fact;
+  - the people closest never register the loss.
+- **Showing the death plainly works** when the scene is busy, the viewpoint is distracted, or the story must move on at once. It can flatten a moment whose power lies in the reader working it out: *Wolf Hall* never says that the protagonist's wife has died, and no reader misses it.
+- **A short story that summarizes the life *and* withholds the death** has nothing left to grieve (emotion.md; scene-and-summary.md §2).
 
 ## 9. Barriers, institutions and the social world
 Why don't characters simply talk, leave or go to the police? The books answer concretely:
@@ -272,15 +324,21 @@ The books that invent rules (a fable economy, a jinn cosmology, a time gate) tea
   - the investigator's body as the meter of proximity (*Khawf* 2);
   - a fair clue from a religious rule, keyed by a joke (*Khawf* 2);
   - knowledge distributed among narrators, with every discovery costing a ride, a battle or a ruse (*Amarita*);
-  - observation, reasoning aloud, legwork in records and risky experiment (*Wadi al-Dhi'ab*'s present-day strand).
+  - observation, reasoning aloud, legwork in records and risky experiment (*Wadi al-Dhi'ab*'s present-day strand);
+  - a mundane detail (wet paint) flagged once, its timing fixed, a wrong reading allowed to pass, then a test by arithmetic the reader can check (*The Moonstone*);
+  - narrators allowed to tell only what they witnessed, so the gaps come from their social limits rather than from the author (*The Moonstone*);
+  - an investigator whose private resolutions the reader sees, pays off, and can test against his own account of himself (*Bring Up the Bodies*);
+  - domestic investigations: a boy's invented death cross-examined "like a lawyer", and a father's search for his son from the customers to a sweet-seller's tray to the morgue (*Palace Walk*).
 - **Delivered:**
   - witnesses, documents, lectures and visions hand over the next step: *The Da Vinci Code*'s expert lectures, *Khawf* 1 from its fifth chapter on, *Khawf* 2's casebook, *Arsis* 2's vision of the whole frame-up;
   - chance remarks decode riddle terms (*Ard Zikola*);
   - a killer recognized by chance in a crowd (*Amarita*);
-  - a found book, a confession, news and visions (*Wadi al-Dhi'ab*'s other-world strand, set beside its earned strand).
+  - a found book, a confession, news and visions (*Wadi al-Dhi'ab*'s other-world strand, set beside its earned strand);
+  - witnesses who yield exactly what the case needs (*Bring Up the Bodies*);
+  - the motive's specifics held back for a final report (*The Moonstone*).
 
   These are the books' weakest stretches.
-- **Lesson:** give information a price the world defines, make one decisive discovery the searcher's own observation, and let the first theory fail at a cost (mystery-and-clues.md §18).
+- **Lesson:** give information a price the world defines, make one decisive discovery the searcher's own observation, and let the first theory fail at a cost (mystery-and-clues.md §18). *The Moonstone* adds two more. Let each false lead live only as long as the evidence would keep it alive, from three hours to 236 pages. And let discovery cost something: a servant dies under the inquiry, and a dying man spends his last strength on the experiment.
 
 ## 12. Dread and horror
 - **A governing absence** that every room remembers (*Rebecca*); **a closed circle with a published pattern** (*And Then There Were None*); **a known fate approached slowly** (*Never Let Me Go*). These are three kinds of dread without monsters.
@@ -313,13 +371,20 @@ Full method: horror.md.
 - **One label withheld, every act narrated** (*Amarita*): a dawn visitor whose name alone is missing; a hooded woman whose every movement comes before her face; a casual word ("treasuries") with a visible referent, explained 156 pages later.
 - **A clue in plain sound** (*Wadi al-Dhi'ab*): a feverish child repeats two fragments, «حونا، جانا», later matched to the ends of two words the opening used constantly, «طاحونة» (mill) and «الهجّانة» (the camel corps). The hero's blind spot is written in exact words ("no jewellery on her hands") while the key hangs at a woman's neck.
 
+- **The fact settled, the identity delayed by a visible procedure:** a death in three lines, then two pages of unmasking (*The Moonstone*).
+- **A false death reported as plainly as a true one,** with a fair counter-signal at once ("still warm"), then reversed by touch (*Bring Up the Bodies*).
+- **Uncertainty labelled,** in the narration ("So now we will never be sure."; *Bring Up the Bodies*) or by a character asking aloud (why didn't they knock?; *Men in the Sun*).
+- **A dying consciousness that never names its death,** confirmed on the next page by a formal announcement to the father (*Palace Walk*).
+
 **Worst:**
 - the terms of a bargain blur (*Khawf* 1);
 - five new institutions in two lines leave the reader unsure who the narrator is (*Khawf* 2);
 - a time skip whose length is revealed only later (*Ard Zikola*);
 - stakes resting on a causal link never given (*Arsis* 1);
 - one epithet ("the stranger") moving from the hero to a disguised king while two first-person sections are unlabelled (*Amarita*);
-- a time reset whose events are all clear but whose rule for what survives is never given (*Wadi al-Dhi'ab*).
+- a time reset whose events are all clear but whose rule for what survives is never given (*Wadi al-Dhi'ab*);
+- a pregnancy, a divorce and a son's death each placed in a subordinate clause with no one reacting (*Palace Walk*);
+- a status word the plot turns on, glossed 160 pages late (*Celestial Bodies*).
 
 In every bad case the book withheld the present situation, not the secret (clarity-and-orientation.md §11).
 
@@ -336,6 +401,9 @@ In every bad case the book withheld the present situation, not the secret (clari
 | *Arsis* 1–2 | فصحى | فصحى banter: short turns, formulae, gendered forms | readability; dignity | every voice shares one syntax |
 | *Ard Zikola* | فصحى | Egyptian for the Egyptians, فصحى for the other world, each calling the other's speech "a strange dialect" | world-marking with no exposition; register as plot evidence | the other world's voices are uniform |
 | *Amarita* | فصحى | فصحى in the invented lands; Egyptian only from Egyptians, in about 2% of speeches, all after 61% | the world-marking inverts (the فصحى world is home, and Egyptian arrives as an event); narrators label each code from where they stand; the hero's home register marks intimacy | three nations share one voice; mutual intelligibility applied unevenly |
+| *Men in the Sun* | فصحى | فصحى for most speech; dialect only as markers that identify a speaker or puncture formality at moments of contempt or intimacy | pan-Arab readability that still hears Basra, Kuwait and camp speech | regions even out, so smugglers and clerks sound alike |
+| *Celestial Bodies* | فصحى, including the thoughts of dialect speakers | Omani dialect in guillemets; proverbs footnoted in فصحى; a switch of code inside one speech marks a new discourse (a legal phrase, a slogan) | local texture without stalling the scene | a handful of opaque words, and the vocabulary of rank |
+| *Palace Walk* | ornate, analytic فصحى | فصحى syntax, with Egyptian formulae, oaths, songs, panic and comedy | register signals tone; the gravest scenes are the plainest | a few items need Egyptian knowledge |
 | *Wadi al-Dhi'ab* | فصحى | فصحى for every voice, a 1921 village and a family at 3 a.m. included; colloquial only fenced in guillemets, or asserted | one surface for four strands and two worlds; period built from objects and trade words, not accent; voices told apart by lexicon; identity marked by belief | volume 1's symbol of belonging (the hero's dialect arc) dropped without comment; home scenes read like a translation of speech; almost every turn needs a tag |
 
 - **Language-general lessons from these choices:**
@@ -393,6 +461,22 @@ In every bad case the book withheld the present situation, not the secret (clari
   - the register policy changes without comment, from dialect in every Egyptian line to about 2% of speeches to none;
   - the great love closes in a report, not on stage.
 
+- ***Palace Walk* and *Palace of Desire*:**
+  - volume 1 ends at a door, before the family learns that a son has died. Volume 2 skips the telling and the funeral and opens five years later, in settled aftermath. The death keeps the shape the household gives it; the cost is that the scene volume 1 withheld is never paid out;
+  - the recap is a re-staged ritual (the father's night return), so the reader measures the change against an unchanged routine;
+  - earlier deaths return as honorifics. That works for minor figures and fails for a main character's parent;
+  - a grief trigger whose meaning lives only in volume 1 (the garden fence near which the son was shot) stays opaque to a new reader. State the link once;
+  - the later crisis repeats volume 1's death technique on a man who lives;
+  - volume 2 ends at a door again, with private deaths pending under death-watch formulae and a public death stated plainly;
+  - the father's age drifts by about five years.
+- ***Wolf Hall* and *Bring Up the Bodies*:**
+  - volume 1 ends on a decision that names the next volume's first setting;
+  - the sequel recaps the family dead in stages: names, then the bare fact, then the day of dying, then the cause. Each stage is news to a new reader and recognition to a returning one;
+  - a court entertainment in volume 1 that mocks a fallen patron supplies volume 2's victims: the four men who played the devils become the accused;
+  - a grief object (a dead daughter's angel wings) returns with a changed use;
+  - the two volumes disagree on the daughters' death date, which a series bible would have caught;
+  - the pace changes from about eight years in 530 pages to one year in 345. Volume 1 hands on a place, and volume 2 hands on a threat.
+
 Full method: series.md.
 
 ## 17. Prose: what the measurements show
@@ -402,7 +486,7 @@ Full method: series.md.
 - **Number words** run 8.6–12.2 per 1,000 words.
 - **Dialogue share** varies enormously (8% in *Atonement*, 45% in *And Then There Were None*), so no single target exists.
 
-**The eight Arabic novels.** OCR-based counts per 1,000 Arabic words, approximate (OCR drops some dashes and punctuation):
+**The eight version 3 Arabic novels.** OCR-based counts per 1,000 Arabic words, approximate (OCR drops some dashes and punctuation):
 
 | Book | ".." | "!" | "؟" | Tags before the line | Tags after the line | Dash lines | Mean sentence (words) | Egyptian markers | Gulf markers |
 |---|---|---|---|---|---|---|---|---|---|
@@ -419,8 +503,8 @@ Full method: series.md.
 - The novels name the speaker before the line, or use labels. English-style tags after the line are close to absent (arabic-writing.md §4).
 - The ".." pause is a register choice that varies more than a hundredfold. The same author moves from about 100 per 1,000 words to almost none across the *Zikola* books, while his exclamation marks fall and his sentences lengthen (arabic-writing.md §9).
 
-**Habits across all fifteen books:**
-- the plainest sentences carry the biggest facts (*Rebecca*'s confession; *Atonement*'s deaths; *Arsis* 1's shooting);
+**Habits across the fifteen books measured:**
+- the plainest sentences carry the biggest facts (*Rebecca*'s confession; *Atonement*'s deaths; *Arsis* 1's shooting). Version 4 adds the counter-case: *Wolf Hall* never states its protagonist's wife's death, and acts, a ritual and a mother's account make it unmistakable (§8);
 - heightening is rationed to a few images at peaks (*Never Let Me Go*);
 - every book shows its machinery somewhere: prolepses, recap passages, stated themes, a repeated chapter-end device. The lesson is to keep the machinery rare and varied, not to remove it.
 
@@ -470,14 +554,20 @@ Celebrated and popular novels are not flawless, and their flaws are the ones wri
   - a document found at sea "a hundred to one";
   - a chance remark that decodes a riddle;
   - a killer recognized in a crowd;
-  - rain that delays a hanging until the moon rises.
+  - rain that delays a hanging until the moon rises;
+  - the same young man who rescues a family and later brings it the death news (*Palace Walk*);
+  - one street hosting three key events, and one woman proposing to a father and his son in the same week (*Palace of Desire*).
+
+  Letting a character notice the chance, and making it a theme, disarms one coincidence (*Palace of Desire*), not a recurring one.
 
   Readers' notes catch every instance. Use coincidence to get characters into trouble, not out of it (mystery-and-clues.md §9).
 - **Testimony that knows too much.** Witnesses and memoirs narrate thoughts they could not know (*The Shadow of the Wind*), and a dead narrator's access dissolves the limits of first person (*The Lovely Bones*). Acknowledge the reconstruction or limit it.
-- **The explainer.** Late explanations by characters who exist mainly to explain (*Never Let Me Go*); lectures by an expert who is always right (*The Da Vinci Code*); confessions with recap passages (*Rebecca*); taxonomies and invented statistics (*Khawf* 2).
+- **The explainer.** Late explanations by characters who exist mainly to explain (*Never Let Me Go*); lectures by an expert who is always right (*The Da Vinci Code*); confessions with recap passages (*Rebecca*); taxonomies and invented statistics (*Khawf* 2); a final report that holds the motive's specifics (*The Moonstone*).
+- **Documents and history blocks that stall scenes:** a full political letter and a recital (*Palace Walk*), textbook history paragraphs dropped into family chapters (*Celestial Bodies*), exposition blocks (*Wolf Hall*). A document gains energy when living listeners interrupt it (*The Moonstone*'s letter read aloud).
+- **Late disclosure in passing.** A death the reader cared about mentioned a year late, in a clause (*Wolf Hall*). It works for minor figures, and it reads as a gap for anyone the reader followed.
 - **Delivered middles.** Witnesses, documents and visions hand over the next step (*Khawf* 1–2, *Arsis* 2).
 - **The rescue from outside.** A late power ends the threat at no cost to the hero (*Khawf* 1–2).
-- **The narrator who glosses.** Explaining a scene's subtext after the scene has delivered it (*The Lovely Bones*), or explaining a fair twist outright (*Arsis* 1).
+- **The narrator who glosses.** Explaining a scene's subtext after the scene has delivered it (*The Lovely Bones*; the narrator's essays on a patriarch's motives in *Palace Walk*), or explaining a fair twist outright (*Arsis* 1).
 - **Repeated devices.** The same chapter-end withholding a dozen times; the same tics ("incidentally"); aphorisms shared by every character, so the voices converge on the author's; the same institutional convenience in two volumes.
 - **Sags in the middle** (long-form.md §8).
 - **A protagonist absent from her own book.** *Amarita*'s heroine is unconscious for a third of it, so others must act for her.
@@ -487,8 +577,9 @@ Celebrated and popular novels are not flawless, and their flaws are the ones wri
   - Servants and some women left as functions or portraits; physiognomy used as moral shorthand; period prejudice in the narrator's own voice.
   - Stereotyped sources of evil (a foreign maid as sorceress, a "Westernised" girl as prey); essayistic grievance in the narrator's voice; medical misinformation presented as wisdom (*Khawf* 2).
   - An idealised king and villains without interiors (*Amarita*).
+  - A harmed servant with no interior, who vanishes with the narrator's approval, and racialised epithets used as the measure of shame (*Palace Walk*); caricature (*The Moonstone*).
   - Write people from the inside, all of them.
-- **Continuity slips** at novel length: ages, timetables, day counts, children who change between volumes (long-form.md §10; series.md §5).
+- **Continuity slips** at novel length: ages, timetables, day counts, children who change between volumes (long-form.md §10; series.md §5). Ages that do not add up (*Palace Walk*); a death date that differs between two volumes (*Wolf Hall*, *Bring Up the Bodies*); given names recycled within one family until readers confuse them (*Celestial Bodies*).
 - **Epithets reused for different people** («العجوز» for four old men) and **punctuation conventions that change within a book** (clarity-and-orientation.md §4; arabic-writing.md §4, §9).
 
 ## 20. Furniture not to copy
@@ -503,6 +594,13 @@ Using any of these, even renamed, would read as pastiche. They are listed so the
 - ***Khawf:*** a pact-memoir narrator known by the alias "Fear"; these jinn tribes, names and councils; a binding book with no title; afterwords that argue with the reader.
 - ***Arsis:*** a time gate by this name; paratext pages warning the reader to turn back; the bold clock stamp of a shooting.
 - ***Zikola:*** a world whose currency is intelligence; its culling machine and its wall; a kingdom that numbers debtor-deportees as labourers; human "treasuries" and a complex that drains captives' minds; a second moon called the Witness; half-wolf people; a mill that is a time gate.
+
+- ***The Moonstone:*** a sacred diamond followed by three guardians; Robinson Crusoe as a servant's oracle; a quicksand with a proverb of its own; the commissioned-witness frame with an editor's footnotes; an opium re-enactment; a sealed envelope with the culprit's name.
+- ***Wolf Hall* and *Bring Up the Bodies*:** the "he, Cromwell" appositive; comic tags for courtiers; a patron's ghost who vanishes with a chortle; the refrain "Words, words, just words"; a dead daughter's angel wings; a cast list used as dramatic irony.
+- ***Men in the Sun:*** the empty water tank and the closing question about knocking on its walls; a castrated driver as the guide of the dying; paired chapter titles of sun, shade and grave.
+- ***Celestial Bodies:*** a husband's apostrophe to a flight attendant; a "two halves" thesis-text carried by a character; a closing dream that condenses every thread; a marriage summed up as orbits; its Omani specifics (the falaj, the bidar, the zar, the Big House) used as local colour.
+- ***Palace of Desire:*** a son burying a sparrow to learn where the dead go; one woman passing from father to son; a coffee hour moved upstairs after a death; a convalescent's bedside parade of every world he has.
+- ***Palace Walk:*** a tyrant at home who is a reveller by night; a wife expelled for one outing to a shrine; sacred formulae bent into innuendo as a running joke; a father opening the door to a child's song at the close.
 
 General techniques (dated headers, speaker labels, parenthesised names, ring endings) are conventions anyone may use.
 

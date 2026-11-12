@@ -20,6 +20,9 @@ claims.
   dramatic irony and the revelation→recognition obligation; preparation and aftermath (including by contrast); planting
   and payoff; advertising and elements of the future; plausibility and inevitability; activity vs action; dialogue;
   visuals; the dramatic scene and its rewrite questions; sixteen film analyses.
+- **Edwidge Danticat, *The Art of Death: Writing the Final Story*** (Graywolf Press, 2017; The Art of series), read
+  for version 4. Complete. Her readings of how writers handle a death were compared with the novels, and her advice is
+  cited where the novels confirm or complicate it (`clarity-and-orientation.md` §6; `novel-studies.md` §8).
 
 ## Novels studied for version 2
 Each was read in full, in order, in chunks of about 7,000 words, with a note per chunk. Each note quotes the chunk's
@@ -63,15 +66,114 @@ editor's critique of it was tested claim by claim, and a cold read of the Arabic
 could not follow it. The lessons are generalized in `clarity-and-orientation.md`, `translation.md` and
 `mystery-and-clues.md` §18–19. Nothing from the story is quoted, and every example in the skill is invented.
 
+## Books studied for version 4
+Version 4 read every supplied book with one central question: when is the reader meant to understand a decisive event, and does it have room to land? The books were also read for the whole craft (voice, dialogue, scene, pacing, suspense, clues, investigation, reveals, relationships, consequences, historical atmosphere and continuity). Each was read in full, in order and in chunks, with:
+- a note per chunk;
+- a ledger of decisive events;
+- a whole-book analysis;
+- for the Arabic books, a separate analysis of the prose.
+
+Every quotation in the notes was machine-checked against the text, and all were found: 12,769 across the seven novels, Danticat's book and the *Hamnet* sample. Scans were read through OCR checked against the page images, as in version 3. The English titles of the Arabic novels are used for convenience: the Arabic originals were read, not the translations.
+
+**In English:**
+- **Wilkie Collins, *The Moonstone*** (1868; a Feedbooks PDF made from the Project Gutenberg text). Complete, from the Prologue to the Epilogue.
+- **Hilary Mantel, *Wolf Hall*** (Henry Holt, first US edition, 2009; a scan). Complete, printed pages 3–532. Seven blank versos were not scanned and two pages were scanned twice. No text is missing.
+- **Hilary Mantel, *Bring Up the Bodies*** (Henry Holt e-book, 2012). The complete text. The two family trees are absent from the file.
+
+**In Arabic:**
+- **Ghassan Kanafani (غسان كنفاني), *Rijal fi al-Shams* (رجال في الشمس; *Men in the Sun*)** (first published 1963; Rimal Publications, Cyprus, 2013 edition, 2015 printing). Complete, pages 7–109.
+- **Jokha Alharthi (جوخة الحارثي), *Sayyidat al-Qamar* (سيدات القمر; *Celestial Bodies*)** (Dar al-Adab, Beirut). The copyright page says first edition 2010, but the half-title mentions the 2019 prize for the English translation, so this is a later printing. Complete, pages 7–223.
+- **Naguib Mahfouz (نجيب محفوظ), *Bayn al-Qasrayn* (بين القصرين; *Palace Walk*)** (first published 1956; Dar al-Shorouk, 2006 edition, 10th printing 2015). Complete, pages 5–579.
+- **Naguib Mahfouz, *Qasr al-Shawq* (قصر الشوق; *Palace of Desire*)** (dated 1957 in the publisher's list; Dar al-Shorouk, 2006 edition, 6th printing 2013). Complete, pages 5–542. The print itself repeats about five lines on page 291 and drops a word on page 528. A reader of the two volumes wrote a series analysis.
+
+Also used for version 4: a reader's feedback on an unpublished story, about the moment a decisive event is understood. It is generalized in `clarity-and-orientation.md` §6. Nothing from the story is quoted, and every example in the skill is invented. Other books on the version 4 reading list were not available and were not used.
+
+## Documentary transcripts studied for version 4.2
+Version 4.2 adds `documentary.md`, a workflow for long-form narrated documentaries, from caption transcripts of
+twenty-one videos on three YouTube channels. Each transcript was read in full and in order, in chunks of about 6,000
+words, with:
+- a note per chunk;
+- a ledger;
+- a map of the whole video: its opening, question ladder, sections, turns, ending, information placement, withholding,
+  attribution, sentence-level craft, room to absorb, and what the transcript cannot show.
+
+Each channel was then analysed on its own, counting each video once, before the three were compared. Every quotation in
+the notes and analyses was machine-checked against the captions, and all were found within 45 seconds of the time cited.
+The skill quotes none of them, and it reuses no creator's wording or recurring structures.
+
+What captions cannot show is treated as unknown throughout: the picture, the music, the editing, and who voiced each
+reading. Pause lengths come from caption gaps, so they are minimums.
+
+- **Brick Immortar** (maritime and engineering disasters; six videos):
+  - *INFLECTION POINT: The Tragedy of SS Marine Electric* (captions begin at 0:02:30);
+  - *A COLLISION OF BLAME: The Total Collapse of Baltimore's Key Bridge*;
+  - *FROZEN, DARK & OVERWHELMED: The Loss of FV Destination* (captions begin at 0:00:34);
+  - *OFFSHORE NIGHTMARE: The Collapse of Texas Tower 4*;
+  - *INSTANTLY UNDERWATER: The Sinking of Towboat Ricky Robinson* and *TRAGIC DISAPPEARANCE: The SS Marine Sulphur
+    Queen*, the channel's shorter formats.
+
+  Caption spans run from 28 minutes to 3 hours 14 minutes.
+- **Fall of Civilizations** (narrated histories, also published as a podcast; five episodes):
+  - *17. Carthage - Empire of the Phoenicians*;
+  - *18. Egypt - Fall of the Pharaohs*;
+  - *19. The Mongols - Terror of the Steppe*;
+  - *20. Persia - An Empire in Ashes*;
+  - *21. Majapahit - Empire of the Islands*.
+
+  Caption spans run from 3 hours 39 minutes to 6 hours 47 minutes. *Majapahit* was supplied twice: one upload's track
+  looked automatic, with hundreds of misspelled names. It was compared word for word with the human-made track, which
+  was the one read, and no judgement about wording rests on it. The credits name readings in other languages that the
+  English captions do not contain.
+- **LEMMiNO** (investigations, unsolved puzzles and histories; ten files):
+  - seven documentaries:
+    - *The Enduring Mystery of Jack the Ripper*;
+    - *The Kennedy Assassination: Inside the Book Depository*;
+    - *Shouting at Stars: A History of Interstellar Messages*;
+    - *The Unbreakable Kryptos Code*;
+    - *Bygone Visions of Cosmic Neighbors*;
+    - *Consumed by the Apocalypse*;
+    - *Extraordinary Until Proven Otherwise*.
+
+    Caption spans run from 26 minutes to 2 hours 27 minutes.
+  - two Q&A videos (*4,000,000 - Q&A*, *5,000,000 - Q&A*), used only for what the creator says about his own process
+    and kept apart from what the films show;
+  - a two-minute charity promo (*Seas #TeamSeas*).
+- **Arabic.** All supplied transcripts are English. `arabic-writing.md` §12 carries the findings into Arabic through the
+  Arabic layer, and it was checked on an original sample. It does not rest on Arabic documentaries.
+- **Platform policy.** YouTube Help, "Disclosing use of GenAI content"
+  (https://support.google.com/youtube/answer/14328491; indexed under its earlier title, "Disclosing use of altered or
+  synthetic content"), read on 12 November 2026. It is used in `documentary.md` §15.
+- **ElevenLabs documentation** (read on 12 November 2026 for `documentary.md` §20; the platform changes often):
+  - the models overview (https://elevenlabs.io/docs/overview/models);
+  - "What is Eleven v4?" (https://elevenlabs.io/docs/help-center/product/core-capabilities/text-to-speech/what-is-eleven-v4);
+  - the Eleven v4 guide (https://elevenlabs.io/docs/overview/capabilities/text-to-speech/eleven-v4);
+  - text-to-speech best practices (https://elevenlabs.io/docs/overview/capabilities/text-to-speech/best-practices);
+  - the text-to-speech overview and its playground guide;
+  - the Create speech API reference (https://elevenlabs.io/docs/api-reference/text-to-speech/convert);
+  - the request-stitching guide (https://elevenlabs.io/docs/eleven-api/guides/how-to/text-to-speech/request-stitching);
+  - the pronunciation-dictionaries guide (https://elevenlabs.io/docs/eleven-api/guides/how-to/text-to-speech/pronunciation-dictionaries).
+
+  Where the pages disagree, `documentary.md` §20 follows the model's own page and says so: on Speed for v4, the v4 pages say the slider
+  is not available, and another page lists speed for all models.
+- **Validation.** The workflow was tested on a short original sample: an invented novel adapted into the opening of a
+  documentary-style video, in English and Arabic. It was given a cold listen in each language and an independent audit,
+  revised, and listened to again. Its history rests only on sources read directly; pages that refused access were not
+  used. The sample is not part of the skill, and nothing has yet been tested with a narrator reading aloud.
+
 ## Openings only
 - **Donna Tartt, *The Secret History*** (Knopf e-book preview): the Prologue and the opening of Book I. Used only for
   observations about openings.
 - **Diane Setterfield, *The Thirteenth Tale*** (Orion extract): the opening only. Used only for observations about
   openings.
+- **Maggie O'Farrell, *Hamnet*** (a 28-page publisher's sample, 2020): the historical note, the epigraphs and the
+  opening, which stops before any death. Used only for preparation, paratext and period texture (version 4).
 
 ## Supplied but not used
 - A file labelled *Mystic River* (Dennis Lehane) turned out to be a Bookey app summary, not the novel. No craft claims
   are drawn from it.
+- For Taleb Alrefai's *Al-Najdi* (طالب الرفاعي، النجدي), the file supplied was an eight-page academic article about the
+  novel (Ishraq Al-Rubaie, *SIBAWAYH Arabic Language and Education* 2(1), 2021), not the novel itself. No claims about
+  the novel's craft are drawn from it (version 4).
 
 ## Length bands
 - Novelette 7,500–17,500 words; novella 17,500–40,000 words: the SFWA Nebula Award categories, via

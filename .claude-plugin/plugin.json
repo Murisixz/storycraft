@@ -1,7 +1,7 @@
 {
   "name": "storycraft",
-  "version": "3.0.0",
-  "description": "Story design, writing, translation and revision system for Claude: cause-and-effect plotting, characters with lives beyond the plot, mysteries with earned discoveries and controlled inference, suspense and horror, reveals, emotionally powerful (including sad) stories, scope control from short stories to novels and series, fiction in natural, followable Arabic, English-to-Arabic literary translation, and comprehension checks that keep the scene clear while the secret stays hidden.",
+  "version": "4.2.0",
+  "description": "Story design, writing, translation and revision system for Claude: cause-and-effect plotting, characters with lives beyond the plot, mysteries with earned discoveries and controlled inference, suspense and horror, reveals, emotionally powerful (including sad) stories, scope control from short stories to novels and series, fiction in natural, followable Arabic, long-form documentary narration (true stories and fiction told as documentary) that is clear on first listen, English-to-Arabic literary translation, and comprehension checks that keep the scene clear while the secret stays hidden.",
   "author": {
     "name": "Murisixz",
     "url": "https://github.com/Murisixz"
@@ -21,7 +21,9 @@
     "arabic",
     "translation",
     "horror",
-    "series"
+    "series",
+    "documentary",
+    "youtube"
   ],
   "homepage": "https://github.com/Murisixz/storycraft",
   "repository": "https://github.com/Murisixz/storycraft"

@@ -50,8 +50,15 @@ Stage these by default:
 - **The reader already knows** the event and its meaning, so staging would repeat. Summarize, or skip to the reaction.
 - **Deliberate ellipsis.** The story withholds the event (from a narrator who can't bear it, or to create a gap the
   reader fills). Then make the reader *feel* the gap: an aftermath scene, changed behaviour, a hole in the telling.
+  Make sure the reader knows *that* the event happened, at the point the design intends, unless the doubt is itself
+  designed and labelled (clarity-and-orientation.md §6).
 - **Offstage events,** which happen where the viewpoint character isn't. Stage the character's *learning* of the event
-  as the scene: the news, the evidence, the witness.
+  as the scene: the news, the evidence, the witness. Give the hearer room to disbelieve, question or resist before
+  accepting it. Danticat judged her own early handling of a death reported off stage too accepting ("I wish now that I
+  had included more confrontation"). A teller with a relationship to the dead colours the news.
+- **Late disclosure in passing** (a death mentioned months later, in a clause) is economy and characterization for
+  minor figures: the viewpoint does not dwell. For someone the reader followed, it reads as a gap and risks the reader
+  never registering the death (*Wolf Hall* uses it both ways).
 
 If the most dramatic events in the story reach the reader as one character's account in another's scene, check §6.
 
@@ -120,6 +127,10 @@ When a character tells what happened, the telling can be a strong scene if it is
   the reader stays in place and time while the past is told (*Khawf* 1).
 - **An offstage event can be delivered twice:** first as broken fragments to a helpless listener whose life depends on
   them, then as a coherent account (a battle reported by a medium while the hero's shroud lies ready, *Khawf* 1).
+- **Frame an event the viewpoint will only hear about** as a later report ("But later he, Cromwell, will hear…"). It
+  can then be narrated as a scene without breaking the point of view (*Bring Up the Bodies*). An offstage killing of
+  many can come through a deputy with standing, as a count, while the viewpoint is somewhere meaningful at that hour
+  (the same book).
 - **Watch the reveal monologue.** One person explaining the backstory to a silent listener is the commonest form of
   explanation overload (information-design.md §7).
 
@@ -148,6 +159,16 @@ the moment it reflects on: stage the moment, then let the reflection be short.
   hook, or the same beat replayed from the new narrator's side (*Amarita*). When you return to a strand, repeat its
   last line (*Wadi al-Dhi'ab*). Chapter breaks can be cliffhanger cuts in the middle of the action, but not between a
   question and the answer the reader needs to follow the scene.
+- **A chapter break can carry a death.** One chapter ends on the failing moment, and the next opens elsewhere and
+  closes the gap within a page or two (*Palace Walk*). The longer the confirmation waits, the more readers lose the
+  event.
+- **After a great death, a cut to routine** (letters, an itinerary, the day's work) can show the death being absorbed
+  (*Wolf Hall*). It reads as indifference when nothing earlier showed what the death cost.
+- **Intercut two events without comment,** and let them judge each other: a corpse prepared while a feast goes on
+  (*Wolf Hall*).
+- **An iterative opening** ("as every night") sets a baseline so every later deviation reads as an event (*Palace
+  Walk*'s first eighteen pages). It costs momentum, so keep it as short as the deviation needs.
+- **A happy event offstage:** flag the ellipsis and give its result in one plain sentence (*The Moonstone*).
 - **Replays** (a memory, a time loop, a second chance) reuse the exact earlier sentences and headers, so the reader
   recognizes the loop, and change only what has changed (*Arsis* 1).
 - **Leaving a flashback:** rejoin the main line by repeating an earlier sentence verbatim (*Khawf* 1), or cut back with a
@@ -162,6 +183,13 @@ the moment it reflects on: stage the moment, then let the reflection be short.
   summarized). Every R or Σ needs a reason from §2.
 - **Weigh the climax scene.** It is usually among the longest scenes, and its aftermath and consequence scenes come
   right after.
+- **Proportion can make a statement.** One plain sentence and one personal detail for a minor death (*Bring Up the
+  Bodies*), or a page for a neighbour's (*Palace Walk*), says how this world values the dead. The same brevity for
+  someone the reader followed reads as neglect. As Danticat puts it, "Death always wants to hog the stage", "But it
+  does not get to hog every stage."
+- **When deaths cluster,** give each a different room and voice (a child's question, a grandmother's formula, a
+  brother's philosophy, a newsboy's cry), and name the cluster only once (*Palace of Desire*'s last chapter).
+  Sameness numbs.
 - **Dialogue share is a signal, not a rule.** Low-dialogue books can be fully dramatized through perception and
   interiority. A low-dialogue draft with little perception or interiority is almost certainly summary (prose.md §8).
 
@@ -175,6 +203,8 @@ the moment it reflects on: stage the moment, then let the reflection be short.
 | Montage prose | lyrical summary standing in for scenes | pick the two or three moments that change things; stage them |
 | Static scene | a scene in which nothing turns | redesign the turn (structure-and-scenes.md §7) or cut to summary |
 | Bloat | everything staged, including routine | summarize routine; save scene time for turns |
+| The death learned from its consequences | a death or departure reaches the reader only through a later burial, mourning or absence | decide when the reader should know; add a channel that fits the viewpoint (clarity-and-orientation.md §6) |
+| The invested death in a clause | someone the reader followed dies in passing, late | stage the learning, or return to it later through someone close |
 | Lost thread after a flashback | the present line went slack | return to the present at a moment of strain; keep its question alive |
 
 ## 11. Checklist
