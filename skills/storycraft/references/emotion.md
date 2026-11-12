@@ -124,7 +124,7 @@ Use several of these in the first beats:
 - **Preparation and aftermath** (Howard & Mabley): scenes in which characters and audience brace for, or absorb, a
   major event, often carried by music, atmosphere and image. They don't advance plot; they deepen feeling. After
   intense action, give a quiet beat to absorb it.
-- **Room for consequences after a decisive event is a choice, not a fixed scene.** The question is what the reader
+- **Room for consequences after a decisive event is a choice, not a fixed scene.** (For real deaths in a narrated documentary, see also `documentary.md` §12.) The question is what the reader
   should feel next and whose loss it is. The novels studied use these options, often mixed:
 
   | Option | What it achieves | Works when | Gets in the way when |

@@ -7,7 +7,7 @@
 - emotion, endings, long form and series;
 - prose and clarity.
 
-All of it applies in Arabic, including every lesson drawn from the English-language novels. This file adds what changes when the story is *expressed* in Arabic: narrative voice and register, reference mechanics, dialogue layout, sentence construction, orientation devices, names and vowelling, idiom and formulae, and punctuation. For an Arabic edition of a story written in another language, `translation.md` adds the transfer procedure on top of this file.
+All of it applies in Arabic, including every lesson drawn from the English-language novels. This file adds what changes when the story is *expressed* in Arabic: narrative voice and register, reference mechanics, dialogue layout, sentence construction, orientation devices, names and vowelling, idiom and formulae, and punctuation. For an Arabic edition of a story written in another language, `translation.md` adds the transfer procedure on top of this file. For narration that is heard rather than read (a documentary voiceover, a narrated video or podcast), §12 adds what changes for the ear, on top of `documentary.md`.
 
 The evidence comes from twelve Arabic novels read in full (`sources.md` records editions and gaps):
 - eight popular novels: the *Khawf* trilogy, *Arsis* 1–2, *Ard Zikola*, *Amarita* and *Wadi al-Dhi'ab al-Mansiyya*;
@@ -27,7 +27,8 @@ Their craft lessons are filed by function in the shared references and compared 
 9. Punctuation and typography
 10. Composing in Arabic: a procedure
 11. Failure patterns and repairs, with examples
-12. Checklist
+12. Arabic for the ear: documentary and narrated voiceover
+13. Checklist
 
 ---
 
@@ -300,7 +301,57 @@ Invented examples; "Before" shows the failure, "After" the repair.
 | A plot fact buried in a clause | وتذكّر صبرها على أمّه، وقد صارت حاملًا منذ الشتاء، صبرًا لا يقدر عليه أحد. | كانت حاملًا منذ الشتاء. وتذكّر صبرها على أمّه، صبرًا لا يقدر عليه أحد. |
 | Dialect paragraph unreadable outside its region | (three lines of dense dialect carrying a plot fact) | Put the plot fact in narration or in فصحى; keep one dialect token for colour. |
 
-## 12. Checklist
+## 12. Arabic for the ear: documentary and narrated voiceover
+The shared method for narration a listener follows on first hearing is in `documentary.md` §7–11. The documentaries studied for it were all in English, so this section carries their findings into Arabic through the rest of this layer. It was then tested on an original sample, with a cold listen and an independent audit, and revised where they found problems. It has not been tested on Arabic documentaries or with a native narrator reading aloud. Read every script aloud before trusting it. What changes in Arabic:
+- **Register.** For viewers across the Arab world, narrate in contemporary فصحى. Narrating in a dialect is a deliberate choice for a local audience. Keep dialect for quoted voices: interviews, testimony, dramatised lines. When a dialect quotation carries a fact the story needs, state the fact in the narration's فصحى as well, before or after the quotation, so viewers from other regions keep it.
+- **Events verb-first, one fact to a sentence at a turn.** «انطفأ ضوء المنارة قبل الفجر.» A shock is one flat sentence, as in §5.
+- **Keep the verb near its subject, and break long construct chains.** A listener holds «دفتر الأجور» but loses «دفتر حساب أجور عمّال منجم الشركة». Split it: «كان للشركة دفترٌ تسجّل فيه أجور عمّال المنجم.»
+- **The pause silences the case ending.** In writing, an ending can show which noun a final adjective belongs to. At a pause the ending is gone, and the ear attaches the adjective to the nearest noun. «جاء ابنُ عمّ الحارس الأكبر» is heard as "the elder keeper". Rebuild it: «جاء ابنُ عمّ الحارس، وهو أكبرُ منه سنًّا».
+- **Relative clauses one deep.** «الرجل الذي اشترى الخريطة التي رسمها الدليل الذي…» cannot be followed by ear. Give each clause its own sentence.
+- **Connectives that name the relation:** لأنّ، لذلك، لكنّ، ثمّ، حتى، فـ. «حيث» used as an all-purpose link blurs place, time and cause when heard, and so does a chain of «وقد». Use the connective that says what the relation is.
+- **The nearest-person rule is stricter by ear** (§3). Where two people of the same gender are in play, repeat the role or the name instead of a pronoun. Reported speech is where this goes wrong most often: «قال الحارس إنّه نام» can be heard as either man sleeping. Write «إنّه هو نفسه نام», or use the name.
+- **Names.**
+  - Put the role before the name at first mention: «الحارس مبارك».
+  - A name that is also a word (مبارك، سعيد، هلال، نور) is heard as the word unless something announces it. Audio has no quotation marks or parentheses to help. A role noun at first mention does not protect the later mentions. Wherever the bare name can be heard as the word, repeat the role or introduce the name with «واسمُه…». That includes inside a construct phrase («علامةُ X»), as a bare subject, and after «هو».
+  - Avoid two names that sound alike in one stretch (سالم وسليم).
+  - **General or particular.** A definite singular after a general plural is heard as the story's own man: «وإذا مات الرجل…» after «كان الغوّاصون…» sounds like the protagonist. For the general case use an indefinite noun: «وإذا مات غوّاصٌ…».
+  - **A title is not a name.** «كان ربّان المركب يُسمّى النوخذة» can be heard as the captain's name. Introduce a title as a title: «وكان ربّان المركب يُعرف بالنوخذة».
+- **Words with a rival meaning by ear.** «صاحب» is owner or companion. «السطح» is a deck, a roof or the sea's surface. «الدَّين» can be heard as «الدِّين». «يتبع» can be read as «يُتبَع», "to be continued". Choose the precise noun («مالك المركب»، «ظهر المركب»), or vowel the deciding letter.
+- **Terms.**
+  - Introduce one local term at a time, with what it does in the same breath, then keep that word: «العتّال، الرجل الذي يحمل البضائع على ظهره من السفينة إلى الرصيف». Don't alternate synonyms for the same thing.
+  - A term known only from an English transliteration gives neither its Arabic spelling, nor its regional form, nor its vowels. Check local terms in Arabic sources, or enter them in the ledger as unverified.
+- **Write numbers and dates out for the narrator.**
+  - Number agreement is where readers stumble when they meet digits: 3–10 take the opposite gender, 11–99 take an accusative singular noun, and hundreds and compounds add more traps.
+  - Write numbers in words, vowelled where the case matters.
+  - Round them («نحو ثلاثين مركبًا») when exactness does not matter.
+  - Keep to one calendar; if both are needed, give the second once.
+- **Vowel for the performer, not for the page.** Vowel names, foreign words, passives that could be read as actives (قُتِل), duals (يدَي), and any word whose ending changes the meaning. Full vowelling slows the read.
+- **Let the pause carry the weight.** A word that ends a sentence is read in pause. Put the word that carries the news where the pause falls: «وفي آخر الليل، انطفأ ضوء المنارة.» Commas mark the breaths.
+- **Voices and sources.**
+  - Introduce a quotation by its speaker and its kind, and name a source by what it is: «يقول تقرير المعتمد البريطاني:»، «يقول مقالٌ نُشر عام…».
+  - Close each quotation audibly, with a change of voice or the narrator resuming with a plain line of consequence.
+  - Mark claim and doubt with words the ear catches: «بحسب…»، «يُقال إنّ…»، «تذكر الروايات…»، «لا نعرف على وجه اليقين…»، «الأرجح أنّ…».
+  - Keep the source's modality: «كان يُنتظَر منه أن…» is not «كان يفعل»; «كثيرًا ما» is not «في الغالب».
+- **Fiction and history.**
+  - Mark the strand with «في الرواية…»، «تتخيّل الرواية…»، «أمّا تاريخيًّا…»، «تقول السجلّات…» (`documentary.md` §15).
+  - The habitual past («كان النوخذة يسجّل…») is heard as how the trade worked. Keep the story's own objects out of it, or mark them as the story's.
+- **Rebuild English devices in Arabic terms.** Direct address, signposts and recaps carried over from an English draft sound translated: «احتفظوا بصورة هذا الحبل»، «ويحكي معها»، «أمّا هل بقي حيًّا». Find the Arabic way of doing the same job, or drop the device.
+- **A formula is not the fact.** In narration, a religious formula marks feeling. It does not tell the listener that someone died (§8). Say the fact first, and let the formula belong to the people in the story.
+- **Time the Arabic aloud.** The same section does not run the same length in Arabic and in English, and their word counts are not comparable. Time the Arabic script at the narrator's pace and re-cut the picture to it, or, if the picture is locked, shorten the lines that run long. When you cannot read it aloud, estimate it separately and say so.
+
+| Failure | Before | After |
+|---|---|---|
+| A construct chain | وصل خبر انهيار منجم شركة القرية إلى سوق المدينة. | انهار المنجم. ووصل الخبر إلى سوق المدينة قبل أن يصل إلى القرية. |
+| An adjective lost at the pause | جاء ابنُ عمّ الحارس الأكبر. | جاء ابنُ عمّ الحارس، وهو أكبرُ منه سنًّا. |
+| «حيث» as a link | سافر العمّال إلى المنجم حيث بقوا أربعة أشهر حيث كانوا يعملون من الفجر. | سافر العمّال إلى المنجم، وبقوا هناك أربعة أشهر. كانوا يعملون من الفجر. |
+| A pronoun with two owners | جاء التاجر إلى الصرّاف، فأخرج الذهب من صرّته. | أخرج التاجر الذهب من صرّته، ووضعه أمام الصرّاف. |
+| Reported speech with two candidates | وقال أخوه إنّه نام الليل كلّه. | وقال أخوه إنّه هو نفسه نام الليل كلّه، ولم يسمع شيئًا. |
+| Digits the narrator must work out | عاد ١٧ عاملًا من أصل ٢٣. | عاد سبعةَ عشرَ عاملًا، من ثلاثةٍ وعشرين. |
+| A name heard as a word | وكان مبارك آخر من خرج. | وكان العامل مبارك آخر من خرج. |
+| A word with a rival meaning | وكان في الغالب صاحبَه أيضًا. | وكثيرًا ما كان مالكَ المركب أيضًا. |
+| A formula instead of the fact | إنّا لله وإنّا إليه راجعون. هكذا عاد العمّال بلا مبارك. | لم يخرج العامل مبارك من المنجم. وحمل رفاقه جثمانه إلى القرية. |
+
+## 13. Checklist
 - [ ] The story was designed with the shared craft references; this layer was added, not substituted.
 - [ ] Voice and register plan written: the narrator's person, distance and height; each character's dialogue register; the gloss policy.
 - [ ] Naming plan: names that are words are marked, and none sits in the accusative trap; no epithet is shared by two people; labels change with knowledge, with a bridge.
@@ -312,3 +363,4 @@ Invented examples; "Before" shows the failure, "After" the repair.
 - [ ] Homographs near plot words settled. Selective vowelling only.
 - [ ] Punctuation budget chosen (".." and "!") to suit the register.
 - [ ] Cold read logged, with every accidental stumble fixed.
+- [ ] For narration heard rather than read (§12): the role repeated wherever a word-name could be heard as the word; no final adjective that the pause leaves without a noun; reported speech checked for two candidates; one term to a thing; numbers written out and vowelled for the narrator; no «حيث» chains or deep relative clauses; English devices rebuilt in Arabic terms; quotations closed audibly; the script read aloud and timed, or the timing marked as an estimate.

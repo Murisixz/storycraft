@@ -15,6 +15,7 @@ holds the controls.
 8. Audio drama and podcasts
 9. Stage
 10. Length and density guide
+11. Long-form narrated documentary (YouTube) and narrated history
 
 ---
 
@@ -149,3 +150,19 @@ video loops. YouTube Shorts can run up to 3 minutes for square or vertical video
 | TV episode | 30–60 pages | 4–6 acts; A/B/C stories |
 | Novel | 70k–110k words | 60–100+ scenes; braided subplots |
 | Game | hours | levels/sessions as sequences; embedded and emergent story |
+| Long-form documentary | 20 min–several hours | sections with jobs; a ladder of small questions; one live thread; stock-taking at the end of each movement; narration at about 110–155 words per minute of runtime (§11) |
+
+## 11. Long-form narrated documentary (YouTube) and narrated history
+The full method is in `documentary.md`. What the medium itself changes:
+- **Viewers listen as much as they watch.** Background play, audio versions and podcasts mean the narration must carry
+  every fact the story stands on. The picture adds evidence, place and texture. Captions must agree with the narration.
+- **Runtime comes from speech.** The narration in the long-form documentaries studied for `documentary.md` ran at about
+  110 to 155 words per minute of runtime, pauses and music included. It was slower with held pauses and readings, and
+  faster in dense explanation. Time the script from a read-aloud at the narrator's pace.
+- **Chapters need words.** Platforms show chapter titles, but listeners hear only what is said. Each new stretch needs a
+  spoken signal: a date, a place, a short line naming what comes next.
+- **Business has a cost in the story.** Sponsor reads, appeals and channel news belong at seams: before the story, at a
+  section's end, or after the end. Never put them between a promise and its payoff, or after a death or a memorial.
+- **Packaging is part of the promise.** The title and thumbnail may announce the outcome, as many disaster titles do.
+  The story then lives on how and why, so they must not promise what the video does not deliver. A fiction told in the
+  documentary manner says so in the title, the description, or both (`documentary.md` §15).

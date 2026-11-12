@@ -261,6 +261,8 @@ Use this after drafting or translating, before presenting a story that withholds
 
 A comprehension log template is in `assets/templates/comprehension-log.md`.
 
+**Narration heard once** (a documentary, a narrated video, audio) is harder on all six questions, because a listener cannot look back. Run the cold listen in `documentary.md` §17: the checker hears or reads only the narration, in order and once, and at each section's end says what they believe happened, who is who, and which statements they heard as established, claimed or invented.
+
 ## 13. Failure patterns and repairs
 | Pattern | Symptom | Repair |
 |---|---|---|

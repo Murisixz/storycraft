@@ -296,3 +296,9 @@ lands as confirmation.
   question; episodes should close one question while widening the main one.
 - **Games:** the player's knowledge can lag or lead the character; environmental storytelling lets players pull
   information at their own pace (see forms.md).
+- **Long-form documentary** (a true story, or fiction told as documentary):
+  - when the outcome is known, move the suspense into the process, and choose where the decisive event sits by what
+    the suspense is about;
+  - run the middle on small questions that close within minutes;
+  - withhold meanings, causes and verdicts, never the basic facts;
+  - make every reveal fair by planting it in plain words (`documentary.md` §4, §8).

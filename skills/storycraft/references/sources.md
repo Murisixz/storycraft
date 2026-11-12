@@ -88,6 +88,78 @@ Every quotation in the notes was machine-checked against the text, and all were 
 
 Also used for version 4: a reader's feedback on an unpublished story, about the moment a decisive event is understood. It is generalized in `clarity-and-orientation.md` §6. Nothing from the story is quoted, and every example in the skill is invented. Other books on the version 4 reading list were not available and were not used.
 
+## Documentary transcripts studied for version 4.2
+Version 4.2 adds `documentary.md`, a workflow for long-form narrated documentaries, from caption transcripts of
+twenty-one videos on three YouTube channels. Each transcript was read in full and in order, in chunks of about 6,000
+words, with:
+- a note per chunk;
+- a ledger;
+- a map of the whole video: its opening, question ladder, sections, turns, ending, information placement, withholding,
+  attribution, sentence-level craft, room to absorb, and what the transcript cannot show.
+
+Each channel was then analysed on its own, counting each video once, before the three were compared. Every quotation in
+the notes and analyses was machine-checked against the captions, and all were found within 45 seconds of the time cited.
+The skill quotes none of them, and it reuses no creator's wording or recurring structures.
+
+What captions cannot show is treated as unknown throughout: the picture, the music, the editing, and who voiced each
+reading. Pause lengths come from caption gaps, so they are minimums.
+
+- **Brick Immortar** (maritime and engineering disasters; six videos):
+  - *INFLECTION POINT: The Tragedy of SS Marine Electric* (captions begin at 0:02:30);
+  - *A COLLISION OF BLAME: The Total Collapse of Baltimore's Key Bridge*;
+  - *FROZEN, DARK & OVERWHELMED: The Loss of FV Destination* (captions begin at 0:00:34);
+  - *OFFSHORE NIGHTMARE: The Collapse of Texas Tower 4*;
+  - *INSTANTLY UNDERWATER: The Sinking of Towboat Ricky Robinson* and *TRAGIC DISAPPEARANCE: The SS Marine Sulphur
+    Queen*, the channel's shorter formats.
+
+  Caption spans run from 28 minutes to 3 hours 14 minutes.
+- **Fall of Civilizations** (narrated histories, also published as a podcast; five episodes):
+  - *17. Carthage - Empire of the Phoenicians*;
+  - *18. Egypt - Fall of the Pharaohs*;
+  - *19. The Mongols - Terror of the Steppe*;
+  - *20. Persia - An Empire in Ashes*;
+  - *21. Majapahit - Empire of the Islands*.
+
+  Caption spans run from 3 hours 39 minutes to 6 hours 47 minutes. *Majapahit* was supplied twice: one upload's track
+  looked automatic, with hundreds of misspelled names. It was compared word for word with the human-made track, which
+  was the one read, and no judgement about wording rests on it. The credits name readings in other languages that the
+  English captions do not contain.
+- **LEMMiNO** (investigations, unsolved puzzles and histories; ten files):
+  - seven documentaries:
+    - *The Enduring Mystery of Jack the Ripper*;
+    - *The Kennedy Assassination: Inside the Book Depository*;
+    - *Shouting at Stars: A History of Interstellar Messages*;
+    - *The Unbreakable Kryptos Code*;
+    - *Bygone Visions of Cosmic Neighbors*;
+    - *Consumed by the Apocalypse*;
+    - *Extraordinary Until Proven Otherwise*.
+
+    Caption spans run from 26 minutes to 2 hours 27 minutes.
+  - two Q&A videos (*4,000,000 - Q&A*, *5,000,000 - Q&A*), used only for what the creator says about his own process
+    and kept apart from what the films show;
+  - a two-minute charity promo (*Seas #TeamSeas*).
+- **Arabic.** All supplied transcripts are English. `arabic-writing.md` §12 carries the findings into Arabic through the
+  Arabic layer, and it was checked on an original sample. It does not rest on Arabic documentaries.
+- **Platform policy.** YouTube Help, "Disclosing use of GenAI content"
+  (https://support.google.com/youtube/answer/14328491; indexed under its earlier title, "Disclosing use of altered or
+  synthetic content"), read on 12 November 2026. It is used in `documentary.md` §15.
+- **ElevenLabs documentation** (read on 12 November 2026 for `documentary.md` §20; the platform changes often):
+  - the models overview (https://elevenlabs.io/docs/overview/models);
+  - "What is Eleven v4?" (https://elevenlabs.io/docs/help-center/product/core-capabilities/text-to-speech/what-is-eleven-v4);
+  - the Eleven v4 guide (https://elevenlabs.io/docs/overview/capabilities/text-to-speech/eleven-v4);
+  - text-to-speech best practices (https://elevenlabs.io/docs/overview/capabilities/text-to-speech/best-practices);
+  - the text-to-speech overview and its playground guide;
+  - the Create speech API reference (https://elevenlabs.io/docs/api-reference/text-to-speech/convert);
+  - the request-stitching guide (https://elevenlabs.io/docs/eleven-api/guides/how-to/text-to-speech/request-stitching);
+  - the pronunciation-dictionaries guide (https://elevenlabs.io/docs/eleven-api/guides/how-to/text-to-speech/pronunciation-dictionaries).
+
+  Where the pages disagree, `documentary.md` §20 follows the model's own page and says so: on Speed for v4, the v4 pages say the slider
+  is not available, and another page lists speed for all models.
+- **Validation.** The workflow was tested on a short original sample: an invented novel adapted into the opening of a
+  documentary-style video, in English and Arabic. It was given a cold listen in each language and an independent audit,
+  revised, and listened to again. Its history rests only on sources read directly; pages that refused access were not
+  used. The sample is not part of the skill, and nothing has yet been tested with a narrator reading aloud.
+
 ## Openings only
 - **Donna Tartt, *The Secret History*** (Knopf e-book preview): the Prologue and the opening of Book I. Used only for
   observations about openings.

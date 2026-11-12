@@ -72,3 +72,6 @@ scene, count) for every "no".
       three sentences.
 - [ ] For a translated edition: each stumble classified as source, translation, or uncompensated source gap, and
       fixed (`references/translation.md`).
+- [ ] For a documentary script or other narration heard once: run the passes in `references/documentary.md` §17
+      (question and promise, sequence, truth, first need, weight, the ear, picture and sound, payoff, signatures),
+      and log a cold listen.

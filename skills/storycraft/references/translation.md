@@ -143,6 +143,14 @@ Apply `arabic-writing.md` §7 to every name in the glossary and every plot word.
 - **Places known only by a transliterated name** need a role noun once: «سجن…», «حيّ…», «مقهى…».
 - **Institutions:** give the target's full term at first mention («رئيس المحكمة», «قاضي التحقيق», «كاتب الجلسة»). After that, «الرئيس» is natural inside a courtroom scene; out of context it suggests a head of state.
 
+### 6.9 Narration scripts (documentary voiceover)
+A narration script is translated for the ear and for the picture, not for the page (`documentary.md` §10–11; `arabic-writing.md` §12).
+- **Keep the cue points.** Every line that lands on a picture, a pause or a sound must still land there: keep the order of the cue points, and rebuild the order of words inside each row. Re-time the Arabic by reading it aloud at the narrator's pace, and mark where a line now runs long or short against its picture. Then re-cut the picture, or, if it is locked, shorten the line.
+- **Rebuild sentences for listening:** event sentences verb-first, construct chains split, one relative clause at a time, and the news at the end of the sentence where the pause falls.
+- **Carry the status of every claim.** The source's attribution verbs and hedges («بحسب»، «يقول»، «يُرجَّح»، «لا نعرف») must survive, and so must every marker that separates the record from invention in fiction told as documentary.
+- **Write numbers out and vowel names** for the Arabic narrator, as §6.7 and `arabic-writing.md` §12 describe.
+- **On-screen text** (names, dates, captions over the picture) is translated with the script and checked against the narration, so the two never disagree.
+
 ## 7. Stage 5: verification passes (in this order)
 This follows the canonical order in `clarity-and-orientation.md` §12, with translation-specific passes added.
 1. **Links at hinges.** Every turn states what changed. Long-distance inferences the plot depends on are echoed, and acknowledged once only where readers miss them.

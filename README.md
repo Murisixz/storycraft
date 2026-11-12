@@ -25,6 +25,21 @@ plain line, an unmistakable act, a ritual, a reaction, an announcement, or doubt
 decides where the loss is registered afterwards. Restraint stays, and so does deliberate ambiguity, while the reader
 keeps hold of what happened.
 
+Version 4.2 adds a workflow for long-form YouTube documentaries: historical stories, mysteries, investigations and
+human tragedies, and fiction told in the documentary manner, such as a novel adapted into a documentary-style video.
+It comes from caption transcripts of twenty-one documentaries on three channels with very different methods (Brick
+Immortar, Fall of Civilizations and LEMMiNO). Each was read in full, and each channel was analysed on its own before the
+three were compared. The workflow covers:
+- a truth ledger that keeps what happened, what someone claimed, what is uncertain and what is invented audibly
+  apart;
+- the central question, and where a known outcome should sit;
+- a sequence of sections, small questions and reveals;
+- names, places, terms and figures at the moment a listener needs them;
+- narration written to be understood on first listen, in English and in Arabic;
+- a three-track script for narrator, picture and pause;
+- room for real deaths;
+- revision passes with a cold listen.
+
 All of it is rewritten as practical procedures, decision rules, checklists and templates, in the skill's own words,
 not as models to imitate.
 
@@ -38,6 +53,7 @@ not as models to imitate.
 | **Doctor** | "why is my story flat/confusing/predictable?" | A ranked diagnosis with evidence, concrete fixes, and a revised spine |
 | **Revise** | a draft plus editorial feedback, or "revise this" | Each feedback claim tested against the text (claim, evidence, verdict, cause, fix), then revision passes from scope down to sentences, ending with a cold read for clarity |
 | **Translate** | a version in another language (English → Arabic in detail), or a fix for a translation readers can't follow | Source analysis and glossaries, a transfer plan, the translation, verification passes, and a cold read that sorts each stumble into source or translation problems |
+| **Documentary** | a narrated YouTube documentary or video essay, a novel adapted into a documentary-style video, or a script viewers can't follow | A truth ledger, the question and where the known outcome sits, a section plan with reveals and a first-need schedule, a three-track narration script, and a cold listen |
 
 Example prompts:
 - "Give me five ideas for a sad, mysterious 60-second Minecraft Short that viewers will theorize about."
@@ -49,6 +65,8 @@ Example prompts:
 - "Write the opening chapter of a Saudi horror novel in Arabic. Keep it eerie but easy to follow."
 - "Translate my short story into Arabic. Arabic readers said my last translation was confusing."
 - "Plan book two of my fantasy series: what should it recap, and what should it leave open?"
+- "Turn my historical sea mystery novel into a 25-minute YouTube documentary for viewers who know nothing about the period."
+- "Script the opening of a documentary about a lighthouse keeper who vanished in 1900, in Arabic, clear on first listen."
 
 ## What's inside
 
@@ -75,7 +93,8 @@ skills/storycraft/
 │   ├── horror.md                 # dread, the threat's rules, darkness, sentence-level fear, horror endings
 │   ├── series.md                 # series and sequels: recaps, continuity, evolving rules, long mysteries
 │   ├── genres.md                 # genre contracts and conventions
-│   ├── forms.md                  # short story, novella, novel, screenplay, short video, games, comics, audio, stage
+│   ├── forms.md                  # short story, novella, novel, screenplay, short video, long-form documentary, games, comics, audio, stage
+│   ├── documentary.md            # long-form narrated documentaries: truth ledger, question, sequence, writing for the ear, fiction told as documentary
 │   ├── revision.md               # revision passes, leak audit, testing feedback against the text
 │   ├── diagnostics.md            # failure catalogue (symptom → cause → fix) and doctor procedure
 │   ├── novel-studies.md          # case studies from twenty-two novels read in English and Arabic, by craft problem
@@ -83,7 +102,7 @@ skills/storycraft/
 │   └── sources.md                # where the ideas come from, and how each source was accessed
 ├── assets/templates/             # story bible, scope budget, causal spine, information plan, clue ledger, character
 │                                 # dossier, scene card, revision checklist, doctor report, comprehension log,
-│                                 # translation brief, series bible
+│                                 # translation brief, series bible, documentary plan, narration script
 └── evals/                        # test cases (prompts + graders) for `claude plugin eval`
 ```
 
@@ -129,6 +148,8 @@ says which books were read in full (craft books, English-language novels, and Ar
 against page images), which were known only through summaries, and which essays and studies were consulted. The novels are used for principles, with short attributed quotations only; no plots,
 characters or prose are reproduced. Where a book was used only through a third-party summary (Truby's *The Anatomy of Story*, Maass's *The
 Emotional Craft of Fiction*, Beinhart's *How to Write a Mystery*), the skill marks it "via outline" or "via a summary".
+The documentaries behind version 4.2 were studied from their caption tracks for method only. The skill quotes none of
+their narration and avoids each creator's wording, catchphrases and recurring structures.
 
 ## License
 MIT. See `LICENSE`.
