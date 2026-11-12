@@ -6,6 +6,13 @@ Choose **one strategy per secret per stretch**: mystery (the audience knows less
 | ID | Truth (from the hidden story) | Who knows at start | Strategy by stretch (mystery / suspense / irony) | Audience learns at beat # | Affected character learns at beat # | Recognition scene owed at # | Consequence scene (who acts differently) at # | What it changes |
 |---|---|---|---|---|---|---|---|---|
 
+## Decisive events: when the reader understands, and where the loss is registered
+A thinking tool, not a quota: choose what each moment needs (`references/clarity-and-orientation.md` §6;
+`references/emotion.md` §6).
+
+| Event (death, arrest, discovery, departure) | Beat # | Reader should understand: at once / by scene end / later by design (when) / known in advance / kept uncertain | Viewpoint at that moment | Channel (plain line / act / ritual / primed reaction / restatement / report / announcement) | What stays open (manner, agent, identity, meaning), and how it is labelled | Who registers the loss, where (in scene / later / spread / lasting habit) |
+|---|---|---|---|---|---|---|
+
 ## Inference timeline (the leak audit)
 Fill this as a sharp, genre-literate reader who has read only the pages so far; the best data are a cold reader's own guesses (`comprehension-log`). Method: `references/revision.md` §6.
 

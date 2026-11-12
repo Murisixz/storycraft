@@ -20,6 +20,9 @@ claims.
   dramatic irony and the revelation→recognition obligation; preparation and aftermath (including by contrast); planting
   and payoff; advertising and elements of the future; plausibility and inevitability; activity vs action; dialogue;
   visuals; the dramatic scene and its rewrite questions; sixteen film analyses.
+- **Edwidge Danticat, *The Art of Death: Writing the Final Story*** (Graywolf Press, 2017; The Art of series), read
+  for version 4. Complete. Her readings of how writers handle a death were compared with the novels, and her advice is
+  cited where the novels confirm or complicate it (`clarity-and-orientation.md` §6; `novel-studies.md` §8).
 
 ## Novels studied for version 2
 Each was read in full, in order, in chunks of about 7,000 words, with a note per chunk. Each note quotes the chunk's
@@ -63,15 +66,42 @@ editor's critique of it was tested claim by claim, and a cold read of the Arabic
 could not follow it. The lessons are generalized in `clarity-and-orientation.md`, `translation.md` and
 `mystery-and-clues.md` §18–19. Nothing from the story is quoted, and every example in the skill is invented.
 
+## Books studied for version 4
+Version 4 read every supplied book with one central question: when is the reader meant to understand a decisive event, and does it have room to land? The books were also read for the whole craft (voice, dialogue, scene, pacing, suspense, clues, investigation, reveals, relationships, consequences, historical atmosphere and continuity). Each was read in full, in order and in chunks, with:
+- a note per chunk;
+- a ledger of decisive events;
+- a whole-book analysis;
+- for the Arabic books, a separate analysis of the prose.
+
+Every quotation in the notes was machine-checked against the text, and all were found: 12,769 across the seven novels, Danticat's book and the *Hamnet* sample. Scans were read through OCR checked against the page images, as in version 3. The English titles of the Arabic novels are used for convenience: the Arabic originals were read, not the translations.
+
+**In English:**
+- **Wilkie Collins, *The Moonstone*** (1868; a Feedbooks PDF made from the Project Gutenberg text). Complete, from the Prologue to the Epilogue.
+- **Hilary Mantel, *Wolf Hall*** (Henry Holt, first US edition, 2009; a scan). Complete, printed pages 3–532. Seven blank versos were not scanned and two pages were scanned twice. No text is missing.
+- **Hilary Mantel, *Bring Up the Bodies*** (Henry Holt e-book, 2012). The complete text. The two family trees are absent from the file.
+
+**In Arabic:**
+- **Ghassan Kanafani (غسان كنفاني), *Rijal fi al-Shams* (رجال في الشمس; *Men in the Sun*)** (first published 1963; Rimal Publications, Cyprus, 2013 edition, 2015 printing). Complete, pages 7–109.
+- **Jokha Alharthi (جوخة الحارثي), *Sayyidat al-Qamar* (سيدات القمر; *Celestial Bodies*)** (Dar al-Adab, Beirut). The copyright page says first edition 2010, but the half-title mentions the 2019 prize for the English translation, so this is a later printing. Complete, pages 7–223.
+- **Naguib Mahfouz (نجيب محفوظ), *Bayn al-Qasrayn* (بين القصرين; *Palace Walk*)** (first published 1956; Dar al-Shorouk, 2006 edition, 10th printing 2015). Complete, pages 5–579.
+- **Naguib Mahfouz, *Qasr al-Shawq* (قصر الشوق; *Palace of Desire*)** (dated 1957 in the publisher's list; Dar al-Shorouk, 2006 edition, 6th printing 2013). Complete, pages 5–542. The print itself repeats about five lines on page 291 and drops a word on page 528. A reader of the two volumes wrote a series analysis.
+
+Also used for version 4: a reader's feedback on an unpublished story, about the moment a decisive event is understood. It is generalized in `clarity-and-orientation.md` §6. Nothing from the story is quoted, and every example in the skill is invented. Other books on the version 4 reading list were not available and were not used.
+
 ## Openings only
 - **Donna Tartt, *The Secret History*** (Knopf e-book preview): the Prologue and the opening of Book I. Used only for
   observations about openings.
 - **Diane Setterfield, *The Thirteenth Tale*** (Orion extract): the opening only. Used only for observations about
   openings.
+- **Maggie O'Farrell, *Hamnet*** (a 28-page publisher's sample, 2020): the historical note, the epigraphs and the
+  opening, which stops before any death. Used only for preparation, paratext and period texture (version 4).
 
 ## Supplied but not used
 - A file labelled *Mystic River* (Dennis Lehane) turned out to be a Bookey app summary, not the novel. No craft claims
   are drawn from it.
+- For Taleb Alrefai's *Al-Najdi* (طالب الرفاعي، النجدي), the file supplied was an eight-page academic article about the
+  novel (Ishraq Al-Rubaie, *SIBAWAYH Arabic Language and Education* 2(1), 2021), not the novel itself. No claims about
+  the novel's craft are drawn from it (version 4).
 
 ## Length bands
 - Novelette 7,500–17,500 words; novella 17,500–40,000 words: the SFWA Nebula Award categories, via

@@ -161,6 +161,17 @@ cure is not more backstory but a present-tense life the plot interrupts.
   one on the page in action, preferably at a moment when it gets in the way of the plot.
 - **Errands and routines.** People keep working, eating, paying, gossiping and sleeping through catastrophe. A scene
   that shows the routine continuing (or failing to) is often more affecting than a scene about the catastrophe.
+- **Loss changes the living, durably.** After a death, give each mourner a habit, an avoidance or an object that
+  recurs and changes:
+  - a beard left unshaved, a dead boy's food tasted, a plant refused, a divorce put off for ten years (*Celestial
+    Bodies*);
+  - clothes recut, a prayer book amended, a dead wife's name called on the stair (*Wolf Hall*).
+
+  Grief proved by behaviour needs no restating. A habit shown once and dropped proves nothing (emotion.md §6).
+- **Fit each response to the relationship.** In *Wolf Hall* one death draws four responses: the mother cannot say the
+  words, the husband blames himself, the father says "I never knew I had her", and the son, years later, hardly
+  remembers her. A death that draws the same response from everyone has lost the people.
+- **A broken habit measures shock:** a daily ritual fails, and a talkative man falls silent (*The Moonstone*).
 - **Self-interest in good people.** A decent character still wants comfort, credit, rest, money, to be right or to be
   loved. Give them a want of their own that is not the protagonist's welfare.
 - **Proportion.** Minor characters need one live detail and one want; major characters need a life that would continue
@@ -307,6 +318,7 @@ for the action the reader didn't expect but recognises at once as this person's.
 | The protagonist watches | turns are caused by others or chance | §14: mark who chooses each turn |
 | A late confession explains everything | disclosure isn't a choice with stakes | §10; scene-and-summary.md §6 |
 | A great sacrifice feels asserted | the attachment was explained, never shown acting | §12: an earlier scene where the bond costs something; mixed motives |
+| A death leaves the closest person unmoved | no response written for the relationship | a response in this scene or later, specific to them (§8; emotion.md §6) |
 | A professional exists to clear the stage | indifference without reason | §9: a competence, a cost, a suppressed doubt |
 
 ## 17. Character checklist

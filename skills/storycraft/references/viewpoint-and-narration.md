@@ -33,6 +33,10 @@ strategy and a voice at the same time.
 Choose by effect: whose feelings the reader must live inside, what the reader must not know yet, and what irony the
 story needs.
 
+**The viewpoint decides what a decisive moment can carry** (clarity-and-orientation.md §6.2). A distracted or absent
+viewpoint misses it; a dying narrator cannot say it; a guarded one may refuse the word. Plan the channel that will
+carry the fact before drafting such a scene.
+
 ## 2. The narrating moment: who tells, from when, and why
 - **Fix when the telling happens.** A narrator speaking years later knows how things ended, and that knowledge colours
   every sentence: hindsight remarks, regret, irony, foreshadowing. Decide what the narrator knows at the moment of
@@ -42,6 +46,9 @@ story needs.
   dramatic and can itself be revealed late.
 - **The narrator's present can be a second story.** What is happening to the narrator *now*, while they remember, can
   carry its own pressure and change. Keep it light or let it build, but don't forget it.
+- **Tense can mark witness.** Present tense for what the viewpoint sees and past for what reaches him by report
+  (*Bring Up the Bodies*). A future-tense frame ("later he will hear") lets an event the viewpoint never saw be
+  narrated without cheating.
 - **Hindsight is a budget.** Each "I didn't know then that…" spends suspense to buy dread. A few, placed at turning
   points, are powerful. Many become a tic and leak the plot (information-design.md §10).
 
@@ -54,6 +61,12 @@ story needs.
   words, judgments and errors without quotation marks. It's the most flexible tool in close third. Use it to
   characterize, to carry exposition coloured by attitude, and to create irony when the reader sees past the character's
   judgment.
+- **Shift grammatical person only under strain.** *Wolf Hall* moves into the second person at a homecoming that turns
+  into a death, and into "I" or "we" at a few other extremes. The shift itself signals that something has broken.
+- **Free direct speech for what cannot be said aloud:** a son's unspoken tirade, framed by a short spoken submission
+  and shown to be silent by the next spoken line (*Palace Walk*; arabic-writing.md §4).
+- **A narrator who explains what the scene has shown** spends the reader's inference. *Palace Walk*'s essays on a
+  patriarch's motives restate what the scenes made plain. Unremarked irony works better than explained irony.
 - **Control the shifts.** A sudden jump in distance can work as a cut (from inside a mind to a cold summary of what
   happened next). Drift without intent blurs the scene and the information state.
 
@@ -69,6 +82,11 @@ story needs.
 - **Antagonist viewpoints** buy dread and understanding, but they risk giving away plans and identities. Decide what the
   antagonist chapters may reveal and hide (§9).
 - **Balance the lines.** If one viewpoint is much weaker, readers skim it. Each line needs its own forward pull.
+- **Narrator hand-overs** (*The Moonstone*): each narrative opens with what this narrator knows and why they write,
+  and ends on a hook, a closure or a question handed to the next. Each may report only what they witnessed, so the gaps
+  come from their social limits.
+- **Give the dying their last interior access** before the death, even when the death itself stays external: *Men in
+  the Sun* gives its three men a chorus of memory just before the crossing.
 - **Witness relays.** When many first-person witnesses share a book, give each a reason to be the witness and a
   noticing habit: the maid sees the palace, the boy the boat, the soldier the law (*Amarita*). Mark every switch the
   same way (clarity-and-orientation.md §3). *Wadi al-Dhi'ab* keeps six first-person narrators and four time-frames
@@ -89,6 +107,11 @@ A narrator can let the reader sense far more than is stated. These are the main 
 - **Selective memory and admitted uncertainty.** "I may be wrong about this." "I've thought about it since." These
   build trust and, used strategically, can hide what the narrator chooses not to examine.
 - **Hindsight remarks** (§2). Dread at the price of suspense.
+- **Retrospective disclosure** ("I didn't know then that my cousin … had already died"; Danticat) builds irony. In a
+  single clause it risks under-weighting the death.
+- **Labelled uncertainty.** "So now we will never be sure." (*Bring Up the Bodies*). A narrator says he does not know
+  and gives each version a named teller with a visible motive (*Celestial Bodies*). The reader stops hunting for a
+  missed clue and starts weighing the versions.
 - **Withholding by choice.** If a narrator who knows withholds, the reader must accept the reason (shame, protection,
   a dramatic purpose the frame later explains), or the withholding reads as the author's trick.
 
@@ -103,6 +126,9 @@ A narrator can let the reader sense far more than is stated. These are the main 
 
 - **Fairness rules:** an unreliable narrator may misjudge, omit or lie. The *text* must still contain the truth for a
   careful reader: details the narrator reports without understanding, other characters' reactions, physical facts.
+- **Flag unreliability through the frame.** *The Moonstone*'s Miss Clack is reliable in what she quotes and
+  unreliable in her judgements, and two framing voices warn the reader before she starts. The reader enjoys the gap
+  instead of being cheated by it.
 - **Plan the moment of exposure.** Gradual (the reader slowly sees past the narrator), sudden (a late reveal), or never
   fully (the reader is left weighing). Each needs planting (information-design.md §6–7).
 - **The narrator's motive is the deepest layer.** Why this version? What does it protect? The best unreliability

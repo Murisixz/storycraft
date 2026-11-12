@@ -43,8 +43,8 @@ number recurs, the reader starts reading the pattern instead of the people.
   Readers adjust to any consistent register. What they notice is a register that doesn't match the speaker, or that
   never varies.
 - **Heighten rarely and on purpose.** Lift the language at the peaks: dream, dread, revelation, ecstasy, the image the
-  book will be remembered by. Heighten *around* a revelation, but state the revelation itself literally
-  (clarity-and-orientation.md §6). Elsewhere, plain prose builds the credit the peaks spend. A book that is heightened in
+  book will be remembered by. Heighten *around* a revelation, but let the revelation itself be legible: a plain clause, or an act or
+  reaction the reader cannot mistake (clarity-and-orientation.md §6). Elsewhere, plain prose builds the credit the peaks spend. A book that is heightened in
   every paragraph has no peaks.
 - **Plain is not flat.** Plain prose still has exact nouns, live verbs and controlled rhythm. A plain narrator can be
   devastating precisely because they don't dramatize; the reader supplies the feeling the narrator declines to name.
@@ -93,8 +93,8 @@ number recurs, the reader starts reading the pattern instead of the people.
 - **Dialogue has its own rhythm.** People interrupt, trail off, repeat themselves and answer the question before last
   (voice-and-dialogue.md §3).
 - **Sentences at hinges and shocks:**
-  - give the decisive fact of a hinge its own short, literal clause, never subordinated to a simile
-    (clarity-and-orientation.md §6);
+  - when a plain line carries the decisive fact, give it its own short clause, never subordinated to a simile. When
+    an act or a ritual carries it, keep that act concrete and unmistakable (clarity-and-orientation.md §6);
   - in a sentence of dread, the worst detail can come last: hedge, plain detail, worst detail (horror.md §6);
   - a shock is one flat sentence, with no ellipsis and no exclamation mark;
   - in a physical crisis, give one bodily change per clause, in physiological order, and no adjective of emotion is
@@ -199,7 +199,7 @@ How to read it:
 | "Purple" | heightened register everywhere | choose the peaks; flatten the rest |
 | "Flat" | generic nouns, filtered perception ("she saw", "she felt"), no attitude | exact nouns, live verbs, perception through a character with an opinion |
 | "Too neat" | every object returns; numbers match | break symmetries; let details be merely real (§3, §6) |
-| "Beautiful, but what just happened?" | an image or aphorism stands where a fact or decision belongs | state the change at the hinge; keep the image around it (clarity-and-orientation.md §6) |
+| "Beautiful, but what just happened?" | an image or aphorism stands where a fact or decision belongs | make the change legible with a plain line, an act or a reaction the reader can read; keep the image around it (clarity-and-orientation.md §6) |
 
 ## 12. Prose checklist
 - [ ] Is the home register chosen, and are the heightened passages reserved for peaks?
@@ -210,5 +210,5 @@ How to read it:
 - [ ] Symmetries broken except the one that matters?
 - [ ] Few one-line aphoristic paragraphs, each placed where it lands?
 - [ ] Backstory distributed, not dumped, and never parked inside the revelation?
-- [ ] At every hinge (clarity-and-orientation.md §6), is the literal change (what was learned, decided, done) clear before any image?
+- [ ] At every hinge (clarity-and-orientation.md §6), does a first-time reader know what changed (what was learned, decided, done) by the point the design intends, before any image is asked to carry it?
 - [ ] Other-language editions transcreated, not calqued, with the information plan re-checked (translation.md)?

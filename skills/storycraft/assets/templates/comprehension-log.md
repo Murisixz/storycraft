@@ -20,6 +20,12 @@ This feeds the leak audit (`references/revision.md` §6).
 | At P# | Question the reader is asking | Best guess (confidence) |
 |---|---|---|
 
+## Turning points (reader)
+At each moment where something irreversible may have happened, write what you believe happened and how sure you are.
+Do not look ahead.
+| At P# | What I believe just happened | Confidence | What told me (a line, an act, a ritual, a reaction, a later mention) |
+|---|---|---|---|
+
 ## Summary (reader)
 - Stumbles by type and severity:
 - Recurring patterns:

@@ -8,7 +8,7 @@ A reader can enjoy not knowing *why someone did it*. No reader enjoys not knowin
 3. Orienting scenes and returns
 4. Keeping referents clear
 5. Links: making "why this follows" recoverable
-6. Hinges must be literal
+6. Turning points: what the reader understands, and when
 7. Speech, quotation and mentioned words
 8. Explaining a plot-carrying mechanism
 9. Background at first need
@@ -33,7 +33,7 @@ At every paragraph a reader keeps a running model of six things:
 
 The first produces curiosity. The second produces the complaint "I understand the words but I don't know what's happening", and readers usually blame the writing, rightly. Each accidental gap is small, but they add up: after three or four, the reader stops building the model and starts skimming.
 
-Restraint governs how feelings and meanings are stated, not whether the reader can follow events (SKILL.md, "Calibration").
+Restraint governs how feelings and meanings are stated, not whether the reader can follow events, unless a gap is designed and the reader can tell it is one (§6; SKILL.md, "Calibration").
 
 **Clarity is not simplicity.** Don't simplify vocabulary, explain subtext, gloss what the reader can infer, or vowel everything. Fix orientation, reference and links. A repair adds orientation, never an explanation of meaning.
 
@@ -69,6 +69,7 @@ Any reader uncertainty that is on none of these lists is a defect. During revisi
 
 ## 4. Keeping referents clear
 - **The nearest-person rule.** Readers attach a pronoun to the nearest preceding person who fits in gender and number, unless a strong topic chain overrides it. English leans on the topic chain more than many languages. Arabic, with attached pronouns and frequently omitted subjects, leans on the nearest person (`arabic-writing.md` §3). Write for the stricter rule.
+- **One reference rule for a whole book** can be taught once. In *Wolf Hall* bare "he" is always the protagonist, other men are named, and an appositive ("he, Cromwell") repairs a sentence where two men meet. Even this stumbles in places (*Bring Up the Bodies*), so check every scene with two men.
 - **Two or more people of the same gender in a scene:** re-anchor with a name or a distinctive epithet:
   - at the start of each paragraph;
   - after any sentence that mentions another person of that gender;
@@ -104,12 +105,70 @@ Any reader uncertainty that is on none of these lists is a defect. During revisi
   ("part of me wants… another part…"; *Wadi al-Dhi'ab*). The reader follows the link instead of having to build it.
 - **Connectives carry logic.** Languages differ in how much logic they leave implicit (`translation.md` §6.1; `arabic-writing.md` §5). When in doubt, mark cause, contrast and sequence.
 
-## 6. Hinges must be literal
-A **hinge** is a moment where a character learns something, decides, or changes course, or where a relationship turns. At a hinge:
-- **The literal sense must be unambiguous:** what was learned, what was decided, what was done. Ambiguity may remain in attitude, motive or implication, but not in the fact. If what was learned is itself on the intended-uncertainty list (a detective's withheld deduction), state literally *that* the change happened and keep its content back: "She read the ledger twice, and knew which of them had lied."
-- **Keep elegance off the hinge itself.** An image, an aphorism or an "as though…" simile can sit *around* the hinge, not in place of it. For example, "She studied him as if he had answered a question" leaves the reader guessing what she learned. "She studied him, and understood that he had never opened the letter" keeps the understatement and states the change. Heighten the language around a revelation; state the revelation itself literally (`prose.md` §2).
-- **The "what changed?" test.** After each hinge paragraph, write in one line what changed. If you cannot, the reader cannot either.
-- **Last lines.** Accidental ambiguity in a last line reads as a mistake. If the last line is meant to stay open, design the openness: two or three readings the story supports (`endings.md` §11), or a mystery of meaning (`mystery-and-clues.md` §1).
+## 6. Turning points: what the reader understands, and when
+A **hinge** is a moment where a character learns something, decides, or changes course, or where a relationship turns. A **decisive event** is a hinge that cannot be undone: a death, an arrest, a betrayal discovered, a departure, a choice made. The question at each one is not "did I state it?" but **when should the reader understand what happened, and what will make that happen?**
+
+Restraint and ritual work at these moments when the reader can still follow the situation, or can tell that a doubt is meant. A missed hinge is the costliest accidental gap, because the story moves on without the reader. A reader who meets a death only when a burial is mentioned has lost the scene, and everything said about the death has been lost with it.
+
+### 6.1 Choose when the reader should know
+Put the choice on the intended-uncertainty list (§2):
+- **At once.** This gives shock, or witnessing together.
+- **By the end of the scene.** The reader shares a witness's slow recognition, and the scene closes it (*The Art of Death* on Morrison's Pilate: "it took a while for him to realize that she was dead").
+- **Later, by design.** The viewpoint is absent, asleep, deceived or refusing. The reader then learns at a planned point, and meanwhile knows that *something* happened: a gap, a summons, a closed door. Or the reader is misled with fair signals.
+- **Known in advance.** A prologue, a flash-forward or the paratext gives the outcome ("The boy, Hamnet, died in 1596, aged eleven."; "which is kill her", *Bring Up the Bodies*). Suspense moves to how and why.
+- **Kept uncertain on purpose.** Alive or dead, accident or murder, which version is true: the story wants the doubt. It works when the reader can tell that they do not know (§6.3). The doubt can be short: *Palace of Desire* narrates a father's collapse with the technique its first volume used for a son's death, then holds the outcome for one page across a chapter break. The returning reader's fear is the suspense, and the man lives.
+
+### 6.2 Choose the channel that fits the point of view and the pace
+Several channels can make an event unmistakable. Each buys something and costs something. The choice depends on whose eyes we are behind, how busy the scene is, and what the reader should feel there.
+
+| Channel | What it achieves | Works when | Gets in the way when |
+|---|---|---|---|
+| **A plain line** ("had died"; "As she draws her last breath") | Certainty, which lets everything around it stay understated | The scene is busy or the viewpoint is distracted. The death interrupts another scene: *The Moonstone* lands Lady Verinder's death in six steps inside one paragraph, ending on a plain verb | The power of the moment lies in the reader working it out; the line then flattens it |
+| **An act that fits only this event** (a tactile check: "the body was cold and silent"; eyes closed; a face covered; hands folded) | Physical certainty with a silent narrator | The act cannot be mistaken (*Men in the Sun*; Danticat's account of her mother) | The act also fits another reading: pressing on a chest reads as rescue, not as death |
+| **A ritual or formula** (washing, a shroud, condolences, «إنا لله», a funeral notice) | Feeling and certainty together, true to the culture | It belongs to *after* death. Or the narration frames it: *Bring Up the Bodies* opens Katherine's anointing with "later he will hear", so the rite reads as dying, not as atmosphere. Or one character states the convention for outsiders beforehand. In *Palace of Desire* a friend says a marriage is "a word, then an ululation", so the ululation the excluded hero later hears makes the contract certain | It belongs to *dying* (prompting the dying to say the creed), the reader cannot read the custom, or the book uses the same formulas in jest and courtesy elsewhere. Pin it with a plain noun, a sound or a reaction nearby. *Palace Walk* prepares a condolence formula with the illness before it and a lowered head beside it |
+| **A reaction the reader can read** (a cry; a refused sentence; Mercy in *Wolf Hall* who "looks away when she says, I am so sorry") | The most feeling, carried by a relationship | The reader is primed: the event was foreseen, or the signs of life were named earlier (*Men in the Sun* teaches the rising chest twenty pages before the tank) | The reader is unprimed, so a silence reads as a scene break |
+| **A second channel that restates it** (a chapter titled for the grave; "three graves"; a noun that changes from "body" to "corpse"; a burial notice) | Secures a restrained scene without spoiling its restraint | It follows within a page or two | It comes only after the plot has moved on. By then the reader has read the aftermath without its cause |
+| **A report** (a messenger; a letter; the telephone) | Distance, and a teller whose relationship colours the news | The teller and the hearer matter, and the hearer has room to disbelieve and question | The hearer accepts at once. Danticat's own revision verdict: "I wish now that I had included more confrontation" |
+| **An announcement in advance** | Removes *whether*; every living scene is read under it | The middle keeps renewing the question of how | Nothing in the middle earns the wait |
+| **Silence or white space** | The weight of the unsaid | The fact is already secure, by announcement, frame or ritual | Nothing else secures it. The gap reads as a missing scene |
+
+**Imply at the moment, confirm soon after.** This pattern keeps restraint and clarity together. An act, a sound or a formula carries the moment itself. Soon after, often within a page, the plain word comes from a witness, a messenger or the bereaved, and that is where the characters' acceptance happens too. *Palace Walk* uses it again and again. When a neighbour dies, a wail comes from outside, a daughter infers what it means, and her mother goes to see and comes back saying that he really is dead.
+
+**Point of view decides more than style:**
+- A distracted or absent viewpoint misses the moment. Either frame it as news that will reach them, or let it land plainly when they learn it.
+- A dying viewpoint, in first person or close third, cannot report its own death. The failing perceptions can carry the moment. Then white space, a frame, another voice or a later scene usually confirms it, unless the story chooses uncertainty. *Palace Walk* breaks the chapter and has a formal announcement reach the father within a page and a half. A fast reader can take failing perception for a faint, so the confirmation cannot wait long.
+- A guarded viewpoint may refuse the word, provided acts and ritual carry the fact.
+
+**Pace decides how many channels you need.** A death inside a busy scene usually needs two or three channels. A quiet scene can carry it with one act. If the plot must move on at once (an inquiry, a chase, a flight), make sure the reader has the fact before it does.
+
+### 6.3 Keep the fact and the manner apart, and label what stays open
+- **A story can make clear *that* someone died while holding back *how*, *by whom* or *why*.** This is the commonest strong design.
+  - *The Moonstone* settles a disguised man's death in three lines ("He's in a fit!" / "He's dead,") and delays only who he is, by a visible unmasking.
+  - *Celestial Bodies* states a son's death in its first mention and gives the manner fifty pages later, in what the father tells his lover.
+- **When the fact itself is meant to stay uncertain, let the text show it:**
+  - a character asks aloud ("tears or sweat?", "why didn't they knock?", *Men in the Sun*);
+  - the narrator admits he does not know;
+  - each version has a named teller with a visible motive;
+  - a fair counter-signal appears at once ("still warm", when *Bring Up the Bodies* reports the king dead).
+
+  Then the reader can tell an intended gap from a missing sentence.
+- **A soft word** ("gone", "slipped away", «راح») is ambiguous on its own. "Gone" can mean left or dead, and *Men in the Sun* uses «راح» of a brother who is alive. A physical fact, a ritual noun or a reaction nearby settles it, unless the ambiguity is the point.
+
+### 6.4 Elegance around the hinge
+- An image, an aphorism or an "as though…" simile can sit *around* the hinge. It can take the hinge's place only when the image itself is unmistakable.
+  - "She studied him as if he had answered a question" leaves the reader guessing what she learned.
+  - "She studied him, and understood that he had never opened the letter" keeps the understatement and states the change.
+- A decisive fact placed inside a figure of speech is easily skimmed. *Palace of Desire* finally gives the manner of a death as the literal half of a simile, and only an attentive reader catches it.
+- A closing metaphor at a death works after a stated or shown fact (Anna's candle in Tolstoy follows the train, as Danticat notes). Without that fact, the metaphor is the only signal.
+- If what was learned is itself on the intended-uncertainty list (a detective's withheld deduction), state that the change happened and keep its content back: "She read the ledger twice, and knew which of them had lied." Heighten the language around a revelation, not instead of it (`prose.md` §2).
+
+### 6.5 The first-reading test
+After each turning point, ask what a first-time reader believes happened, and when they learned it. If the answer differs from the plan, move or add a channel: a plain line, an act, a reaction, a restatement. Do not explain the feeling.
+- **Planned clear, reader unsure:** a channel is missing.
+- **Planned uncertain, reader thinks a sentence was skipped:** label the doubt.
+- **Last lines:** accidental ambiguity in a last line reads as a mistake. If the last line is meant to stay open, design the openness: two or three readings the story supports (`endings.md` §11), or a mystery of meaning (`mystery-and-clues.md` §1).
+
+The room given to consequences after such moments is a separate choice (`emotion.md` §6). Case studies are in `novel-studies.md` §8.
 
 ## 7. Speech, quotation and mentioned words
 - **Attribution.** This is the one rule other files point to:
@@ -137,6 +196,8 @@ Who someone is to the protagonist, what a place is, a job, a nationality, a date
 - "Pell, the court's usual clerk".
 
 Make readers work for what the information plan withholds, never for the basic situation (`information-design.md` §8).
+
+**A fact the plot will stand on needs a main clause the first time,** or a reaction, or a repetition before it matters. A pregnancy or a divorce tucked into a subordinate clause, a list or a flashback is where readers lose it (*Palace Walk* repairs each such fact later, which shows the cost).
 
 **Cultural decoding is not shared.** A brand of cigarettes, a coin or a stamp may date or place a scene for one reader and mean nothing to another. If the plot needs the fact, state it.
 
@@ -206,12 +267,14 @@ A comprehension log template is in `assets/templates/comprehension-log.md`.
 | The fog mystery | The reader cannot tell what is unknown, so there is no curiosity, only confusion | Name the question; make the situation concrete; withhold one thing |
 | The missed plot match | Following the plot depends on remembering exact words from far back | Echo the words; if a cold read still misses it, let a character make the match once |
 | The drifting pronoun | "He" attaches to the last man mentioned, not the intended one | Re-anchor with a name at paragraph starts and after interposed mentions |
-| The elegant hinge | A simile or aphorism stands where the reader needed to learn what changed | State the change; keep the image as decoration around it |
+| The elegant hinge | A simile or aphorism stands where the reader needed to learn what changed | State the change, or make an act or reaction carry it; keep the image around it (§6.4) |
+| The missed decisive event | A death or other irreversible event is understood only later (from a burial, a mourning dress, a changed name), after the story has moved on | Decide when the reader should know (§6.1). Add a channel that fits the point of view: a plain line, an unmistakable act, a framed ritual or a primed reaction (§6.2). If the doubt is intended, label it (§6.3) |
 | The unexplained place | A new scene opens somewhere whose function is unknown | One clause: what this place is to the story, and why she is there |
 | The mentioned word read as speech | "She wrote: we" is read as a statement | Mark the word as a word, or quote the actual form |
 | The shifting verb | "Heard" means sound in one place and understanding in another | Separate the verbs |
 | The cultural cue taken for a statement | A key fact is signalled only by a detail some readers cannot decode | State the fact once |
 | The stacked signals | A gesture, an aphorism and a coded instruction share one beat | Keep one enigmatic signal; make the others plain |
+| The buried fact | A plot fact sits in a subordinate clause, a list or a flashback, with no one reacting, and readers meet its consequences without it | Give it a main clause or a reaction, or repeat it with rising stakes before it is needed |
 | The layout break | White space or an ornament suggests a scene change that isn't there | Fix the layout or add an anchor |
 
 ## 14. Checklist
@@ -220,7 +283,7 @@ A comprehension log template is in `assets/templates/comprehension-log.md`.
 - [ ] No pronoun or omitted subject can attach to a wrong nearby person.
 - [ ] Every reply is recognisably a response (to the line, to an earlier question, or to the subtext), or a visible refusal.
 - [ ] Every plot-critical long-distance match has an echo, and a cold read shows readers make it.
-- [ ] Every hinge passes the "what changed?" test.
+- [ ] At every turning point, a first-time reader knows what changed by the point the plan intends, through a channel that fits the point of view. Any doubt left there is designed and labelled (§6).
 - [ ] Mentioned words, mechanisms and recurring clues use one consistent term each.
 - [ ] Roles, kinship, places, dates and nationalities are given at first need.
 - [ ] A cold read found no accidental stumble of moderate or serious severity, and no "should infer" item was fixed by stating it.

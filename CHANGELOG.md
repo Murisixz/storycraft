@@ -1,5 +1,69 @@
 # Changelog
 
+## 4.0.0 (2026-11-11)
+Version 4 is driven by a reader's report on a story written with the skill: a character's death in a scene went
+unnoticed on first reading and was understood only when the burial was mentioned. The guidance on restraint and ritual
+had no account of *when* the reader understands a decisive event. Version 4 adds that judgment, without turning it into
+a rule that deaths must be stated, shown or followed by a grief scene.
+
+**Books read in full for this version,** each in order and in chunks, with verified notes (12,769 quotations checked,
+all found), a ledger of decisive events and a whole-book analysis (`references/sources.md` gives editions and gaps):
+- *The Moonstone* (Collins), *Wolf Hall* and *Bring Up the Bodies* (Mantel);
+- in Arabic: *Men in the Sun* (Kanafani), *Celestial Bodies* (Alharthi), *Palace Walk* and *Palace of Desire*
+  (Mahfouz), with a series analysis of the two Mahfouz volumes and of the two Mantel volumes;
+- Edwidge Danticat's *The Art of Death*, a craft book on writing death, tested against the novels.
+
+Partial sources were *Hamnet* (a 28-page sample that stops before any death) and an article about Alrefai's *Al-Najdi*
+instead of the novel. Their limits are recorded, and no claims rest on them beyond what they contain.
+
+**Turning points: what the reader understands, and when** (`clarity-and-orientation.md` §6, rewritten from "Hinges
+must be literal"):
+- choose when the reader should know: at once, by the end of the scene, later by design, in advance, or kept
+  uncertain on purpose;
+- choose the channel that fits the point of view and the pace: a plain line, an unmistakable act, a ritual that belongs
+  to after death, a reaction the reader was prepared to read, a restatement, a report, an announcement, or silence once
+  the fact is secure. Each channel comes with what it achieves, when it works and when it gets in the way;
+- separate the fact from its manner, agent or identity, and label any doubt that is meant to stay;
+- a first-reading test replaces the literal-clause rule.
+
+**Aftermath as a choice** (`emotion.md` §6): the options include responses in the scene, private grief returned to
+later, grief deferred to a fitting occasion, aftermath spread across chapters, a lasting habit, the bereaved written
+before the death, a cut to routine, and a short report for a minor death. Each has its effect and its risk. The
+heartbreak sequence's "aftermath" step now allows distributed and delayed consequences.
+
+**Ritual and restraint reconciled.**
+- Rituals of dying are distinguished from rituals of death.
+- A formula carries a fact only for readers who can read it, and only where the book does not use formulae in jest.
+- `arabic-writing.md` §8 sorts Arabic death formulae and customs by what they tell the reader: «راح» is ambiguous; a
+  formal announcement is unmistakable; a death-watch prayer gives near-certainty.
+
+**Elsewhere:**
+- novel-studies adds the seven novels, a cross-book table of how each keeps a death's fact secure while the scene stays
+  restrained, and §8's old "Rule" rewritten as conditions;
+- information design adds announced outcomes, fair false deaths, and fact versus identity;
+- mystery adds the *Moonstone* clue model, sincere half-truths, false-lead lifespans and social barriers to
+  investigation;
+- scene and summary adds late disclosure, report frames, chapter breaks that carry a death, and proportion as a
+  statement;
+- viewpoint adds tense as witness, narrator hand-overs and labelled uncertainty;
+- world and society adds customs as binding rules, history through household channels, and methods for glossing
+  period terms in stride;
+- character adds durable habits of grief and responses fitted to each relationship;
+- series adds staged recaps of the dead, a death log in the bible, sequels that open in settled aftermath, and echoed
+  techniques with changed outcomes;
+- the Arabic layer adds register as a signal of gravity, labels that mark viewpoint and death, glossing methods,
+  dialogue-layout lessons, and the risk of plot facts in concessive clauses;
+- templates gain a decisive-events table in the information plan, a turning-points table in the comprehension log,
+  and matching revision checks.
+
+**Flexibility pass.** The rules found to be rigid were rewritten as choices with effects and costs:
+- the quality gate's hinge line;
+- the prose checklist;
+- the horror rule on deaths;
+- the novel-studies rule on withheld deaths;
+- "never and then";
+- "recoverable in every paragraph".
+
 ## 3.0.0 (2026-11-10)
 An overhaul driven by three things:
 - an editor's critique of a story written with the skill, tested claim by claim against the manuscript;

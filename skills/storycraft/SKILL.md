@@ -109,7 +109,7 @@ Techniques are not universally good; each buys one effect at a price. Choose by 
 | Resonance | One or two load-bearing echoes or images | a lattice of symbols shows the author's hand | prose §6; endings §8 |
 | Fear of a threat (horror) | The familiar made wrong; a threat with stated, tested rules | lore dumps and universal remedies drain fear; a deus ex machina ending | horror |
 | Pull across volumes | A series question above each volume's own question | recaps that stall; contradictions; hooks made of withheld scenes | series |
-| Clarity with mystery | An intended-uncertainty list; orientation; literal hinges | over-explaining kills subtext; fog kills curiosity | clarity-and-orientation |
+| Clarity with mystery | An intended-uncertainty list; orientation; legible turning points | over-explaining kills subtext; fog kills curiosity | clarity-and-orientation |
 
 ## Architect workflow
 1. **Core and premise.** Write a logline plus the story-engine answers. Generate options before settling, and test the
@@ -134,10 +134,14 @@ Techniques are not universally good; each buys one effect at a price. Choose by 
      the character's recognition and its consequences.
    - From the plan, write the **intended-uncertainty list**: what the reader must not yet know, may suspect, should
      infer, and must have clear (`references/clarity-and-orientation.md` §2).
+   - For each **decisive event** (a death, an arrest, a discovery, a departure), decide when the reader should
+     understand it and what will make that happen, given the point of view and the pace: a plain line, an act, a
+     ritual, a primed reaction, an announcement, or doubt kept on purpose and labelled (`references/clarity-and-orientation.md` §6).
    - Depth: `references/information-design.md`; template `assets/templates/information-plan.md`.
 5. **Causal spine with staging.**
    - For each beat, record:
-     - what happens, what caused it, and the link (**therefore** or **but**, never **and then**);
+     - what happens, what caused it, and the link (**therefore** or **but**; an **and then** link is a warning sign
+       unless the form is episodic by design);
      - the value that turns;
      - what the audience learns, hopes and fears;
      - whether it will be **staged, reported or summarized**.
@@ -167,6 +171,8 @@ Techniques are not universally good; each buys one effect at a price. Choose by 
    - Build the bond before the threat.
    - Put preparation around the biggest blows, and give *consequences* (choices made because of the blow), not just
      silence.
+   - Decide where each loss is registered and by whom: in the scene, kept private and returned to, deferred to a
+     fitting occasion, spread across later scenes, or held in a lasting habit (`references/emotion.md` §6).
    - Restraint is about not naming feelings, not about skipping events.
    - Depth: `references/emotion.md`.
 10. **Pacing pass.**
@@ -218,8 +224,9 @@ Techniques are not universally good; each buys one effect at a price. Choose by 
    - Cut any line that explains an image, names the subtext or states the theme.
    - Count comparisons, number words and echoes against the budget (`references/prose.md`).
 5. **Clarity check.** Re-read as a stranger: can every paragraph's who, where, when and how-this-follows be recovered
-   while the secret stays hidden? Fix links at hinges, background, referents (`references/clarity-and-orientation.md`;
-   log: `assets/templates/comprehension-log.md`).
+   while the secret stays hidden? At each turning point, ask what a first-time reader believes happened, and when.
+   Fix links at hinges, background, referents (`references/clarity-and-orientation.md`; log:
+   `assets/templates/comprehension-log.md`).
 6. **Writing in Arabic** (the language layer, on top of steps 1–5; `references/arabic-writing.md`):
    - Before drafting, plan the narrative voice and register (the narrator's person, distance and height; each
      character's dialogue register) and the dialogue convention (tags before the line, or speaker labels).
@@ -263,14 +270,14 @@ Full procedure: `references/translation.md` (template `assets/templates/translat
 
 ## Quality gate (check before presenting)
 **Machinery**
-- **Causality:** each beat is caused by a prior beat or a character's choice, with no "and then" links. No coincidence
+- **Causality:** each beat is caused by a prior beat or a character's choice, with no unintended "and then" links. No coincidence
   gets anyone out of trouble. A coincidence may start trouble, early, and only if it gains meaning.
 - **Agency:** the protagonist makes the decisive choices, and the climax is their choice under maximum pressure.
 - **Stakes:** we know what can be lost when it matters, and we care about the person before they're endangered.
 - **Forward pull:** at every point the audience has an open question or a hoped or feared outcome.
-- **Fairness:**
+- **Fairness** (for stories with secrets and reveals):
   - every reveal was planted (the rereading test);
-  - every revelation gets its recognition;
+  - every revelation gets its recognition, or the missing recognition is itself designed and felt;
   - every red herring has an innocent truth;
   - every character acts only on what they know.
 - **Inference:** for secret-driven stories, the leak audit shows the reader can't confidently guess long before the
@@ -298,7 +305,9 @@ Full procedure: `references/translation.md` (template `assets/templates/translat
   - no pronoun or omitted subject can attach to a wrong nearby person;
   - every line's speaker is recoverable;
   - in Arabic, one dialogue convention runs throughout, with the speaker named before the line (by tag or label).
-- **Hinges:** at every turn the literal change is stated, and images sit around it, not in place of it.
+- **Turning points:** a first-time reader knows what changed by the point the design intends. It may come from a
+  plain line, an unmistakable act or ritual, or a reaction the reader was prepared to read. Images sit around it, not
+  in place of it. Doubt remains only where it is designed and the reader can tell it is (`references/clarity-and-orientation.md` §6).
 - **Intended uncertainty only:** the reader is unsure only of what the story chose to hide, and left to infer only what
   it chose to imply (`references/clarity-and-orientation.md` §2).
 - **Naturalness:** no calqued idiom, metalanguage or layout from another language. Each character's register follows
@@ -324,7 +333,8 @@ Full procedure: `references/translation.md` (template `assets/templates/translat
   function to save words.
 - **Restraint ≠ compression.** Restraint means not naming feelings and not explaining images. It doesn't mean skipping
   the confrontation or summarizing the decade. Stage the moments of choice and consequence fully, and keep their
-  emotional statement understated.
+  emotional statement understated. Restraint also shapes how a decisive fact is delivered (an act, a ritual, a
+  silence), not whether the reader can know it, unless the doubt is designed.
 - **Short resolution, full consequences.** The resolution after the climax is brief. When a revelation *is* the climax,
   its consequences (anger, blame, a decision, a changed relationship) still need staging before any grace note.
 - **One strategy per secret per stretch.** Mystery and irony can't run on the same secret at once. A narrator or
@@ -339,12 +349,12 @@ Full procedure: `references/translation.md` (template `assets/templates/translat
   "No twist" means no secret-driven plot: let the drama come from what characters face openly.
 - **Templates are thinking tools,** not molds. The heartbreak sequence, beat tables and checklists describe effects to
   check, not beats to hit in order. Every story is its own prototype.
-- **Learn principles from published novels, never copy them.** `references/novel-studies.md` compares fifteen novels
-  read in English and Arabic, by craft problem, and shows contrasting solutions. Don't reuse their plots, characters,
+- **Learn principles from published novels, never copy them.** `references/novel-studies.md` compares twenty-two
+  novels read in English and Arabic, by craft problem, and shows contrasting solutions. Don't reuse their plots, characters,
   signature devices or prose.
 - **A clear scene, a hidden secret.** Restraint and mystery govern meaning, never the reader's grip on events. Keep who,
-  where, when and the link to the previous beat recoverable in every paragraph, and withhold only what the information
-  plan withholds.
+  where, when and the link to the previous beat recoverable wherever the reader needs them, and withhold only what the
+  information plan withholds. Disorientation works as a tool when it is designed and the reader can tell it is meant; it usually works best brief and at one level (`references/clarity-and-orientation.md` §3).
 - **Clarity is not simplicity.** Don't simplify vocabulary, explain subtext or vowel everything to make a text clear.
   Fix orientation, reference and links.
 - **Dark material** (death, grief, crime, cruelty) is fine when it serves meaning. Avoid gratuitousness, and adapt to the
@@ -376,7 +386,7 @@ Full procedure: `references/translation.md` (template `assets/templates/translat
 | Medium specifics: short story, novella, novel, screenplay, short video, games, comics, audio, stage | `references/forms.md` |
 | Diagnosing problems (failure catalogue) | `references/diagnostics.md` |
 | Revising a draft; testing feedback against the text | `references/revision.md` |
-| How fifteen novels read in English and Arabic (plus two openings) solve the same craft problems differently, by function: premise, reveals, inference, time, people, rules, investigation, dread, clarity, register, endings, series, prose | `references/novel-studies.md` |
+| How twenty-two novels read in English and Arabic (plus three openings and a craft book on writing death) solve the same craft problems differently, by function: premise, reveals, inference, time, people, decisive moments and grief, rules, investigation, dread, clarity, register, endings, series, prose | `references/novel-studies.md` |
 | A complete worked example | `references/worked-example.md` |
 | Where these ideas come from | `references/sources.md` |
 | Templates | `assets/templates/`: story-bible, scope-budget, causal-spine, information-plan, clue-ledger, character-dossier, scene-card, doctor-report, revision-checklist, comprehension-log, translation-brief, series-bible |

@@ -122,6 +122,20 @@ Rules:
 - **Knowledge gaps between characters** generate suspense inside a mystery: a searcher who knows less than the culprit
   is in danger; let the audience sometimes know more than the searcher (an audience revelation; see
   information-design.md) and owe them the recognition scene.
+- **Witnesses who may tell only what they saw.** In *The Moonstone*, each narrator is asked "not to present
+  reports, but to produce witnesses". The gaps then come from each narrator's social limits (rank, loyalty,
+  ignorance), not from the author. It costs repetition, and it needs voices strong enough to carry it.
+- **Period and social barriers are fair obstacles.**
+  - Rank stops a search ("I won't, because I won't.").
+  - Servants close ranks, and a gentleman will not follow a stranger.
+  - An outcast's evidence counts for nothing until it is re-enacted (*The Moonstone*).
+
+  The period itself becomes an antagonist (world-and-society.md §4).
+- **Let the reader test the investigator.** Show the investigator's private resolutions and pay them off. Then let
+  the reader set them against his own account of himself (*Bring Up the Bodies*). A plain character's obvious
+  question, left unanswered ("Did he do it before the trial?"), lets the reader draw the conclusion.
+- **A declared secret turns silence into suspense** ("The day will come when you will know why…"; *The Moonstone*).
+  The silence needs a psychological cause, or it reads as the author's delay.
 - **The searcher's flaw bends the investigation:** pride, grief, prejudice or love makes them misread a clue. When the
   flaw is corrected, the clue reads true, so the solution and the inner change land together.
 
@@ -159,6 +173,13 @@ several levels deep, and each payoff can become a new setup.
 - **Pair** each true clue with a plausible misreading (see §7).
 - Prefer clues the audience can **see or hear** directly over clues reported later.
 - Logic is retroactive: you may invent the startling solution first, then go back and plant its evidence (McKee).
+- **A clue model the reader can check** (*The Moonstone*):
+  1. a mundane detail (wet paint on a door) is flagged once;
+  2. its timing is fixed;
+  3. a wrong reading is allowed to pass;
+  4. a test by arithmetic follows, and the reader can do the arithmetic.
+
+  The solution then reuses exact words, objects and rooms the reader has already met.
 
 ## 7. Hiding clues in plain sight
 Craft heuristics for making a clue visible but unremarkable (synthesized from common mystery practice):
@@ -196,6 +217,9 @@ If the audience starts hunting for the payoff the moment a clue appears, the pla
 - **A visible threat as misdirection.** Plant an obstacle the reader is told to fear (patrol ships), then let the plan
   fail through a planted piece of character history instead (an old sailor's illness, *Amarita*). The reader's
   attention was the misdirection. It fails when the real cause was never planted.
+- **A sincere half-truth misleads fairly.** A character who knows part of the truth states it with full conviction.
+  In *The Moonstone*, the heroine's certainty that a man is innocent is true of the taking and false of the keeping.
+  The narration never lies, and the reader is misled by a true statement.
 - **Never lie in the narration** about objective facts. Characters may lie; the storyteller may not (see fair play).
 
 ## 9. Fair play and coincidence
@@ -384,6 +408,9 @@ A solution has to be explained somewhere, and the delivery shapes the feeling.
   consequence for someone (§11; endings.md §10).
 - **Give the explainer a motive of their own.** Vanity, shame, a plea, a bargain. A confession that condemns or
   exposes its speaker works as character. A confession that only supplies mechanics is an appendix.
+- **A document gains scene energy when living listeners interrupt it,** as when a letter is read aloud to the people
+  it concerns. A document read without listeners stalls (*The Moonstone*'s final report, which also holds back the
+  motive's specifics until the end).
 - **Separate explanation and feeling.** The strongest examples deliver the facts in one scene and the emotional
   reaction in a later, smaller one (a rage in a field; a death given three chapters of aftermath).
 
@@ -416,7 +443,13 @@ Sources, from strongest to weakest:
 - it **costs** something;
 - it dies by a discovery that is itself earned, and leaves its own true explanation (§8).
 
-A false lead cleared within a scene of becoming plausible is a delay, not a misdirection. In a short story one well-fed false lead beats two starved ones. A strong false lead often needs a second scene in which it seems confirmed.
+A false lead cleared within a scene of becoming plausible is a delay, not a misdirection. *The Moonstone* gives its false leads lifespans matched to their evidence:
+- the foreign suspects: three hours;
+- a stained petticoat: a day;
+- the detective's theory of the heroine: 236 pages;
+- one lead is killed in four days, then revived as the truth.
+
+A false lead can turn out true. Discovery should cost something too: a servant dies under the inquiry, and a dying man spends his last strength on the experiment that clears the hero. In a short story one well-fed false lead beats two starved ones. A strong false lead often needs a second scene in which it seems confirmed.
 
 **Suspect marking.** In the first quarter of the story, count the markers that point to each person. Markers include:
 - nervous questions about the case;

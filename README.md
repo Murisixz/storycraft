@@ -17,6 +17,14 @@ how they solve the same problems differently. Version 3 adds:
 - an English → Arabic literary translation procedure, built from an audit of a translation that a native reader could
   not follow.
 
+Version 4 adds seven more novels read in full (*The Moonstone*, *Wolf Hall* and *Bring Up the Bodies* in English;
+Kanafani's *Men in the Sun*, Alharthi's *Celestial Bodies* and Mahfouz's *Palace Walk* and *Palace of Desire* in
+Arabic) and Edwidge Danticat's *The Art of Death*. Its central lesson is judgment at turning points. At each decisive
+event, the skill decides when the reader should understand it and which channel fits the point of view and pace: a
+plain line, an unmistakable act, a ritual, a reaction, an announcement, or doubt kept on purpose and labelled. It also
+decides where the loss is registered afterwards. Restraint stays, and so does deliberate ambiguity, while the reader
+keeps hold of what happened.
+
 All of it is rewritten as practical procedures, decision rules, checklists and templates, in the skill's own words,
 not as models to imitate.
 
@@ -70,7 +78,7 @@ skills/storycraft/
 │   ├── forms.md                  # short story, novella, novel, screenplay, short video, games, comics, audio, stage
 │   ├── revision.md               # revision passes, leak audit, testing feedback against the text
 │   ├── diagnostics.md            # failure catalogue (symptom → cause → fix) and doctor procedure
-│   ├── novel-studies.md          # case studies from fifteen novels read in English and Arabic, by craft problem
+│   ├── novel-studies.md          # case studies from twenty-two novels read in English and Arabic, by craft problem
 │   ├── worked-example.md         # an annotated Architect pass on an original short film
 │   └── sources.md                # where the ideas come from, and how each source was accessed
 ├── assets/templates/             # story bible, scope budget, causal spine, information plan, clue ledger, character

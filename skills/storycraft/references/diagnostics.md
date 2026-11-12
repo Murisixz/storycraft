@@ -193,8 +193,13 @@ Extract, in one or two lines each:
 - *"I understand the words but not what's happening"* → accidental uncertainty: links missing at hinges, background
   never given, pronouns resolving to the wrong person → intended-uncertainty list plus a cold read; repair links,
   background and referents first (clarity-and-orientation.md §1–5, §12).
-- *Elegant hinge* → a simile or aphorism stands where the reader needed to learn what changed → state the change;
-  keep the image around it (clarity-and-orientation.md §6).
+- *Elegant hinge* → a simile or aphorism stands where the reader needed to learn what changed → make the change
+  legible (a plain line, an unmistakable act, a primed reaction); keep the image around it (clarity-and-orientation.md
+  §6).
+- *Missed decisive event* → a first reader learns of a death, arrest or departure only later (from a burial, a mourning
+  dress, a changed name), so the scene's consequences played to someone who did not know → decide when the reader
+  should know. Then add the channel that fits the point of view and pace, or label the doubt if it is designed
+  (clarity-and-orientation.md §6). The fix is a channel, not an explanation of feelings.
 - *Translated edition unfollowable* → the translation kept the source's information order and its typographic cues
   (italics, capitals, explicit pronouns, tense) without replacing them → run the translation procedure: source
   analysis, transfer plan, re-anchored drafting, verification passes, cold read (translation.md).

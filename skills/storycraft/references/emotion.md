@@ -100,8 +100,10 @@ Use several of these in the first beats:
 - **Ritual and formulaic language carry feeling** a character can't say:
   - give each fixed phrase a social function (rebuke, comfort, deflection, gratitude), and invert one only at a
     turning point;
-  - at a death, let the culture's own ritual speak (the last words of faith, the funeral formula) without explanation
-    (*Arsis* 1);
+  - at a death, the culture's own ritual can speak without explanation (the whispered creed, the funeral formula;
+    *Arsis* 1). It carries the fact when the reader can read it and it belongs to *after* death, or when the narration
+    frames it as a death. Prompting the dying to say the creed marks dying, not death. When the rite alone might be
+    misread, frame it or pin it with one plain noun or reaction (clarity-and-orientation.md §6.2);
   - a pious formula can be given literal consequences, as when an oath answered with "amen" costs a daughter (*Khawf* 1).
 
   For Arabic formulae, see arabic-writing.md §8.
@@ -114,13 +116,37 @@ Use several of these in the first beats:
   explaining images, speeches about meaning. It doesn't mean compressing events. A montage works in film because each
   image is a lived moment. In prose, a paragraph that summarizes a decade is not a montage; it's a skipped story.
   Stage the moments of choice, confrontation and consequence in full, and keep their emotional statement understated
-  (scene-and-summary.md). Several studied novels leave their most important deaths unnarrated, but only after the
-  people were lived in scene, and with the aftermath staged (novel-studies.md §8).
+  (scene-and-summary.md). Several studied novels leave their most important deaths unnarrated. They do it after the
+  people were lived in scene, with the aftermath staged, and with the fact of the death still secure through an act, a
+  ritual, a frame or a plain line (clarity-and-orientation.md §6; novel-studies.md §8).
 
 ## 6. Shaping the emotional rhythm
 - **Preparation and aftermath** (Howard & Mabley): scenes in which characters and audience brace for, or absorb, a
   major event, often carried by music, atmosphere and image. They don't advance plot; they deepen feeling. After
   intense action, give a quiet beat to absorb it.
+- **Room for consequences after a decisive event is a choice, not a fixed scene.** The question is what the reader
+  should feel next and whose loss it is. The novels studied use these options, often mixed:
+
+  | Option | What it achieves | Works when | Gets in the way when |
+  |---|---|---|---|
+  | **Responses in the scene, one per relationship** | The loss becomes particular, and each response characterizes the survivor. In *Bring Up the Bodies*, Katherine's death draws exultation from her rival, festivity from the king and a lament from her daughter | The people closest are present and the moment can bear the pause | It becomes a roll call with no later consequence |
+  | **The closest person's grief kept private, returned to later** | Respect, and a delayed blow. *The Moonstone* sends the daughter out of the room; after a month's ellipsis her grief shows as changed conduct, then bursts out when someone insults her mother | A later scene really returns to it | Nothing returns, so the loss seems not to matter to her |
+  | **Grief deferred to a fitting occasion** | Fits a guarded character; the delay itself characterizes. In *Wolf Hall* the father weeps alone on All Hallows and lies about why | The reader still remembers the loss | The delay outlasts the reader's memory |
+  | **Aftermath spread across later chapters and voices** | The loss keeps working through the book. *Celestial Bodies* gives a drowning one clause, then the corpse haunts a boy, the widow is called mad, and the daughter flees | The book returns to it more than once | The first mention was too faint to anchor the later returns |
+  | **One lasting habit, avoidance or object** (a beard never shaved; a dead child's wings that keep changing use; "Liz, come down" on the stair; a floor of the house left empty) | Grief proved by behaviour, without restating it | The habit recurs and changes. *Palace of Desire*'s father keeps five years of abstinence after his son's death, then reuses it to absorb a new humiliation | It appears once and is dropped, or its cause is never connected anywhere |
+  | **Grief surfacing as a reflex** in an unrelated quarrel, glossed within the scene | Shows how deep a grief lies, years on. In *Palace of Desire*, a mother's trembling curse on the English is followed four pages later by her own "they killed him" | The jolt and the gloss come close together | The gloss never comes |
+  | **The bereaved written before the death** (*Men in the Sun* gives the generic death notice, "bury him here or there?", before its men die) | The reader supplies the families who cannot be shown | The story's subject is elsewhere, and the template is concrete | The family *is* the story's subject |
+  | **A cut to routine** | The death being absorbed by work and the world. *Wolf Hall* moves from More's death to letters and an itinerary | The cut shows the cost | It reads as indifference |
+  | **A short report for a minor or distant death** (one plain sentence and one personal detail) | Proportion as a statement about how this world values the dead | The reader has not invested in the person | The person mattered. *Wolf Hall*'s late, passing disclosure of the Maid's execution and *Bring Up the Bodies*' one-line George Boleyn read as gaps |
+
+  Two more patterns from *Palace of Desire*. The living use the dead as arguments, shields and warnings, and the
+  reader measures how far mourning has moved. Survivors count time through the dead ("he would be twenty-five"), which
+  is grief's least sentimental arithmetic.
+
+  When the plot must move on quickly (an inquiry, a flight, a battle), readers still look for some sign that the
+  people closest have registered the loss. That can be a beat before the plot moves, a grief that becomes the motive of what
+  follows, or a visible deferral the story keeps. A survivor who goes straight from the death to the next task reads as
+  unmoved unless that is the point.
 - **Preparation by contrast:** before a blow, lift the audience to the opposite emotion ("one of the five best days of
   my life" just before his wife leaves). The bigger the swing, the harder the hit.
 - **Alternate the charge of consecutive scenes** (McKee): three scenes in a row turning the same way (three sad, or
@@ -129,8 +155,9 @@ Use several of these in the first beats:
 - **Alternate tension and release** (McKee): relentless intensity numbs. After each act climax, lower the pressure
   (humor, intimacy), then build higher than before. Slow down at the moment that matters most.
 - **Escalate the swings** between hope and fear across the story (Howard & Mabley).
-- **Give the sad moment time.** A climactic loss scene is long and slow, not skimmed; "earn the pause" by moving faster
-  before it (McKee).
+- **Give the sad moment time** where the story has built to it. A climactic loss scene is usually long and slow, not
+  skimmed; "earn the pause" by moving faster before it (McKee). Some books spend that time on the approach or the
+  aftermath instead: *Men in the Sun* gives six pages to the delay and a page and a half to the deaths.
 - **Carry emotion across a cut:** a matched transition can carry one scene's feeling into the next (Howard & Mabley).
 
 ## 7. Sadness that means something
@@ -178,9 +205,9 @@ compares several).
    control, a truth the character hid even from themselves (see character.md §6).
 6. **Let the audience see what the character can't** (dramatic irony): a half-truth revelation gives the character
    false insight while the audience holds the real one.
-7. **Give the aftermath its weight:** silence where the blow lands, then **consequences**, meaning what the characters
-   now do (blame, refuse, confess, leave, stay, change how they treat each other), and only then, if at all, a final
-   image. An aftermath that is only silence and an image skips the part of grief that is lived.
+7. **Give the aftermath its weight:** some form of **consequence**, meaning what the characters now do (blame, refuse,
+   confess, leave, stay, change how they treat each other). It may come at once, be spread across later scenes, or wait
+   for a fitting occasion (§6). An aftermath that is only silence and an image skips the part of grief that is lived.
 Two more patterns from Howard & Mabley's analyses: **doom from locked opposites** (two characters who can't escape each
 other, with one exit that would satisfy both, destroyed by a deliberate choice: Stanley exposing Blanche to Mitch in
 *A Streetcar Named Desire*); and **downfall through virtue** (the protagonist's best quality causes their destruction,
@@ -222,6 +249,8 @@ as McMurphy's defiance does in *Cuckoo's Nest*).
 - [ ] Does every emotional peak come from a value changing charge, not from mood alone?
 - [ ] Is the central emotion carried by actions, objects and subtext rather than statements?
 - [ ] Are there preparation/aftermath beats around the biggest blows, and at least one preparation by contrast?
+- [ ] After each decisive loss, do the people closest register it in a way specific to the relationship, in this scene
+      or later? Is the choice of where (in the scene, deferred, spread, or a lasting habit) deliberate?
 - [ ] Do consecutive scenes alternate charge, building higher each time?
 - [ ] Is the loss something we watched them love, tied to a choice, and meaningful afterwards?
 - [ ] Does the ending deliver the emotion the story promised, with a lasting image?

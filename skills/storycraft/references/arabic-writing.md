@@ -9,7 +9,11 @@
 
 All of it applies in Arabic, including every lesson drawn from the English-language novels. This file adds what changes when the story is *expressed* in Arabic: narrative voice and register, reference mechanics, dialogue layout, sentence construction, orientation devices, names and vowelling, idiom and formulae, and punctuation. For an Arabic edition of a story written in another language, `translation.md` adds the transfer procedure on top of this file.
 
-The evidence comes from eight Arabic novels read in full (one scan lacks two pages; `sources.md`): the *Khawf* trilogy, *Arsis* 1–2, and *Ard Zikola*, *Amarita* and *Wadi al-Dhi'ab al-Mansiyya*. Their craft lessons are filed by function in the shared references and compared in `novel-studies.md`. These are popular novels with real weaknesses: use them for methods, never as models to imitate, and never reuse their phrases, names or plots.
+The evidence comes from twelve Arabic novels read in full (`sources.md` records editions and gaps):
+- eight popular novels: the *Khawf* trilogy, *Arsis* 1–2, *Ard Zikola*, *Amarita* and *Wadi al-Dhi'ab al-Mansiyya*;
+- four literary novels added in v4: Ghassan Kanafani's *Rijal fi al-Shams* (*Men in the Sun*), Jokha Alharthi's *Sayyidat al-Qamar* (*Celestial Bodies*), and Naguib Mahfouz's *Bayn al-Qasrayn* (*Palace Walk*) and *Qasr al-Shawq* (*Palace of Desire*).
+
+Their craft lessons are filed by function in the shared references and compared in `novel-studies.md`. Every one of them has real weaknesses as well as strengths. Use them for methods, never as models to imitate, and never reuse their phrases, names or plots.
 
 ## Contents
 1. How this layer works with the shared craft
@@ -33,7 +37,7 @@ The evidence comes from eight Arabic novels read in full (one scan lacks two pag
 - **Clarity is not simplicity.** The novels studied use ordinary literary vocabulary and keep readers oriented through structure:
   - a time and place in the first sentence or two of a scene;
   - names or labels on every speaker;
-  - the decisive fact stated plainly at each hinge.
+  - the decisive fact legible at each hinge, through a plain line or an act, ritual or reaction this readership can read (`clarity-and-orientation.md` §6).
 
   Don't simplify vocabulary, explain subtext or vowel everything. Fix orientation, reference and links (`clarity-and-orientation.md` §3–5).
 
@@ -43,14 +47,24 @@ The evidence comes from eight Arabic novels read in full (one scan lacks two pag
 - **an external narrator close to one man,** with clock headers, for a thriller built on dramatic irony (*Arsis*);
 - **a close third person** following a village hero whose colloquial voice is set against a formal other world, for a portal fantasy (*Ard Zikola*).
 
+The version 4 novels add three more:
+- a close third person rotating among three men, then their driver, for a journey toward death (*Men in the Sun*);
+- a roaming third person that moves through a family's minds, with an analytic narrator (*Palace Walk*, *Palace of Desire*);
+- a husband's first-person chapters alternating with third-person family chapters (*Celestial Bodies*).
+
 Decide the narrator's person, distance and register height together, and keep them.
 
-**Narration** in all eight novels is standard Arabic (فصحى), at different heights:
+**Narration** in all twelve novels is standard Arabic (فصحى), at different heights:
 - plain and conversational;
 - plain modern with an authorial voice and aphorisms;
-- simple, fast, popular.
+- simple, fast, popular;
+- ornate and analytic, with long periodic sentences (*Palace Walk*).
 
 Colloquial words in narration should be rare and deliberate.
+
+**Register can signal gravity.** *Palace Walk* never lets dialect into its narrator's voice, and lets it into speech only through formulae, oaths, songs, panic and comedy. The gravest scenes are the plainest: short فصحى fragments and formal religious diction. A colloquial verb in a composed man's thoughts then marks the loss of composure itself. *Celestial Bodies* keeps its narration in فصحى, fences dialect in guillemets, and footnotes proverbs and garments.
+
+**Forms of address mark the moment as well as the relationship.** A son who says «يا بابا» when told he will marry says «يا أبي» when told of his divorce (*Palace Walk*). In *Men in the Sun* the forms of address encode a hierarchy no one states.
 
 **Dialogue: three workable strategies,** all present in the corpus (`novel-studies.md` §14 compares the books):
 
@@ -93,13 +107,17 @@ Colloquial words in narration should be rare and deliberate.
 - **Lookalike names** (ماجد / هاجر) need re-naming at paragraph starts and distinct epithets or action beats (*Khawf 3*).
 - **In reported speech about a third party, repeat the noun at every change of referent.** هو/هي and attached pronouns multiply in indirect speech (*Amarita*'s hardest passage is such a report).
 - **Two minds in one body:** the host's name in the vocative fixes who is who («اهرب يا موسى. موسى لا يراه.», *Wadi al-Dhi'ab*; `viewpoint-and-narration.md` §8).
+- **Role before name, name when needed.** «المرأة», «الأم», «السيد» can carry a character until a scene needs the name. When a second holder of the same role enters, shift one label, so that the mother of a mother becomes «العجوز» (*Palace Walk*).
+- **Labels mark viewpoint, and can mark a death.** The same woman is «امرأة أبيه» from her stepson's side and «امرأة أبيك» in his mother's mouth. A dead woman becomes «المرحومة» (*Palace Walk*). A changed label is a quiet second channel for a fact.
+- **Kinship apposition anchors a new name** («عزان زوج سالمة»; *Celestial Bodies*). Where a family realistically reuses given names, add a generation marker or an epithet each time. Recycled names and an unexplained matronymic are that book's main reference failures.
+- **Fixed epithets** bring the reader back to the present after a memory (*Men in the Sun*).
 - **Arabic forms for tracking the unnamed:**
   - «أحد الثلاثة», «أقرب الحارسين», «الحارس الذي كان يتخذه درعًا» (*Arsis 2*);
   - «أحد الجنود… جنديّ آخر… هو الآخر», with the leader singled out by his gear (*Wadi al-Dhi'ab*);
   - an ordinal («الفقير الأول») or a visible attribute («الرجل الجالس» / «الرجل الواقف») instead of a reused «العجوز» or «الرجل».
 
 ## 4. Dialogue layout
-**Measured across the eight novels** (OCR counts per 1,000 words, approximate; `novel-studies.md` §17):
+**Measured across the eight version 3 novels** (OCR counts per 1,000 words, approximate; `novel-studies.md` §17):
 - Speaker tags placed **before** the line: about 7–14 per 1,000 words.
 - *Khawf 2* and *Khawf 3* use parenthesised speaker labels instead: about 20 per 1,000 words.
 - Tags placed **after** the line, English style («…»، قال): close to zero.
@@ -125,9 +143,12 @@ Colloquial words in narration should be rare and deliberate.
 - **Don't split a line around a tag** («غدًا»، قالت. «في الصباح؟»). Use the action as the introduction.
 - **Speech inside speech** takes inner quotation marks, closed visibly.
 - **A speech that runs over several paragraphs** needs a mark at the start of each continuation: a dash, a vocative, a second-person verb, or a short «وتابع:». An unmarked paragraph reads as narration (*Wadi al-Dhi'ab*).
-- **Keep gestures and new tags outside the dash line.** Narration folded into a quoted line («- لن نعود من هنا، وأشار إلى الباب، ثم أكمل: …») hides where the speech stops (*Amarita*). End the line, narrate the gesture, then open a new dash line.
+- **Keep gestures and new tags outside the dash line.** Narration folded into a quoted line («- لن نعود من هنا، وأشار إلى الباب، ثم أكمل: …») hides where the speech stops (*Amarita*). End the line, narrate the gesture, then open a new dash line. A short stage direction in parentheses is the exception, because the brackets show where speech stops and resumes («- لست حزينًا (ثم باسمًا) …»; *Palace Walk*).
+- **Unspoken thought between spoken lines** can be set as an undashed paragraph between dashed speech (*Palace of Desire*). Tag it when the page may lose its dashes, as a scan or a careless typesetter will.
+- **An unspoken reply** can run as unmarked free direct speech after a short spoken submission. The next spoken line proves it stayed silent: a father's «مالك لا تتكلم؟» after a son's long inner tirade (*Palace Walk*). It is strong once or twice in a book, and it weakens as a habit.
+- **A chorus of five or six voices stays clear** when every line is tagged and each voice keeps its idiom (*Palace Walk*'s coffee hour). Untagged crowd and whisper scenes work only where the idiom alone fixes the speaker.
 - **Other tag forms:** a لـ-clause introduces a reply as a consequence («ليجيبها في غير اكتراث:», *Wadi al-Dhi'ab*); a voice heard from outside the focus can be printed in guillemets first and identified in the next sentence.
-- **Choose one convention per book.** *Arsis* mixes dash and no-dash after a colon and loses some clarity.
+- **Choose one convention per book.** *Arsis* mixes dash and no-dash after a colon and loses some clarity. *Celestial Bodies* shifts between conventions, and *Men in the Sun* lets a four-person car scene run untagged and opens a letter with no mark.
 
 ## 5. Sentence and paragraph construction
 The general rules for sentences at hinges and shocks, and for paragraph hand-offs, are in `prose.md` §5. In Arabic:
@@ -138,8 +159,10 @@ The general rules for sentences at hinges and shocks, and for paragraph hand-off
 - **A shock is one flat, verb-initial sentence,** with no ".." and no exclamation mark (*Khawf 1*).
 - **Routine, then the day that broke it.** Tell routine in habitual imperfects and verbless pairs («نهار شاق بطيء. وليل تهرول ساعاته»), then pivot on a fixed hinge into the singular scene: «ثم جاء ذلك اليوم…» (*Amarita*).
 - **A cognate accusative clinches an image** at a peak: «شاحبة شحوبًا لم أرَ مثيله في حياتي» (*Amarita*).
-- **The لـ-consequence clause** carries a surprise at a turn («لنُفاجأ في اليوم الثامن بما لم يتوقعه أحد», *Wadi al-Dhi'ab*). Four in two pages make it a tic, and so does «لم يكن إلا…» for every identification (*Amarita*).
+- **The لـ-consequence clause** carries a surprise at a turn («لنُفاجأ في اليوم الثامن بما لم يتوقعه أحد», *Wadi al-Dhi'ab*). Four in two pages make it a tic, and so does «لم يكن إلا…» for every identification (*Amarita*), or an interrupter formula such as «وما يدري إلا و…» used about twenty-five times in one book (*Palace Walk*).
 - **Reasoning and decisions in Arabic forms:** «إذا كان… وإذا كان… فـ…»; «جانبٌ منّي يرى… وجانبٌ أكبر يؤيّد…» (*Wadi al-Dhi'ab*; the general rule is in `clarity-and-orientation.md` §5).
+- **A plot fact in a concessive or subordinate clause is easy to miss.** Long periodic sentences built on «على أنّ», «بيد أنّ», «ومع أنّ… إلا أنّ» suit analysis and reverie. A pregnancy, a divorce or a death placed inside one, in a flashback and with no one reacting, slips past (*Palace Walk* has to repeat each one later). When the reader will need the fact, give it its own main clause or a reaction.
+- **Fragments at the extremity.** When a death is narrated from inside, the prose can break into short units and questions. The change of rhythm marks an event the words never name, so the fact needs another channel soon after (`clarity-and-orientation.md` §6.2).
 - **Summaries of long spans:**
   - use concessive-then-consequence frames («على الرغم من… فإنّ… لذا»; popular fiction often writes «بالرغم من… إلا أنّ»);
   - skip to the next event with «لم… إلا عندما» (*Khawf 3*).
@@ -154,6 +177,7 @@ The general devices (first-sentence anchoring, clocks the characters live by, he
 - **The pluperfect clock** sets the time before anyone moves: «كان الليل قد انتصف حين طرق أحدهم الباب» (invented; the pattern opens most scenes in the *Zikola* books).
 - **Clocks in a long summary:** an age clock («في عامي الرابع عشر…») or a day count («في النهار العشرين من…», *Wadi al-Dhi'ab*).
 - **Re-introduce a long-absent character** with a dash parenthesis giving epithet and role («صديقه العجوز - مجنون السرداب -», *Ard Zikola*).
+- **Habit and sound before names,** when one consciousness holds the scene: *Palace Walk* opens at midnight on a habit, places the street by its sounds, and names its heroine twelve pages later. In a crowded scene the same opening would confuse.
 - **Waking, shock or a threshold decision** can be set as a few short centred lines, each adding one coordinate, resolving within five lines (*Khawf 3*).
 
 ## 7. Names, homographs and selective vowelling
@@ -171,6 +195,20 @@ The general devices (first-sentence anchoring, clocks the characters live by, he
   Full vowelling makes adult prose look like a primer.
 - **Use vowelling as a dial.** Leave an ambiguous word bare where the doubt is the point, and vowel it at the moment certainty matters. *Khawf 1* leaves «دينك» (debt or religion) bare when the narrator "could not understand it", and vowels it «دَيْنُك» at the decisive repetition.
 - **Foreign words and loans** go in guillemets or parentheses on first use. A footnote can gloss one period or technical term («قادوس», the hopper of a mill; *Wadi al-Dhi'ab*). A dialect line or folk idiom inside فصحى narration is fenced in guillemets, so the reader sees the register shift. A dialect speaker is glossed on entry, or the فصحى reply carries the meaning (*Khawf 3*).
+- **Unfamiliar terms without stopping the scene.** The v4 novels gloss local and period words in stride, and each method has a different cost (the general method is in `world-and-society.md`):
+  - **use in the same sentence,** which defines a thing by its purpose or motion («بلابيع» by what they fatten; a «حنطور» by its approach; *Palace Walk*);
+  - **a correction in dialogue** («مسكد» corrected to «مسقط»; *Celestial Bodies*);
+  - **a naive question** («وما الفرق؟»; *Men in the Sun*) or a character's ignorance (a wife hears a prince's name for the first time; *Palace Walk*);
+  - **apposition or the next clause,** best kept for status («أكبر تاجر قطن»);
+  - **an office shown by what it does** (the quarter's sheikh carrying orders door to door);
+  - **a rule shown through its exception,** or a purpose clause (*Celestial Bodies*);
+  - **a naive description of a device** before its name (a "strange waterskin" wrapped round the arm and pumped with leather bellows, before the word "pressure"; *Palace of Desire*);
+  - **quotation marks around another person's word,** which also shows how the speaker regards it («شباب "اليوم"»; *Palace of Desire*);
+  - **a delayed or retroactive gloss,** which works when the delay is short (Zeppelin is explained eight pages after the joke; *Palace Walk*);
+  - **a footnote** for proverbs and garments, which interrupts least in a book that uses footnotes throughout (*Celestial Bodies*);
+  - **nothing,** where context makes the word usable («الفلج», «الزار»).
+
+  These fail when a word the plot turns on is left unexplained: a status word glossed 160 pages late («البيدار»; *Celestial Bodies*). They also fail when a real name carries weight that outsiders cannot know, as with Dinshaway in *Palace Walk*. A character's reaction can carry that weight without a gloss.
 
 ## 8. Idiom, formulae and figurative language
 The general uses of ritual language and of sentence-level fear are in `emotion.md` §5 and `horror.md` §6. In Arabic:
@@ -179,7 +217,26 @@ The general uses of ritual language and of sentence-level fear are in `emotion.m
   - comfort («كان الله في عونها»);
   - deflection («هداكم الله»).
 
-  Invert one only at a turning point. At a death, use the ritual itself (the talqin, the shahada, «البقاء لله») without explaining it (*Arsis*).
+  Invert one only at a turning point. Change a formula's ending to turn a scene: «الحمد لله» after a safe birth becomes «الحمد لله على كل حال» when something has gone wrong (*Palace Walk*).
+- **At a death, sort formulae and customs by what they tell the reader.** A ritual can speak without explanation when it tells *this* reader what happened (*Arsis*). The general choice of channel is in `clarity-and-orientation.md` §6.2.
+  - **Rituals of dying** mark dying, not death. Prompting the dying to say the shahada (تلقين المحتضر) or a last recitation leaves open when, or whether, death came. The talqin at the grave after burial, where it is practised, belongs to after death.
+  - **Acts and words that follow a death** are unmistakable to a reader who knows them: «إنا لله وإنا إليه راجعون» (also said at other calamities, so it is clearest beside a noun), «الله يرحمه», «البقاء لله», «المرحوم/المرحومة», «فارق الحياة», closing the eyes, covering the face, the wail heard from outside, condolences, washing and the shroud (*Celestial Bodies*; *Palace Walk*).
+  - **A formal announcement** («ننعى إليكم…»; «استشهد») is unmistakable to anyone (*Palace Walk*).
+  - **A condolence that is itself the announcement** («العمر الطويل لك») states the fact only to readers who know the formula. *Palace Walk* prepares it with the illness and pairs it with a lowered head.
+  - **A mercy formula dropped into other talk** («رحمه الله» inside a smuggler's pitch) is the only sign of a past death in *Men in the Sun*. A reader who skims it as filler misses the death. A formula carries a fact only for a reader who reads it as information.
+  - **A heralding formula read by the listener** («ربنا يلهمك الصبر!» answered by «الصبر؟.. علامَ؟») lets the bereaved understand on the page, and the reader with them (*Palace Walk*).
+  - **Euphemisms are ambiguous:** «راح», «رحل», «ذهب», «انطفأ». *Men in the Sun* uses «راح» of a brother who is alive. Pin a euphemism with a ritual noun or a mourning act in the same paragraph («العزاء والدموع»; *Celestial Bodies*).
+  - **Consolation and fatalism** («اصبر»; «الأعمار بيد الله») mark feeling and frame, not fact.
+  - **A noun can carry the change:** الجسد becomes الجثة once the narration knows (*Men in the Sun*). A name becomes «المرحوم».
+  - **An honorific in passing** («المرحوم فلان») is enough for a minor figure. It is too little for a main character's parent, who needs at least one plain clause (*Palace of Desire*).
+  - **Each survivor's word for the dead** can encode the relationship: «مصرع», «المرحوم», «المرحوم» in guillemets, «الشهيد» (*Palace of Desire*).
+  - **Death-watch formulae** carry near-certainty while the outcome stays open: «ادع بالرحمة للكبار», said over the sick, is the prayer for the dead (*Palace of Desire*).
+  - **Euphemisms of illness** («إن عدوك راقد»; a family's «حادث») show how danger is handled socially. The doctor's plain word can follow (*Palace of Desire*).
+  - **An aposiopesis** (". .") placed exactly where the dead son's name would fall marks the wound without narration (*Palace of Desire*).
+  - **The plain verb in a character's mouth** («مات… حقًا»; «ابننا قُتل») is often where acceptance happens. It can follow an implied moment within a page (*Palace Walk*).
+  - **A formula is a weak sole carrier in a book that uses formulae in jest and courtesy** elsewhere. Add a sound, a gesture or a plain verb (*Palace Walk*).
+  - **Ritual withheld or inverted at a death** (prayers turned to curses, a grave refused) reads as a verdict, but only when the book gave ritual to earlier deaths (*Men in the Sun*).
+  - **Show mourning customs as practice and dispute,** not explanation: who may wail and who may not, men's rites against women's, nights of the wake, Friday visits to the grave, black clothing (*Palace Walk*). A custom stated as a rule that binds explains behaviour without a lecture: the dead must be buried first, so no one consoles the son at the hospital (*Celestial Bodies*).
 - **Fear in Arabic sentence forms** (the techniques themselves are in `horror.md` §6):
   - the hedge «رأيت، أو خُيّل إليّ أنّي رأيت..»;
   - escalation by «بل» ("by the tens, rather the hundreds"), then a short sentence of absence;
@@ -211,7 +268,7 @@ The general uses of ritual language and of sentence-level fear are in `emotion.m
 6. **Draft scene by scene:**
    - a first sentence or two with time, place, cast and action;
    - verb-first events;
-   - each hinge stated literally;
+   - each hinge legible: decide when the reader should know and which channel carries it (`clarity-and-orientation.md` §6);
    - one enigmatic signal per beat.
 7. **Passes,** in the canonical order of `clarity-and-orientation.md` §12:
    1. links at hinges;
@@ -238,6 +295,9 @@ Invented examples; "Before" shows the failure, "After" the repair.
 | English-style tags in a group scene | «لن ننتظره»، قالت سلمى. «بل ستنتظرانه»، قال الأب. | قالت سلمى: / - لن ننتظره. / فرفع الأب رأسه عن الجريدة: / - بل ستنتظرانه. |
 | Lecture-like فصحى banter | - إنّني أرى أنّ تأخّرك المتكرّر يعود إلى ازدحام الطرقات في هذه الساعة. | - تأخّرتَ. / - الزحام. / - كلّ يوم؟ |
 | Method hidden but the result vague | فعل الشيخ ما يلزم فتحسّنت حالتها. | لن أذكر ما قرأه الشيخ عليها تلك الليلة، لكنّها نامت حتى الظهر لأوّل مرّة منذ شهر. |
+| A euphemism with nothing to pin it | وفي الصباح كان العمّ حمدان قد راح. | وفي الصباح كان العمّ حمدان قد راح، وغسّلوه قبل الظهر. |
+| A ritual of dying left to carry the death | جلست الممرّضة قرب الجدّة طوال الليل تلقّنها الشهادة. | جلست الممرّضة قرب الجدّة طوال الليل تلقّنها الشهادة. وقبيل الفجر أغمضت عينيها وسحبت الغطاء على وجهها. |
+| A plot fact buried in a clause | وتذكّر صبرها على أمّه، وقد صارت حاملًا منذ الشتاء، صبرًا لا يقدر عليه أحد. | كانت حاملًا منذ الشتاء. وتذكّر صبرها على أمّه، صبرًا لا يقدر عليه أحد. |
 | Dialect paragraph unreadable outside its region | (three lines of dense dialect carrying a plot fact) | Put the plot fact in narration or in فصحى; keep one dialect token for colour. |
 
 ## 12. Checklist
@@ -248,7 +308,7 @@ Invented examples; "Before" shows the failure, "After" the repair.
 - [ ] One dialogue convention (tags before the line, or labels). No English-style tags after the line in group scenes. Attribution frequency per `clarity-and-orientation.md` §7.
 - [ ] Every scene's first sentence or two give time, place, cast and a first action. Flashbacks are marked in and out.
 - [ ] Every pronoun and omitted subject checked against the nearest-person rule.
-- [ ] Each hinge has a short, literal clause for its decisive fact; one enigmatic signal per beat.
+- [ ] Each hinge is legible for this readership: a plain clause, or an act, ritual noun or reaction that settles the fact. Euphemisms and rituals of dying are pinned by a second channel, unless the doubt is designed and labelled. One enigmatic signal per beat.
 - [ ] Homographs near plot words settled. Selective vowelling only.
 - [ ] Punctuation budget chosen (".." and "!") to suit the register.
 - [ ] Cold read logged, with every accidental stumble fixed.

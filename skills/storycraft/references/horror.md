@@ -90,7 +90,7 @@ These hold in any language. The Arabic forms (the hedge, the escalating «بل»
 - **An ending can invert the opening's terror** with the same objects (the lamp, the axe, the fangs) and a new rule:
   "it will not harm us unless we harm it" (*Wadi al-Dhi'ab*). Terror becomes trust.
 - **Leave residue:** a mark that stays, a name the reader is asked to remember, a door that might open again. *Khawf 2* extends the story's price to whoever reads the victim's name. That works only because the price was set inside the story first.
-- **Give each major death its weight:** a scene; or, if the death itself stays unnarrated, a life fully staged before and an aftermath staged after (novel-studies.md §8). Two principal deaths in one line each, with neither (*Khawf 1*), feel like bookkeeping.
+- **Weigh each major death by its place in the story.** A death on the page, a death withheld but secured by a frame or ritual, and a death announced in advance all work when the reader knows it happened (or knows that the doubt is meant), and the loss is lived somewhere: before it, in the scene, or after (clarity-and-orientation.md §6; emotion.md §6). Horror often withholds the moment and spends its pages on the approach. *Men in the Sun* gives six pages to the delay and one and a half to the death, and the reader is never unsure. Two principal deaths in one line each, with neither a life behind them nor any aftermath (*Khawf 1*), feel like bookkeeping.
 
 ## 9. Failure patterns and repairs
 | Pattern | Symptom | Repair |

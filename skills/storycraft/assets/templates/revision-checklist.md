@@ -50,6 +50,8 @@ scene, count) for every "no".
 - [ ] The settlement is proportionate to the loss or deception (time, cost, partialness).
 - [ ] Tidiness tally: something honest stays open.
 - [ ] At least one consequence scene after the main revelation shows a costly choice (in long forms; a short form may end on the recognition).
+- [ ] After each decisive loss, the people closest register it somewhere: in the scene, later, spread across scenes, or
+      in a lasting habit. The choice fits their relationship and the viewpoint (`references/emotion.md` §6).
 - [ ] Closure density: one or two returning motifs at most in the last two scenes.
 - [ ] A broken primary relationship gets a scene, including the overridden person's response.
 
@@ -65,6 +67,8 @@ scene, count) for every "no".
 ## 10. Clarity (cold read)
 - [ ] Intended-uncertainty list written: what the reader must not yet know, may suspect, should infer and must have clear, stage by stage.
 - [ ] Cold read logged (`comprehension-log`): no accidental stumble of moderate or serious severity remains, and no "should infer" item was fixed by stating it.
-- [ ] Every hinge passes the "what changed?" test; every scene opening orients within two or three sentences.
+- [ ] At every turning point a first-time reader knows what changed by the point the plan intends (cold-read
+      "Turning points" table). Any doubt there is designed and labelled. Every scene opening orients within two or
+      three sentences.
 - [ ] For a translated edition: each stumble classified as source, translation, or uncompensated source gap, and
       fixed (`references/translation.md`).

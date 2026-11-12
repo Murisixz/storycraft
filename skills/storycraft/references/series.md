@@ -46,6 +46,16 @@ A series has to do two jobs at once. Each volume must be a complete experience, 
   the last line).
 - **A hook must arise from a consequence or choice in this volume,** never from a scene withheld only to sell the next
   book.
+- **End at the threshold of an aftermath.** *Palace Walk* closes as a father opens the door to a child's singing,
+  before the household learns that a son has died. The whole aftermath passes to the next volume at full charge, and
+  the last image reads ironically. It works in a series. A standalone book that ends this way withholds what its
+  reader needs.
+- **Leave private outcomes open under near-certain signs, beside a public event stated plainly.** *Palace of Desire*
+  ends with three sick men under death-watch formulae while a national leader's death is announced by a newsboy. The
+  contrast sharpens both and hands the grief on. It fails for a reader without the next volume.
+- **Finish the volume's own case first,** then state the protagonist's danger as a possibility ("I may vanish before
+  the ink is dry"; *Bring Up the Bodies*). Or end on a decision that names the next volume's first setting (*Wolf
+  Hall*).
 - **End on concrete images set side by side, and don't state their link.** In *Amarita*, a woman sees a lone star from
   another country, a man wakes uneasy, a waiting ship sails, and the reader writes the question. Such a hook should
   not undo the resolution just reached.
@@ -69,6 +79,22 @@ Returning readers need to remember, and new readers need to follow. Methods, bes
   first payment), so the rules are felt rather than recalled (*Amarita*). Every *Zikola* volume teaches its passage
   between worlds through someone crossing it for the first time, the last a sceptical palaeontologist whose disbelief
   turns the recap into discovery. It fails when the newcomer only repeats the first book's beats.
+- **Recap the dead in stages:** names first, then the bare fact, then the day of dying, then the cause (*Bring Up the
+  Bodies*). Each stage is news to a new reader and recognition to a returning one. Delivered through hostile, gossiping
+  or grieving voices and through objects, the recap stays inside scenes. Its costs there: an early block of recap, and
+  a cast list that spoils the end.
+- **After a death at the end of a volume, the next may skip the telling and open in settled aftermath** (*Palace of
+  Desire*, five years on). Habits and changed bodies prove time and grief at once:
+  - an empty floor;
+  - a ritual moved to another room;
+  - grey hair from a mourning year.
+
+  Show the absence inside an unchanged ritual first, then state the death plainly within a few pages. The returning
+  reader feels it, and the new reader gets the fact. The cost is that the scene the earlier volume withheld is never
+  paid out. And any later grief trigger that depends on a fact only the earlier volume gave needs that link stated
+  once.
+- **Earlier deaths can return as honorifics** for minor figures. A main character's parent needs one plain clause, or a
+  new reader meets the death as an adjective.
 - **Echo the series' opening image** (the same night sky, the same refrain) to signal continuity before any fact.
 - **Keep a summary for new readers to one paragraph.**
 
@@ -90,6 +116,10 @@ emotional weight? Both are needed.
   memory of a key night that contradicts volume 1 and never resolves it. Readers notice.
 - **Slips** (ages, timetables, who carried which weapon, a "diplomat" never followed up) accumulate across volumes. Run
   the continuity pass against the bible, not memory.
+- **Keep every death in the bible:** who, when, how, who knows, and which volume states it. *Wolf Hall* and *Bring Up
+  the Bodies* give different years for the protagonist's daughters' deaths. If one volume elides a death (an execution
+  scheduled but never stated), decide whether a later volume will confirm it, or a reader of one volume may never learn
+  it happened.
 - **Readers notice small human facts more than cosmology.** A friend's children, a heroine's father and a brother's age
   each contradict between *Khawf* volumes. *Zikola* keeps bodies, ages, families and routes strict across three
   volumes and bends institutions (a gate calendar, statues, a "destroyed" city) whenever a plot needs a door. Readers
@@ -133,6 +163,16 @@ emotional weight? Both are needed.
 - **Carry a death between volumes in an object or a name, and give a new reader one line that states it.** *Wadi
   al-Dhi'ab* names the hero's son after the friend killed in volume 2 and never says that the friend died: the
   returning reader hears grief, a new reader hears a name.
+- **Let grief change action across volumes.** In *Bring Up the Bodies*, a dead daughter's costume wings go to her
+  shroud, then become a tool of terror, then look tawdry. A humiliation suffered in volume 1 selects the victims of
+  volume 2: four men who mocked a fallen patron in a court entertainment become the accused.
+- **Echo an earlier volume's death technique at a later crisis and change the outcome.** *Palace of Desire* narrates a
+  father's collapse exactly as *Palace Walk* narrated a son's death: from inside, then a chapter break, then the next
+  page. The returning reader's fear is the suspense, for one page, and the man lives.
+- **Let survivors carry the disclosure.** When a later volume revisits a death, release the facts through survivors,
+  each with their own word for it, so the death stays someone's rather than the narrator's (*Palace of Desire*).
+- **A dead character can keep developing** when a later volume adds a fact that changes their moral meaning (*Bring Up
+  the Bodies* recasts the protagonist's violent father).
 - **Close the great love on stage, not in a report.** *Amarita* gives its lovers a scene of choice; *Wadi al-Dhi'ab*
   reduces the heroine's marriage to a summary, and the central couple never meets again.
 
@@ -210,6 +250,7 @@ emotional weight? Both are needed.
 | The unresolved contradiction | a recap contradicts an earlier volume | own it as testimony and resolve it, or fix it |
 | The repeated convenience | the same shortcut in two volumes | vary the obstacle; dramatize the lever |
 | The lost voice | dialect or register warmth disappears between volumes | keep register plans in the bible |
+| The disputed dead | a death's date, cause or very occurrence differs between volumes, or a death never stated in one volume is assumed in the next | a death log in the bible; confirm elided deaths where a one-volume reader needs them |
 | The rescue from outside | a late power resolves the series | resolve with established rules and the hero's choice |
 
 ## 13. Checklist
